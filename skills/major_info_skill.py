@@ -1,26 +1,41 @@
-import openpyxl
-import os
+import re
 
-DATA_DIR = '/Users/lingziyang/Desktop/Gaokao/安徽'
+from .data_utils import clean_text, read_rows
+
+
+MAJOR_INTRO_FILE = "4_专业信息/专业介绍及薪酬表.xlsx"
+MAJOR_BASIC_FILE = "4_专业信息/专业基本介绍.xlsx"
+MAJOR_RANKING_FILE = "4_专业信息/专业排名信息.xlsx"
+MAJOR_EMPLOYMENT_FILE = "4_专业信息/专业就业信息.xlsx"
+MAJOR_SATISFACTION_FILE = "4_专业信息/专业满意度.xlsx"
 
 class MajorInfoSkill:
     @staticmethod
+    def _parse_employment_rate(value):
+        text = clean_text(value)
+        if not text:
+            return None
+        ranges = re.findall(r"(\d+(?:\.\d+)?)%\s*-\s*(\d+(?:\.\d+)?)%", text)
+        if ranges:
+            low, high = ranges[-1]
+            return (float(low) + float(high)) / 2
+        values = re.findall(r"(\d+(?:\.\d+)?)%", text)
+        return float(values[-1]) if values else None
+
+    @staticmethod
     def get_major_intro(major_name=None):
         """获取专业介绍"""
-        file_path = os.path.join(DATA_DIR, '4_专业信息/专业介绍及薪酬表.xlsx')
         try:
-            wb = openpyxl.load_workbook(file_path, read_only=True)
-            ws = wb[wb.sheetnames[0]]
-            
             data = []
-            for row in ws.iter_rows(values_only=True):
-                if row[0] is not None and row[4] is not None:
-                    if major_name and major_name not in str(row[4]):
-                        continue
-                    data.append(row)
-                    if len(data) >= 5:
-                        break
-            
+            for row in read_rows(MAJOR_INTRO_FILE):
+                major = clean_text(row.get("专业"))
+                if not major:
+                    continue
+                if major_name and major_name not in major:
+                    continue
+                data.append(row)
+                if len(data) >= 5:
+                    break
             return data
         except Exception:
             return []
@@ -28,39 +43,30 @@ class MajorInfoSkill:
     @staticmethod
     def get_major_basic_info(major_name=None):
         """获取专业基本信息（核心课程、就业去向等）"""
-        file_path = os.path.join(DATA_DIR, '4_专业信息/专业基本介绍.xlsx')
         try:
-            wb = openpyxl.load_workbook(file_path, read_only=True)
-            ws = wb[wb.sheetnames[0]]
-            
-            headers = next(ws.iter_rows(values_only=True))
-            
-            for row in ws.iter_rows(values_only=True):
-                if row[0] is not None:
-                    if major_name and major_name not in str(row[3]):
-                        continue
-                    
-                    info = {}
-                    for i, header in enumerate(headers):
-                        if i < len(row):
-                            info[str(header)] = row[i]
-                    
-                    return {
-                        '专业名称': info.get('专业名称'),
-                        '学科门类': info.get('学科门类'),
-                        '专业类': info.get('专业类'),
-                        '修业年限': info.get('修业年限'),
-                        '授予学位': info.get('授予学位'),
-                        '选考建议': info.get('选考（学科）建议'),
-                        '就业率': info.get('就业率'),
-                        '专业是什么': str(info.get('专业是什么'))[:200] if info.get('专业是什么') else None,
-                        '专业学什么': str(info.get('专业学什么'))[:300] if info.get('专业学什么') else None,
-                        '专业干什么': str(info.get('专业干什么'))[:200] if info.get('专业干什么') else None,
-                        '就业去向': str(info.get('就业去向'))[:300] if info.get('就业去向') else None,
-                        '就业地区分布': info.get('就业地区分布'),
-                        '就业行业分布': info.get('就业行业分布'),
-                        '就业岗位分布': info.get('就业岗位分布')
-                    }
+            for info in read_rows(MAJOR_BASIC_FILE):
+                major = clean_text(info.get("专业名称"))
+                if not major:
+                    continue
+                if major_name and major_name not in major:
+                    continue
+                return {
+                    '专业名称': info.get('专业名称'),
+                    '学科门类': info.get('学科门类'),
+                    '专业类': info.get('专业类'),
+                    '修业年限': info.get('修业年限'),
+                    '授予学位': info.get('授予学位'),
+                    '选考建议': info.get('选考（学科）建议'),
+                    '就业率': info.get('就业率'),
+                    '就业率估计': MajorInfoSkill._parse_employment_rate(info.get('就业率')),
+                    '专业是什么': str(info.get('专业是什么'))[:200] if info.get('专业是什么') else None,
+                    '专业学什么': str(info.get('专业学什么'))[:300] if info.get('专业学什么') else None,
+                    '专业干什么': str(info.get('专业干什么'))[:200] if info.get('专业干什么') else None,
+                    '就业去向': str(info.get('就业去向'))[:300] if info.get('就业去向') else None,
+                    '就业地区分布': info.get('就业地区分布'),
+                    '就业行业分布': info.get('就业行业分布'),
+                    '就业岗位分布': info.get('就业岗位分布')
+                }
         except Exception:
             pass
         
@@ -69,19 +75,16 @@ class MajorInfoSkill:
     @staticmethod
     def get_major_ranking(major_name=None):
         """获取专业排名"""
-        file_path = os.path.join(DATA_DIR, '4_专业信息/专业排名信息.xlsx')
-        wb = openpyxl.load_workbook(file_path, read_only=True)
-        ws = wb[wb.sheetnames[0]]
-        
         data = []
-        for row in ws.iter_rows(values_only=True):
-            if row[0] is not None:
-                if major_name and major_name not in str(row[0]):
-                    continue
-                data.append(row)
-                if len(data) >= 15:
-                    break
-        
+        for row in read_rows(MAJOR_RANKING_FILE):
+            major = clean_text(row.get("专业名称"))
+            if not major:
+                continue
+            if major_name and major_name not in major:
+                continue
+            data.append(row)
+            if len(data) >= 15:
+                break
         return data
     
     @staticmethod
@@ -94,15 +97,14 @@ class MajorInfoSkill:
         
         rankings = []
         for row in raw_data:
-            if len(row) >= 4:
-                school = str(row[2]) if len(row) > 2 else '未知'
-                rank = row[1] if isinstance(row[1], (int, float)) else 'N/A'
-                level = str(row[3]) if len(row) > 3 else 'N/A'
-                rankings.append({
-                    'school': school,
-                    'rank': rank,
-                    'level': level
-                })
+            school = clean_text(row.get('学校名称'), '未知')
+            rank = row.get('排名', 'N/A')
+            level = clean_text(row.get('评级'), 'N/A')
+            rankings.append({
+                'school': school,
+                'rank': rank,
+                'level': level
+            })
         
         top_schools = [r['school'] for r in rankings[:5]]
         a_level_count = sum(1 for r in rankings if 'A' in r['level'])
@@ -118,37 +120,29 @@ class MajorInfoSkill:
     @staticmethod
     def get_major_employment(major_name=None):
         """获取专业就业信息"""
-        file_path = os.path.join(DATA_DIR, '4_专业信息/专业就业信息.xlsx')
-        wb = openpyxl.load_workbook(file_path, read_only=True)
-        ws = wb[wb.sheetnames[0]]
-        
         data = []
-        for row in ws.iter_rows(values_only=True):
-            if row[0] is not None:
-                if major_name and major_name not in str(row[0]):
-                    continue
-                data.append(row)
-                if len(data) >= 5:
-                    break
-        
+        for row in read_rows(MAJOR_EMPLOYMENT_FILE):
+            row_text = "".join(clean_text(value) for value in row.values())
+            if major_name and major_name not in row_text:
+                continue
+            data.append(row)
+            if len(data) >= 5:
+                break
         return data
     
     @staticmethod
     def get_major_satisfaction(major_name=None):
         """获取专业满意度"""
-        file_path = os.path.join(DATA_DIR, '4_专业信息/专业满意度.xlsx')
-        wb = openpyxl.load_workbook(file_path, read_only=True)
-        ws = wb[wb.sheetnames[0]]
-        
         data = []
-        for row in ws.iter_rows(values_only=True):
-            if row[0] is not None:
-                if major_name and major_name not in str(row[0]):
-                    continue
-                data.append(row)
-                if len(data) >= 5:
-                    break
-        
+        for row in read_rows(MAJOR_SATISFACTION_FILE):
+            major = clean_text(row.get("专业名称"))
+            if not major:
+                continue
+            if major_name and major_name not in major:
+                continue
+            data.append(row)
+            if len(data) >= 5:
+                break
         return data
     
     @staticmethod
@@ -200,27 +194,22 @@ class MajorInfoSkill:
     @staticmethod
     def get_major_salary_info(major_name=None):
         """获取专业薪酬信息"""
-        file_path = os.path.join(DATA_DIR, '4_专业信息/专业介绍及薪酬表.xlsx')
-        wb = openpyxl.load_workbook(file_path, read_only=True)
-        ws = wb[wb.sheetnames[0]]
-        
         data = []
-        for row in ws.iter_rows(values_only=True):
-            if row[0] is not None and row[4] is not None:
-                if major_name and major_name not in str(row[4]):
-                    continue
-                
-                salary_info = {}
-                salary_info['专业名称'] = row[4]
-                for i, val in enumerate(row):
-                    if isinstance(val, (int, float)) and val > 1000:
-                        salary_info[f'薪酬{i}'] = val
-                
-                if salary_info:
-                    data.append(salary_info)
-                    if len(data) >= 5:
-                        break
-        
+        for row in read_rows(MAJOR_INTRO_FILE):
+            major = clean_text(row.get("专业"))
+            if not major:
+                continue
+            if major_name and major_name not in major:
+                continue
+            salary_info = {
+                '专业名称': major,
+                '薪资': row.get('薪资'),
+                '学科门类': row.get('学科门类'),
+                '一级学科': row.get('一级学科'),
+            }
+            data.append(salary_info)
+            if len(data) >= 5:
+                break
         return data
     
     @staticmethod
@@ -233,7 +222,7 @@ class MajorInfoSkill:
         factors = []
         
         if basic_info:
-            employment_rate = basic_info.get('就业率')
+            employment_rate = basic_info.get('就业率估计')
             if employment_rate and isinstance(employment_rate, (int, float)) and employment_rate >= 90:
                 popularity_score += 25
                 factors.append('就业率高')
@@ -293,7 +282,7 @@ class MajorInfoSkill:
         risk_score = 0
         factors = []
         
-        employment_rate = major_basic_info.get('就业率') if major_basic_info else None
+        employment_rate = major_basic_info.get('就业率估计') if major_basic_info else None
         if employment_rate and isinstance(employment_rate, (int, float)):
             if employment_rate >= 90:
                 risk_score += 30

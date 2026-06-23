@@ -1,6 +1,7 @@
 import openpyxl
 import xlrd
 import os
+from .data_utils import clean_text, read_rows
 
 DATA_DIR = '/Users/lingziyang/Desktop/Gaokao/安徽'
 
@@ -113,19 +114,16 @@ class SchoolInfoSkill:
         c_count = 0
         
         for row in discipline_data:
-            if len(row) > 3:
-                discipline_name = str(row[3]) if len(row) > 3 else ''
-                level = str(row[2]) if len(row) > 2 else ''
-                
-                if any(md in discipline_name for md in medical_disciplines):
-                    found_disciplines.append(f"{discipline_name}: {level}")
-                    
-                    if 'A' in level:
-                        a_count += 1
-                    elif 'B' in level:
-                        b_count += 1
-                    elif 'C' in level:
-                        c_count += 1
+            discipline_name = clean_text(row.get('专业类'))
+            level = clean_text(row.get('评估结果'))
+            if any(md in discipline_name for md in medical_disciplines):
+                found_disciplines.append(f"{discipline_name}: {level}")
+                if 'A' in level:
+                    a_count += 1
+                elif 'B' in level:
+                    b_count += 1
+                elif 'C' in level:
+                    c_count += 1
         
         strength_level = '强' if a_count >= 2 else '较强' if b_count >= 2 else '一般'
         
@@ -222,21 +220,17 @@ class SchoolInfoSkill:
     @staticmethod
     def get_discipline_evaluation(school_name=None, discipline=None):
         """获取学科评估结果"""
-        file_path = os.path.join(DATA_DIR, '5_参考数据/第四轮学科评估.xlsx')
-        wb = openpyxl.load_workbook(file_path, read_only=True)
-        ws = wb[wb.sheetnames[0]]
-        
         data = []
-        for row in ws.iter_rows(values_only=True):
-            if row[0] is not None:
-                if school_name and school_name not in str(row[-1]):
-                    continue
-                if discipline and discipline not in str(row[2]):
-                    continue
-                data.append(row)
-                if len(data) >= 15:
-                    break
-        
+        for row in read_rows('5_参考数据/第四轮学科评估.xlsx'):
+            if not clean_text(row.get('学校名称')):
+                continue
+            if school_name and school_name not in clean_text(row.get('学校名称')):
+                continue
+            if discipline and discipline not in clean_text(row.get('专业类')):
+                continue
+            data.append(row)
+            if len(data) >= 15:
+                break
         return data
     
     @staticmethod
@@ -253,17 +247,15 @@ class SchoolInfoSkill:
         discipline_list = []
         
         for row in disciplines:
-            if len(row) > 2:
-                level = str(row[2])
-                discipline_name = str(row[3]) if len(row) > 3 else '未知'
-                discipline_list.append(f"{discipline_name}: {level}")
-                
-                if 'A' in level:
-                    a_count += 1
-                elif 'B' in level:
-                    b_count += 1
-                elif 'C' in level:
-                    c_count += 1
+            level = clean_text(row.get('评估结果'))
+            discipline_name = clean_text(row.get('专业类'), '未知')
+            discipline_list.append(f"{discipline_name}: {level}")
+            if 'A' in level:
+                a_count += 1
+            elif 'B' in level:
+                b_count += 1
+            elif 'C' in level:
+                c_count += 1
         
         return {
             'school': school_name,

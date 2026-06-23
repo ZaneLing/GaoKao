@@ -1,6 +1,7 @@
 import openpyxl
 import xlrd
 import os
+from .data_utils import clean_text, read_rows
 
 DATA_DIR = '/Users/lingziyang/Desktop/Gaokao/安徽'
 
@@ -115,17 +116,12 @@ class ReferenceDataSkill:
     @staticmethod
     def get_discipline_evaluation_summary():
         """获取学科评估汇总"""
-        file_path = os.path.join(DATA_DIR, '5_参考数据/第四轮学科评估.xlsx')
-        wb = openpyxl.load_workbook(file_path, read_only=True)
-        ws = wb[wb.sheetnames[0]]
-        
         level_counts = {'A+': 0, 'A': 0, 'A-': 0, 'B+': 0, 'B': 0, 'B-': 0, 'C+': 0, 'C': 0, 'C-': 0}
-        
-        for row in ws.iter_rows(values_only=True):
-            if row[0] is not None and len(row) > 2:
-                level = str(row[2])
-                if level in level_counts:
-                    level_counts[level] += 1
+
+        for row in read_rows('5_参考数据/第四轮学科评估.xlsx'):
+            level = clean_text(row.get('评估结果'))
+            if level in level_counts:
+                level_counts[level] += 1
         
         total = sum(level_counts.values())
         return {

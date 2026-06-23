@@ -74,14 +74,15 @@ class GaokaoAgent:
             return "无数据"
         if isinstance(data[0], dict):
             headers = list(data[0].keys())
+            rows = [[item.get(header, "") for header in headers] for item in data]
         else:
             headers = data[0]
-            data = data[1:]
+            rows = data[1:]
         
         col_widths = []
         for i in range(len(headers)):
             max_len = len(str(headers[i]))
-            for row in data:
+            for row in rows:
                 if isinstance(row, (list, tuple)) and i < len(row):
                     max_len = max(max_len, len(str(row[i])))
             col_widths.append(max_len + 2)
@@ -89,7 +90,7 @@ class GaokaoAgent:
         result = "| " + " | ".join(str(h).ljust(w-2) for h, w in zip(headers, col_widths)) + " |\n"
         result += "|-" + "-|-".join("-"*(w-2) for w in col_widths) + "-|\n"
         
-        for row in data:
+        for row in rows:
             if isinstance(row, (list, tuple)):
                 row_str = []
                 for i, w in enumerate(col_widths):
@@ -239,6 +240,11 @@ class GaokaoAgent:
                     'params': params,
                     'result': result
                 }
+                if (
+                    isinstance(result, list)
+                    and any(isinstance(item, dict) and item.get('level') in ['冲', '稳', '保'] for item in result)
+                ):
+                    self.raw_data_store['recommendations'] = result
                 
                 if isinstance(result, list) and len(result) > 0:
                     formatted_result = self.format_table(result)
@@ -372,6 +378,10 @@ class MultiAgentSystem:
             for key, value in self.all_raw_data.items():
                 if isinstance(value, list):
                     for item in value:
+                        if isinstance(item, dict) and item.get('level') in ['冲', '稳', '保']:
+                            recommendations.append(item)
+                elif isinstance(value, dict) and isinstance(value.get('result'), list):
+                    for item in value['result']:
                         if isinstance(item, dict) and item.get('level') in ['冲', '稳', '保']:
                             recommendations.append(item)
         
