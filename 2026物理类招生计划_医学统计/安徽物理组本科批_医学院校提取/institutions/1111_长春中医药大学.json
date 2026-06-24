@@ -1,0 +1,96 @@
+{
+  "institution_code": "1111",
+  "institution_name": "长春中医药大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    13
+  ],
+  "printed_pages": [
+    62
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 13,
+      "printed_page": 62,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 17,
+      "heading_raw": "1111 长春中医药大学 001 专业组(化学) 17 人   24 食",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "BFE 2A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 610,
+          "notes": "610 元/年] 26 化",
+          "raw_text": "02 BFE 2A (610 元/年] 26 化"
+        },
+        {
+          "major_code": "03",
+          "name": "中药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6160,
+          "notes": "【6160 元/年;不招色盲、色弱者] cz",
+          "raw_text": "03 中药学 2 人【6160 元/年;不招色盲、色弱者] cz"
+        },
+        {
+          "major_code": "04",
+          "name": "护理学",
+          "planned_enrollment": 9,
+          "tuition_yuan_per_year": 6160,
+          "notes": "[6160 元/年;不招色盲\\色弱者] 27 化",
+          "raw_text": "04 护理学9人[6160 元/年;不招色盲\\色弱者] 27 化"
+        },
+        {
+          "major_code": "05",
+          "name": "助产学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": null,
+          "notes": "【5600 A/F; ABE EHS) 考，",
+          "raw_text": "05 助产学2 人【5600 A/F; ABE EHS) 考，"
+        }
+      ],
+      "raw_text": "1111 长春中医药大学 001 专业组(化学) 17 人   24 食\n02 BFE 2A (610 元/年]          26 化\n03 中药学 2 人【6160 元/年;不招色盲、色弱者]    cz\n04 护理学9人[6160 元/年;不招色盲\\色弱者]   27 化\n05 助产学2 人【5600 A/F; ABE EHS)     考，",
+      "parsed_major_plan_sum": 13,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 6,
+      "heading_raw": "1111 长春中医药大学 002 专业组(化学) 6A   28 应| 元/年;不招色盲\\色能者;与韩国大印韩医大“| 29 环:",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "生物制药(中外合作办学)",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": null,
+          "notes": "【26000 州 元/年;不招色盲\\色能者;与韩国大印韩医大“| 29 环: 学合作办学] 30 光|",
+          "raw_text": "06 生物制药(中外合作办学) 6 人【26000 州 元/年;不招色盲\\色能者;与韩国大印韩医大“| 29 环: 学合作办学] 30 光|"
+        }
+      ],
+      "raw_text": "1111 长春中医药大学 002 专业组(化学) 6A   28 应| 元/年;不招色盲\\色能者;与韩国大印韩医大“| 29 环:\n06 生物制药(中外合作办学) 6 人【26000      州\n元/年;不招色盲\\色能者;与韩国大印韩医大“| 29 环:\n学合作办学]                30 光|",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    }
+  ],
+  "group_count": 2,
+  "major_count": 5,
+  "validation": {
+    "groups_ok_or_sum_corrected": 1,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1111_长春中医药大学_p013_c2.jpg"
+  ],
+  "raw_text": "--- PDF第13页（书内第62页），第2栏 ---\n1111 长春中医药大学 001 专业组(化学) 17 人   24 食\nOL 制药工程 2 人【5940 A/F; BERBER | 25 机\n者]                     cE\n02 BFE 2A (610 元/年]          26 化\n03 中药学 2 人【6160 元/年;不招色盲、色弱者]    cz\n04 护理学9人[6160 元/年;不招色盲\\色弱者]   27 化\n05 助产学2 人【5600 A/F; ABE EHS)     考，\n1111 长春中医药大学 002 专业组(化学) 6A   28 应|\n06 生物制药(中外合作办学) 6 人【26000      州\n元/年;不招色盲\\色能者;与韩国大印韩医大“| 29 环:\n学合作办学]                30 光|"
+}

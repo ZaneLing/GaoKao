@@ -1,0 +1,68 @@
+{
+  "institution_code": "1161",
+  "institution_name": "成都医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    17
+  ],
+  "printed_pages": [
+    66
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 17,
+      "printed_page": 66,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "1161 成都医学院 001 专业组(化学) 12 A     03 4 有眼失明考生不予录取]            1167",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "康复治疗学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 6670,
+          "notes": "【6670元/年;色盲色弱及单 有眼失明考生不予录取] 1167",
+          "raw_text": "Ol 康复治疗学4 人【6670元/年;色盲色弱及单 有眼失明考生不予录取] 1167"
+        },
+        {
+          "major_code": "02",
+          "name": "PRELA (60 A/F; ER EHAEMA | 01 4 明考生不予录取] 1167",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "02 PRELA (60 A/F; ER EHAEMA | 01 4 明考生不予录取] 1167"
+        },
+        {
+          "major_code": "03",
+          "name": "生物技术",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5980,
+          "notes": "【5980 元/年;色盲、色弱及单眼 02 3 失明考生不予录取] 1167",
+          "raw_text": "03 生物技术4 人【5980 元/年;色盲、色弱及单眼 02 3 失明考生不予录取] 1167"
+        }
+      ],
+      "raw_text": "1161 成都医学院 001 专业组(化学) 12 A     03 4 有眼失明考生不予录取]            1167\nOl 康复治疗学4 人【6670元/年;色盲色弱及单\n有眼失明考生不予录取]            1167\n02 PRELA (60 A/F; ER EHAEMA | 01 4\n明考生不予录取]              1167\n03 生物技术4 人【5980 元/年;色盲、色弱及单眼   02 3\n失明考生不予录取]             1167",
+      "parsed_major_plan_sum": 8,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 1,
+  "major_count": 3,
+  "validation": {
+    "groups_ok_or_sum_corrected": 0,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1161_成都医学院_p017_c2.jpg"
+  ],
+  "raw_text": "--- PDF第17页（书内第66页），第2栏 ---\n1161 成都医学院 001 专业组(化学) 12 A     03 4\nOl 康复治疗学4 人【6670元/年;色盲色弱及单\n有眼失明考生不予录取]            1167\n02 PRELA (60 A/F; ER EHAEMA | 01 4\n明考生不予录取]              1167\n03 生物技术4 人【5980 元/年;色盲、色弱及单眼   02 3\n失明考生不予录取]             1167"
+}

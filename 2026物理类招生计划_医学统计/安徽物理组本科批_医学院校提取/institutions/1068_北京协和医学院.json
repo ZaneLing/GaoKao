@@ -1,0 +1,43 @@
+{
+  "institution_code": "1068",
+  "institution_name": "北京协和医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    8
+  ],
+  "printed_pages": [
+    57
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 8,
+      "printed_page": 57,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 10,
+      "heading_raw": "1068 北京协和医学院 001 专业组( 化学) 10 人",
+      "majors": [],
+      "raw_text": "1068 北京协和医学院 001 专业组( 化学) 10 人\n000 | Ol 护理学10 人[4800 元/年;不招色盲色弱及\n水     其他各类不能准确识别颜色者]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 1,
+  "major_count": 0,
+  "validation": {
+    "groups_ok_or_sum_corrected": 0,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1068_北京协和医学院_p008_c2.jpg"
+  ],
+  "raw_text": "--- PDF第8页（书内第57页），第2栏 ---\n1068 北京协和医学院 001 专业组( 化学) 10 人\n000 | Ol 护理学10 人[4800 元/年;不招色盲色弱及\n水     其他各类不能准确识别颜色者]"
+}

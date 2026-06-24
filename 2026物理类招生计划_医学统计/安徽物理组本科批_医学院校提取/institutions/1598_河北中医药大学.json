@@ -1,0 +1,143 @@
+{
+  "institution_code": "1598",
+  "institution_name": "河北中医药大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    54
+  ],
+  "printed_pages": [
+    103
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 54,
+      "printed_page": 103,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": null,
+      "heading_raw": "1000   1598 河北中医药大学 001 专业组(不限】 2A 0” 01 中医学(5 年) 2A (570 4/4; 88 CBF 守成     不予录取]",
+      "majors": [],
+      "raw_text": "1000   1598 河北中医药大学 001 专业组(不限】 2A 0” 01 中医学(5 年) 2A (570 4/4; 88 CBF 守成     不予录取]\n0” 01 中医学(5 年) 2A (570 4/4; 88 CBF\n守成     不予录取]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "RTT   1598 河北中医药大学 002 专业组(化学) 2A #)   02 中西医临床医学(5 年) 2A (5100 元/年;色 \\      盲\\色弱者不予录取]",
+      "majors": [],
+      "raw_text": "RTT   1598 河北中医药大学 002 专业组(化学) 2A #)   02 中西医临床医学(5 年) 2A (5100 元/年;色 \\      盲\\色弱者不予录取]\n#)   02 中西医临床医学(5 年) 2A (5100 元/年;色\n\\      盲\\色弱者不予录取]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 8,
+      "heading_raw": "1598 河北中医药大学 003 专业组(化学) 8人",
+      "majors": [
+        {
+          "major_code": "03",
+          "name": "中药学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5700,
+          "notes": "【5700 元/年;色盲、色弱者不巴录 取]",
+          "raw_text": "03 中药学4人【5700 元/年;色盲、色弱者不巴录 取]"
+        },
+        {
+          "major_code": "04",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200 元/年;色盲\\色弱者不予录取]",
+          "raw_text": "04 药学2人 [5200 元/年;色盲\\色弱者不予录取]"
+        },
+        {
+          "major_code": "05",
+          "name": "中草药栽培与鉴定",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年;色盲.色 弱者不子录取]",
+          "raw_text": "05 中草药栽培与鉴定 2 人【5200 元/年;色盲.色 弱者不子录取]"
+        }
+      ],
+      "raw_text": "1598 河北中医药大学 003 专业组(化学) 8人\n03 中药学4人【5700 元/年;色盲、色弱者不巴录\n取]\n04 药学2人 [5200 元/年;色盲\\色弱者不予录取]\n05 中草药栽培与鉴定 2 人【5200 元/年;色盲.色\n弱者不子录取]",
+      "parsed_major_plan_sum": 8,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 2,
+      "heading_raw": "1598 河北中医药大学 004 专业组(化学) 2人",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "康复治疗学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200 元/年;色盲色弱者不 FRR)",
+          "raw_text": "06 康复治疗学 2 人[5200 元/年;色盲色弱者不 FRR)"
+        }
+      ],
+      "raw_text": "1598 河北中医药大学 004 专业组(化学) 2人\n06 康复治疗学 2 人[5200 元/年;色盲色弱者不\nFRR)",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": null,
+      "planned_enrollment": 14,
+      "heading_raw": "4    1598 河北中医药大学 005 专业组( 生物学| 6人",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "护理学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年;色盲色弱者不予录 取] 人 08 助产学2 人【5200 元/年;色盲、色弱者不予录 1) 取] 1) 1599 河池学院 001 专业组(化学) 16人",
+          "raw_text": "07 护理学4人【5200 元/年;色盲色弱者不予录 取] 人 08 助产学2 人【5200 元/年;色盲、色弱者不予录 1) 取] 1) 1599 河池学院 001 专业组(化学) 16人"
+        },
+        {
+          "major_code": "01",
+          "name": "应用统计学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": null,
+          "notes": "(4600 4/4)",
+          "raw_text": "Ol 应用统计学5人 (4600 4/4)"
+        },
+        {
+          "major_code": "02",
+          "name": "电子信息工程",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4600,
+          "notes": "【4600 元/年] 务、 | 03 款件工程6人[4600 元/年;不招色言者]",
+          "raw_text": "02 电子信息工程5人【4600 元/年] 务、 | 03 款件工程6人[4600 元/年;不招色言者]"
+        }
+      ],
+      "raw_text": "4    1598 河北中医药大学 005 专业组( 生物学| 6人\n07 护理学4人【5200 元/年;色盲色弱者不予录\n取]\n人    08 助产学2 人【5200 元/年;色盲、色弱者不予录\n1)     取]\n1)   1599 河池学院 001 专业组(化学) 16人\nOl 应用统计学5人 (4600 4/4)\n02 电子信息工程5人【4600 元/年]\n务、 | 03 款件工程6人[4600 元/年;不招色言者]",
+      "parsed_major_plan_sum": 14,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": 6
+    }
+  ],
+  "group_count": 5,
+  "major_count": 7,
+  "validation": {
+    "groups_ok_or_sum_corrected": 3,
+    "groups_requiring_visual_review": 2,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1598_河北中医药大学_p054_c2.jpg"
+  ],
+  "raw_text": "--- PDF第54页（书内第103页），第2栏 ---\n1000   1598 河北中医药大学 001 专业组(不限】 2A\n0” 01 中医学(5 年) 2A (570 4/4; 88 CBF\n守成     不予录取]\nRTT   1598 河北中医药大学 002 专业组(化学) 2A\n#)   02 中西医临床医学(5 年) 2A (5100 元/年;色\n\\      盲\\色弱者不予录取]\n1598 河北中医药大学 003 专业组(化学) 8人\n03 中药学4人【5700 元/年;色盲、色弱者不巴录\n取]\n04 药学2人 [5200 元/年;色盲\\色弱者不予录取]\n05 中草药栽培与鉴定 2 人【5200 元/年;色盲.色\n弱者不子录取]\n1598 河北中医药大学 004 专业组(化学) 2人\n06 康复治疗学 2 人[5200 元/年;色盲色弱者不\nFRR)\n4    1598 河北中医药大学 005 专业组( 生物学| 6人\n07 护理学4人【5200 元/年;色盲色弱者不予录\n取]\n人    08 助产学2 人【5200 元/年;色盲、色弱者不予录\n1)     取]\n1)   1599 河池学院 001 专业组(化学) 16人\nOl 应用统计学5人 (4600 4/4)\n02 电子信息工程5人【4600 元/年]\n务、 | 03 款件工程6人[4600 元/年;不招色言者]"
+}

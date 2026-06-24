@@ -1,0 +1,171 @@
+{
+  "institution_code": "2498",
+  "institution_name": "沈阳医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    133
+  ],
+  "printed_pages": [
+    182
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 133,
+      "printed_page": 182,
+      "column": 1
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": 182,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 26,
+      "heading_raw": "2498 沈阳医学院 001 专业组(化学) 26 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "临床医学(5 年)",
+          "planned_enrollment": 17,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;外语课程 只安排英语教学;不招色证、色弱考生]",
+          "raw_text": "01 临床医学(5 年) 17 人【5500 元/年;外语课程 只安排英语教学;不招色证、色弱考生]"
+        },
+        {
+          "major_code": "02",
+          "name": "“麻醉学(5年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;外语课程只 安排英语教学;不招色盲色弱考生]",
+          "raw_text": "02 “麻醉学(5年) 3 人【5500 元/年;外语课程只 安排英语教学;不招色盲色弱考生]"
+        },
+        {
+          "major_code": "03",
+          "name": "医学影像学(5 年) 2A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;外语课 程只安排英语教学;不招色盲.色弱考生] 4 口腔医学(5 年) 2A (5500 元/年;外语课程 只安排英语教学;不招色谨、色弱考生]",
+          "raw_text": "03 医学影像学(5 年) 2A (5500 元/年;外语课 程只安排英语教学;不招色盲.色弱考生] 4 口腔医学(5 年) 2A (5500 元/年;外语课程 只安排英语教学;不招色谨、色弱考生]"
+        },
+        {
+          "major_code": "05",
+          "name": "预防医学(5 年) 2A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;外语课程 只安排英语教学;不招色盲色弱考生]",
+          "raw_text": "05 预防医学(5 年) 2A (5500 元/年;外语课程 只安排英语教学;不招色盲色弱考生]"
+        }
+      ],
+      "raw_text": "2498 沈阳医学院 001 专业组(化学) 26 人\n01 临床医学(5 年) 17 人【5500 元/年;外语课程\n只安排英语教学;不招色证、色弱考生]\n02 “麻醉学(5年) 3 人【5500 元/年;外语课程只\n安排英语教学;不招色盲色弱考生]\n03 医学影像学(5 年) 2A (5500 元/年;外语课\n程只安排英语教学;不招色盲.色弱考生]\n4 口腔医学(5 年) 2A (5500 元/年;外语课程\n只安排英语教学;不招色谨、色弱考生]\n05 预防医学(5 年) 2A (5500 元/年;外语课程\n只安排英语教学;不招色盲色弱考生]",
+      "parsed_major_plan_sum": 20,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 7,
+      "heading_raw": "2498 沈阳医学院 002 专业组(化学) 7人",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "生物信息学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年;外语课程只安 HRBRF RBED EBSA)",
+          "raw_text": "06 生物信息学 2 人【5200 元/年;外语课程只安 HRBRF RBED EBSA)"
+        },
+        {
+          "major_code": "07",
+          "name": "HE 3A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;外语课程只安排英语 教学;不招色盲.色弱考生]",
+          "raw_text": "07 HE 3A (5500 元/年;外语课程只安排英语 教学;不招色盲.色弱考生]"
+        },
+        {
+          "major_code": "08",
+          "name": "康复治疗学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;外语课程只安 排英语教学;不招色盲色弱考生]",
+          "raw_text": "08 康复治疗学 2 人【5500 元/年;外语课程只安 排英语教学;不招色盲色弱考生]"
+        }
+      ],
+      "raw_text": "2498 沈阳医学院 002 专业组(化学) 7人\n06 生物信息学 2 人【5200 元/年;外语课程只安\nHRBRF RBED EBSA)\n07 HE 3A (5500 元/年;外语课程只安排英语\n教学;不招色盲.色弱考生]\n08 康复治疗学 2 人【5500 元/年;外语课程只安\n排英语教学;不招色盲色弱考生]",
+      "parsed_major_plan_sum": 4,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": null,
+      "planned_enrollment": null,
+      "heading_raw": "2498 沈阳医学院 003 专业组(化学| SA",
+      "majors": [
+        {
+          "major_code": "09",
+          "name": "医学信息工程 2 (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年;外语课程只 安排英语教学]",
+          "raw_text": "09 医学信息工程 2 (5200 元/年;外语课程只 安排英语教学]"
+        },
+        {
+          "major_code": "10",
+          "name": "食品质量与安全 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年;外语课程 182+ 只安排英语教学]",
+          "raw_text": "10 食品质量与安全 1A (5200 元/年;外语课程 182+ 只安排英语教学]"
+        },
+        {
+          "major_code": "11",
+          "name": "食品营养与健康",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年;外语课程 62 只安排英语教学] 6",
+          "raw_text": "11 食品营养与健康 2 人【5200 元/年;外语课程 62 只安排英语教学] 6"
+        }
+      ],
+      "raw_text": "2498 沈阳医学院 003 专业组(化学| SA\n09 医学信息工程 2 (5200 元/年;外语课程只\n安排英语教学]\n10 食品质量与安全 1A (5200 元/年;外语课程\n182+\n只安排英语教学]\n11 食品营养与健康 2 人【5200 元/年;外语课程   62\n只安排英语教学]              6",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "生物学",
+      "planned_enrollment": 3,
+      "heading_raw": "2498 沈阳医学院 004 专业组( 生物学) 3人    64",
+      "majors": [
+        {
+          "major_code": "12",
+          "name": "PREIA (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年; 外语课程只安排英 BHF ROKER CHF) 2501",
+          "raw_text": "12 PREIA (5500 元/年; 外语课程只安排英 BHF ROKER CHF) 2501"
+        }
+      ],
+      "raw_text": "2498 沈阳医学院 004 专业组( 生物学) 3人    64\n12 PREIA (5500 元/年; 外语课程只安排英\nBHF ROKER CHF)         2501",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 4,
+  "major_count": 11,
+  "validation": {
+    "groups_ok_or_sum_corrected": 0,
+    "groups_requiring_visual_review": 4,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2498_沈阳医学院_p133_c1.jpg",
+    "source_crops/2498_沈阳医学院_p133_c2.jpg"
+  ],
+  "raw_text": "--- PDF第133页（书内第182页），第1栏 ---\n2498 沈阳医学院 001 专业组(化学) 26 人\n01 临床医学(5 年) 17 人【5500 元/年;外语课程\n只安排英语教学;不招色证、色弱考生]\n02 “麻醉学(5年) 3 人【5500 元/年;外语课程只\n安排英语教学;不招色盲色弱考生]\n03 医学影像学(5 年) 2A (5500 元/年;外语课\n程只安排英语教学;不招色盲.色弱考生]\n4 口腔医学(5 年) 2A (5500 元/年;外语课程\n只安排英语教学;不招色谨、色弱考生]\n05 预防医学(5 年) 2A (5500 元/年;外语课程\n只安排英语教学;不招色盲色弱考生]\n2498 沈阳医学院 002 专业组(化学) 7人\n06 生物信息学 2 人【5200 元/年;外语课程只安\nHRBRF RBED EBSA)\n07 HE 3A (5500 元/年;外语课程只安排英语\n教学;不招色盲.色弱考生]\n08 康复治疗学 2 人【5500 元/年;外语课程只安\n排英语教学;不招色盲色弱考生]\n2498 沈阳医学院 003 专业组(化学| SA\n09 医学信息工程 2 (5200 元/年;外语课程只\n安排英语教学]\n10 食品质量与安全 1A (5200 元/年;外语课程\n182+\n\n--- PDF第133页（书内第182页），第2栏 ---\n只安排英语教学]\n11 食品营养与健康 2 人【5200 元/年;外语课程   62\n只安排英语教学]              6\n2498 沈阳医学院 004 专业组( 生物学) 3人    64\n12 PREIA (5500 元/年; 外语课程只安排英\nBHF ROKER CHF)         2501"
+}

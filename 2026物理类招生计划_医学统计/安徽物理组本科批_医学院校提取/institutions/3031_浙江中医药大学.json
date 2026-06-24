@@ -1,0 +1,321 @@
+{
+  "institution_code": "3031",
+  "institution_name": "浙江中医药大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    176
+  ],
+  "printed_pages": [
+    225
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 176,
+      "printed_page": 225,
+      "column": 1
+    },
+    {
+      "pdf_page": 176,
+      "printed_page": 225,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "3031 浙江中医药大学 001 专业组(化学) UA",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "中医学(5+3 一体化) (5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6900,
+          "notes": "6900 元/年]",
+          "raw_text": "Ol 中医学(5+3 一体化) (5 年) 1A (6900 元/年]"
+        },
+        {
+          "major_code": "02",
+          "name": "中医学(5年)",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": 6900,
+          "notes": "【6900元/年]",
+          "raw_text": "02 中医学(5年) 6 人【6900元/年]"
+        },
+        {
+          "major_code": "03",
+          "name": "”中医骨伤科学(5 年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年]",
+          "raw_text": "03 ”中医骨伤科学(5 年) 1 人【6000 元/年]"
+        },
+        {
+          "major_code": "04",
+          "name": "针灸推拿学(5 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6900,
+          "notes": "【6900元/年]",
+          "raw_text": "04 针灸推拿学(5 年) 2 人【6900元/年]"
+        },
+        {
+          "major_code": "05",
+          "name": "中医康复学(5 年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年]",
+          "raw_text": "05 中医康复学(5 年) 1 人【6000 元/年]"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 001 专业组(化学) UA\nOl 中医学(5+3 一体化) (5 年) 1A (6900\n元/年]\n02 中医学(5年) 6 人【6900元/年]\n03 ”中医骨伤科学(5 年) 1 人【6000 元/年]\n04 针灸推拿学(5 年) 2 人【6900元/年]\n05 中医康复学(5 年) 1 人【6000 元/年]",
+      "parsed_major_plan_sum": 10,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 12,
+      "heading_raw": "3031 浙江中医药大学 002 专业组(化学) 12 人",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "临床医学(5 年) 5A",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6900,
+          "notes": "6900 元/年]",
+          "raw_text": "06 临床医学(5 年) 5A [6900 元/年]"
+        },
+        {
+          "major_code": "07",
+          "name": "中西医临床医学(5年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年]",
+          "raw_text": "07 中西医临床医学(5年) 2 人【6000 元/年]"
+        },
+        {
+          "major_code": "08",
+          "name": "儿科学(5年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 6000,
+          "notes": "[6000元/年]",
+          "raw_text": "08 儿科学(5年) 1 人[6000元/年]"
+        },
+        {
+          "major_code": "09",
+          "name": "预防医学(5年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6900,
+          "notes": "【6900元/年]",
+          "raw_text": "09 预防医学(5年) 3 人【6900元/年]"
+        },
+        {
+          "major_code": "10",
+          "name": "口腔医学(5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6900,
+          "notes": "6900 元/年;为适应专 业工作的需要,建议报考口腔医学专业考生为 英 惯用右手考生] (",
+          "raw_text": "10 口腔医学(5 年) 1A (6900 元/年;为适应专 业工作的需要,建议报考口腔医学专业考生为 英 惯用右手考生] ("
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 002 专业组(化学) 12 人\n06 临床医学(5 年) 5A [6900 元/年]\n07 中西医临床医学(5年) 2 人【6000 元/年]\n08 儿科学(5年) 1 人[6000元/年]\n09 预防医学(5年) 3 人【6900元/年]\n10 口腔医学(5 年) 1A (6900 元/年;为适应专\n业工作的需要,建议报考口腔医学专业考生为\n英     惯用右手考生]               (",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 12,
+      "heading_raw": "3031 浙江中医药大学 003 专业组(化学) 12 人",
+      "majors": [
+        {
+          "major_code": "11",
+          "name": "康复治疗学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000元/年]",
+          "raw_text": "11 康复治疗学3人【6000元/年]"
+        },
+        {
+          "major_code": "12",
+          "name": "听力与言语康复学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年] (",
+          "raw_text": "12 听力与言语康复学4 人【6000 元/年] ("
+        },
+        {
+          "major_code": "13",
+          "name": "医学检验技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年]",
+          "raw_text": "13 医学检验技术 2 人【6000 元/年]"
+        },
+        {
+          "major_code": "14",
+          "name": "卫生检验与检疫 3 (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 600,
+          "notes": "600 元/年]",
+          "raw_text": "14 卫生检验与检疫 3 (600 元/年]"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 003 专业组(化学) 12 人\n11 康复治疗学3人【6000元/年]\n12 听力与言语康复学4 人【6000 元/年]      (\n13 医学检验技术 2 人【6000 元/年]\n14 卫生检验与检疫 3 (600 元/年]",
+      "parsed_major_plan_sum": 9,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 9,
+      "heading_raw": "3031 浙江中医药大学 004 专业组(化学) IA",
+      "majors": [
+        {
+          "major_code": "15",
+          "name": "中药学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000元/年]",
+          "raw_text": "15 中药学3人【6000元/年]"
+        },
+        {
+          "major_code": "16",
+          "name": "药学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 6000,
+          "notes": "[6000元/年]",
+          "raw_text": "16 药学5人[6000元/年]"
+        },
+        {
+          "major_code": "17",
+          "name": "临床药学(5 年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000元/年] ]",
+          "raw_text": "17 临床药学(5 年) 1 人【6000元/年] ]"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 004 专业组(化学) IA\n15 中药学3人【6000元/年]\n16 药学5人[6000元/年]\n17 临床药学(5 年) 1 人【6000元/年]         ]",
+      "parsed_major_plan_sum": 9,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "3031 浙江中医药大学 005 专业组(化学) 8A 需要,建议报考护理学专业考生身高在 1.58",
+      "majors": [
+        {
+          "major_code": "18",
+          "name": "护理学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年;为适应专业工作的 需要,建议报考护理学专业考生身高在 1.58 米(含)以上]",
+          "raw_text": "18 护理学5人【6000 元/年;为适应专业工作的 需要,建议报考护理学专业考生身高在 1.58 米(含)以上]"
+        },
+        {
+          "major_code": "19",
+          "name": "HEEZA (6000 4/4)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "19 HEEZA (6000 4/4)"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 005 专业组(化学) 8A 需要,建议报考护理学专业考生身高在 1.58\n18 护理学5人【6000 元/年;为适应专业工作的\n需要,建议报考护理学专业考生身高在 1.58\n米(含)以上]\n19 HEEZA (6000 4/4)",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学",
+      "planned_enrollment": 5,
+      "heading_raw": "3031 浙江中医药大学 006 专业组(化学) 5 人   :",
+      "majors": [
+        {
+          "major_code": "20",
+          "name": "计算机科学与技术",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年]",
+          "raw_text": "20 计算机科学与技术3 人【6000 元/年]"
+        },
+        {
+          "major_code": "21",
+          "name": "人工智能",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000元/年]",
+          "raw_text": "21 人工智能2人【6000元/年]"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 006 专业组(化学) 5 人   :\n20 计算机科学与技术3 人【6000 元/年]\n21 人工智能2人【6000元/年]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学",
+      "planned_enrollment": 11,
+      "heading_raw": "3031 浙江中医药大学 007 专业组( 化学) UWA",
+      "majors": [
+        {
+          "major_code": "22",
+          "name": "生物科学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": null,
+          "notes": "(5300 4/4)",
+          "raw_text": "22 生物科学5人 (5300 4/4)"
+        },
+        {
+          "major_code": "23",
+          "name": "医学实验技术",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": 6000,
+          "notes": "【6000 元/年]",
+          "raw_text": "23 医学实验技术6 人【6000 元/年]"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 007 专业组( 化学) UWA\n22 生物科学5人 (5300 4/4)\n23 医学实验技术6 人【6000 元/年]",
+      "parsed_major_plan_sum": 11,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "008",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "3031 浙江中医药大学 008 专业组(化学) 3 人",
+      "majors": [
+        {
+          "major_code": "24",
+          "name": "生物科学(中外合作办学)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 28800,
+          "notes": "【28800 元/年;中马合作,4+0; 外语单科成绩要求不 KF 90H) :",
+          "raw_text": "24 生物科学(中外合作办学) 3 人【28800 元/年;中马合作,4+0; 外语单科成绩要求不 KF 90H) :"
+        }
+      ],
+      "raw_text": "3031 浙江中医药大学 008 专业组(化学) 3 人\n24 生物科学(中外合作办学) 3 人【28800\n元/年;中马合作,4+0; 外语单科成绩要求不\nKF 90H)                :",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 8,
+  "major_count": 24,
+  "validation": {
+    "groups_ok_or_sum_corrected": 4,
+    "groups_requiring_visual_review": 4,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/3031_浙江中医药大学_p176_c1.jpg",
+    "source_crops/3031_浙江中医药大学_p176_c2.jpg"
+  ],
+  "raw_text": "--- PDF第176页（书内第225页），第1栏 ---\n3031 浙江中医药大学 001 专业组(化学) UA\nOl 中医学(5+3 一体化) (5 年) 1A (6900\n元/年]\n02 中医学(5年) 6 人【6900元/年]\n03 ”中医骨伤科学(5 年) 1 人【6000 元/年]\n04 针灸推拿学(5 年) 2 人【6900元/年]\n05 中医康复学(5 年) 1 人【6000 元/年]\n3031 浙江中医药大学 002 专业组(化学) 12 人\n06 临床医学(5 年) 5A [6900 元/年]\n07 中西医临床医学(5年) 2 人【6000 元/年]\n08 儿科学(5年) 1 人[6000元/年]\n09 预防医学(5年) 3 人【6900元/年]\n10 口腔医学(5 年) 1A (6900 元/年;为适应专\n业工作的需要,建议报考口腔医学专业考生为\n\n--- PDF第176页（书内第225页），第2栏 ---\n英     惯用右手考生]               (\n3031 浙江中医药大学 003 专业组(化学) 12 人\n11 康复治疗学3人【6000元/年]\n12 听力与言语康复学4 人【6000 元/年]      (\n13 医学检验技术 2 人【6000 元/年]\n14 卫生检验与检疫 3 (600 元/年]\n3031 浙江中医药大学 004 专业组(化学) IA\n15 中药学3人【6000元/年]\n16 药学5人[6000元/年]\n17 临床药学(5 年) 1 人【6000元/年]         ]\n3031 浙江中医药大学 005 专业组(化学) 8A\n18 护理学5人【6000 元/年;为适应专业工作的\n需要,建议报考护理学专业考生身高在 1.58\n米(含)以上]\n19 HEEZA (6000 4/4)\n3031 浙江中医药大学 006 专业组(化学) 5 人   :\n20 计算机科学与技术3 人【6000 元/年]\n21 人工智能2人【6000元/年]\n3031 浙江中医药大学 007 专业组( 化学) UWA\n22 生物科学5人 (5300 4/4)\n23 医学实验技术6 人【6000 元/年]\n3031 浙江中医药大学 008 专业组(化学) 3 人\n24 生物科学(中外合作办学) 3 人【28800\n元/年;中马合作,4+0; 外语单科成绩要求不\nKF 90H)                :"
+}

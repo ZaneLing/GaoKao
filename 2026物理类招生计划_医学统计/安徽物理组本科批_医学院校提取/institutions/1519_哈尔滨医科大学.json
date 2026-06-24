@@ -1,0 +1,379 @@
+{
+  "institution_code": "1519",
+  "institution_name": "哈尔滨医科大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    46,
+    47
+  ],
+  "printed_pages": [
+    95,
+    96
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 46,
+      "printed_page": 95,
+      "column": 2
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 95,
+      "column": 3
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 96,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 4,
+      "heading_raw": "1519 哈尔滨医科大学 001 专业组(不限) 4 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "健康服务与管理",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 4500,
+          "notes": "【4500 元/年;大庆校区] 物理科目组合普通本科批，",
+          "raw_text": "01 健康服务与管理4 人【4500 元/年;大庆校区] 物理科目组合普通本科批，"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 001 专业组(不限) 4 人\n01 健康服务与管理4 人【4500 元/年;大庆校区]\n物理科目组合普通本科批，",
+      "parsed_major_plan_sum": 4,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 1,
+      "heading_raw": "1519 ”哈尔滨医科大学 002 专业组 ( 化学) 1人",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "精神医学(5年) ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4000,
+          "notes": "4000 元/年;不招色盲、 EBL RAN)",
+          "raw_text": "02 精神医学(5年) ] 人【4000 元/年;不招色盲、 EBL RAN)"
+        }
+      ],
+      "raw_text": "1519 ”哈尔滨医科大学 002 专业组 ( 化学) 1人\n02 精神医学(5年) ] 人【4000 元/年;不招色盲、\nEBL RAN)",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 16,
+      "heading_raw": "1519 哈尔滨医科大学 003 专业组 ( 化学) 16 人",
+      "majors": [
+        {
+          "major_code": "03",
+          "name": "医学信息工程",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5000,
+          "notes": "[5000 元/年;大庆校区]",
+          "raw_text": "03 医学信息工程 2 人[5000 元/年;大庆校区]"
+        },
+        {
+          "major_code": "04",
+          "name": "医学检验技术",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4000,
+          "notes": "【4000元/年;不招色育.色 BAL; KRKB)",
+          "raw_text": "04 医学检验技术5人【4000元/年;不招色育.色 BAL; KRKB)"
+        },
+        {
+          "major_code": "05",
+          "name": "”医学实验技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": null,
+          "notes": "【5500 0/4; KBE BAL; KRRB)",
+          "raw_text": "05 ”医学实验技术 2 人【5500 0/4; KBE BAL; KRRB)"
+        },
+        {
+          "major_code": "06",
+          "name": "医学影像技术",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000 元/年;不招色言\\色 弱考生;大庆校区]",
+          "raw_text": "06 医学影像技术3 人【5000 元/年;不招色言\\色 弱考生;大庆校区]"
+        },
+        {
+          "major_code": "07",
+          "name": "康复治疗学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": null,
+          "notes": "【4800 4/4; RBER EB 考生;大庆校区]",
+          "raw_text": "07 康复治疗学4人【4800 4/4; RBER EB 考生;大庆校区]"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 003 专业组 ( 化学) 16 人\n03 医学信息工程 2 人[5000 元/年;大庆校区]\n04 医学检验技术5人【4000元/年;不招色育.色\nBAL; KRKB)\n05 ”医学实验技术 2 人【5500 0/4; KBE\nBAL; KRRB)\n06 医学影像技术3 人【5000 元/年;不招色言\\色\n弱考生;大庆校区]\n07 康复治疗学4人【4800 4/4; RBER EB\n考生;大庆校区]",
+      "parsed_major_plan_sum": 16,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 9,
+      "heading_raw": "1519 哈尔滨医科大学 004 专业组 ( 化学) 9A",
+      "majors": [
+        {
+          "major_code": "08",
+          "name": "药物制剂",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": null,
+          "notes": "[5000 4/4; KIER CBF 生;大庆校区]",
+          "raw_text": "08 药物制剂 3 人[5000 4/4; KIER CBF 生;大庆校区]"
+        },
+        {
+          "major_code": "09",
+          "name": "药物分析",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5000,
+          "notes": "[5000 元/年;不招色盲、色弱者 生;大庆校区]",
+          "raw_text": "09 药物分析 3 人[5000 元/年;不招色盲、色弱者 生;大庆校区]"
+        },
+        {
+          "major_code": "10",
+          "name": "中药学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 4800,
+          "notes": "【4800 元/年;不招色盲.色弱考 生;大庆校区]",
+          "raw_text": "10 中药学 3 人【4800 元/年;不招色盲.色弱考 生;大庆校区]"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 004 专业组 ( 化学) 9A\n08 药物制剂 3 人[5000 4/4; KIER CBF\n生;大庆校区]\n09 药物分析 3 人[5000 元/年;不招色盲、色弱者\n生;大庆校区]\n10 中药学 3 人【4800 元/年;不招色盲.色弱考\n生;大庆校区]",
+      "parsed_major_plan_sum": 9,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 15,
+      "heading_raw": "1519 哈尔滨医科大学 005 专业组 ( 化学+ 生物学) 15人",
+      "majors": [
+        {
+          "major_code": "11",
+          "name": "临床医学(5+3 一体化) (5 年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 4800,
+          "notes": "【4800 元/年;不招色盲.色弱考生;校本部]",
+          "raw_text": "11 临床医学(5+3 一体化) (5 年) 3 人【4800 元/年;不招色盲.色弱考生;校本部]"
+        },
+        {
+          "major_code": "12",
+          "name": "”临床医学(5+3 一体化,儿科学硕士) (5年) LA (4800 4/4; ABER EBS HAH)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "12 ”临床医学(5+3 一体化,儿科学硕士) (5年) LA (4800 4/4; ABER EBS HAH)"
+        },
+        {
+          "major_code": "13",
+          "name": "临床医学(5 年) 6A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4800,
+          "notes": "4800 元/年;不招色盲、 色弱考生;校本部]",
+          "raw_text": "13 临床医学(5 年) 6A (4800 元/年;不招色盲、 色弱考生;校本部]"
+        },
+        {
+          "major_code": "14",
+          "name": "麻醉学(5 年) LA (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4800,
+          "notes": "4800 元/年;不招色盲、色 BAL RAR)",
+          "raw_text": "14 麻醉学(5 年) LA (4800 元/年;不招色盲、色 BAL RAR)"
+        },
+        {
+          "major_code": "15",
+          "name": "医学影像学(5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5000,
+          "notes": "5000 元/年;不招色 Hi CHFS RAH)",
+          "raw_text": "15 医学影像学(5 年) 1A (5000 元/年;不招色 Hi CHFS RAH)"
+        },
+        {
+          "major_code": "16",
+          "name": "儿科学(5年) LA (5000 A/F; ABER E BFL BAR)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "16 儿科学(5年) LA (5000 A/F; ABER E BFL BAR)"
+        },
+        {
+          "major_code": "17",
+          "name": "口腔医学(5年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 480,
+          "notes": "480 元/年;不招色盲、 色弱考生;校本部]",
+          "raw_text": "17 口腔医学(5年) 1A (480 元/年;不招色盲、 色弱考生;校本部]"
+        },
+        {
+          "major_code": "18",
+          "name": "眼视光医学(5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5000,
+          "notes": "5000 元/年;不招色 BEHFE RAR)",
+          "raw_text": "18 眼视光医学(5 年) 1A (5000 元/年;不招色 BEHFE RAR)"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 005 专业组 ( 化学+ 生物学) 15人\n11 临床医学(5+3 一体化) (5 年) 3 人【4800\n元/年;不招色盲.色弱考生;校本部]\n12 ”临床医学(5+3 一体化,儿科学硕士) (5年) LA\n(4800 4/4; ABER EBS HAH)\n13 临床医学(5 年) 6A (4800 元/年;不招色盲、\n色弱考生;校本部]\n14 麻醉学(5 年) LA (4800 元/年;不招色盲、色\nBAL RAR)\n15 医学影像学(5 年) 1A (5000 元/年;不招色\nHi CHFS RAH)\n16 儿科学(5年) LA (5000 A/F; ABER E\nBFL BAR)\n17 口腔医学(5年) 1A (480 元/年;不招色盲、\n色弱考生;校本部]\n18 眼视光医学(5 年) 1A (5000 元/年;不招色\nBEHFE RAR)",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 12,
+      "heading_raw": "1519 哈尔滨医科大学 006 专业组 ( 化学+ 生物学) 12 人",
+      "majors": [
+        {
+          "major_code": "19",
+          "name": "基础医学(7年) ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4800,
+          "notes": "4800 元/年;不招色盲、 色弱考生;校本部]",
+          "raw_text": "19 基础医学(7年) ] 人【4800 元/年;不招色盲、 色弱考生;校本部]"
+        },
+        {
+          "major_code": "20",
+          "name": "预防医学(5年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 4000,
+          "notes": "【4000 元/年;不招色言、 色弱考生;校本部]",
+          "raw_text": "20 预防医学(5年) 4 人【4000 元/年;不招色言、 色弱考生;校本部]"
+        },
+        {
+          "major_code": "21",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 4800,
+          "notes": "【4800 元/年;不招色讶色弱考生; 校本部]",
+          "raw_text": "21 药学2人【4800 元/年;不招色讶色弱考生; 校本部]"
+        },
+        {
+          "major_code": "22",
+          "name": "临床药学(5 年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000 元/年;不招色言、 色弱考生;校本部]",
+          "raw_text": "22 临床药学(5 年) 3 人【5000 元/年;不招色言、 色弱考生;校本部]"
+        },
+        {
+          "major_code": "23",
+          "name": "药学(哈医大与黑大联合学士学位培养项目)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 4800,
+          "notes": "【4800 元/年;哈尔滨医科大学与黑龙江 大学联合学士学位培养项目;不招色盲、色能 考生;校本部]",
+          "raw_text": "23 药学(哈医大与黑大联合学士学位培养项目) 1 人【4800 元/年;哈尔滨医科大学与黑龙江 大学联合学士学位培养项目;不招色盲、色能 考生;校本部]"
+        },
+        {
+          "major_code": "24",
+          "name": "预防医学(哈医大与海南医大联合学士学位培 HHA) (SE) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4000,
+          "notes": "4000 元/年;哈尔滨医科 大学与海南医科大学联合学士学位培养项目; 955 物理科目组合普通本科批， 不招色盲、色弱考生;校本部]",
+          "raw_text": "24 预防医学(哈医大与海南医大联合学士学位培 HHA) (SE) 1A (4000 元/年;哈尔滨医科 大学与海南医科大学联合学士学位培养项目; 955 物理科目组合普通本科批， 不招色盲、色弱考生;校本部]"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 006 专业组 ( 化学+ 生物学) 12 人\n19 基础医学(7年) ] 人【4800 元/年;不招色盲、\n色弱考生;校本部]\n20 预防医学(5年) 4 人【4000 元/年;不招色言、\n色弱考生;校本部]\n21 药学2人【4800 元/年;不招色讶色弱考生;\n校本部]\n22 临床药学(5 年) 3 人【5000 元/年;不招色言、\n色弱考生;校本部]\n23 药学(哈医大与黑大联合学士学位培养项目)\n1 人【4800 元/年;哈尔滨医科大学与黑龙江\n大学联合学士学位培养项目;不招色盲、色能\n考生;校本部]\n24 预防医学(哈医大与海南医大联合学士学位培\nHHA) (SE) 1A (4000 元/年;哈尔滨医科\n大学与海南医科大学联合学士学位培养项目;\n955\n物理科目组合普通本科批，\n不招色盲、色弱考生;校本部]",
+      "parsed_major_plan_sum": 10,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 4,
+      "heading_raw": "1519 哈尔滨医科大学 007 专业组(化学+ 生物学) 4人",
+      "majors": [
+        {
+          "major_code": "25",
+          "name": "生物信息学(5 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000 元/年;不招色 育\\色弱考生;校本部]",
+          "raw_text": "25 生物信息学(5 年) 2 人【5000 元/年;不招色 育\\色弱考生;校本部]"
+        },
+        {
+          "major_code": "26",
+          "name": "生物医学工程 | 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5000,
+          "notes": "5000 元/年;不招色育、色 BFE BAR)",
+          "raw_text": "26 生物医学工程 | 人【5000 元/年;不招色育、色 BFE BAR)"
+        },
+        {
+          "major_code": "27",
+          "name": "智能医学工程(哈工大与哈医大联合学士学位 培养项目) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5000,
+          "notes": "5000 元/年;哈尔滨工业大学 与哈尔滨医科大学联合学士学位培养项目;不 招色盲、色弱考生;校本部]",
+          "raw_text": "27 智能医学工程(哈工大与哈医大联合学士学位 培养项目) 1A (5000 元/年;哈尔滨工业大学 与哈尔滨医科大学联合学士学位培养项目;不 招色盲、色弱考生;校本部]"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 007 专业组(化学+ 生物学) 4人\n25 生物信息学(5 年) 2 人【5000 元/年;不招色\n育\\色弱考生;校本部]\n26 生物医学工程 | 人【5000 元/年;不招色育、色\nBFE BAR)\n27 智能医学工程(哈工大与哈医大联合学士学位\n培养项目) 1A (5000 元/年;哈尔滨工业大学\n与哈尔滨医科大学联合学士学位培养项目;不\n招色盲、色弱考生;校本部]",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "008",
+      "selection_requirement": null,
+      "planned_enrollment": null,
+      "heading_raw": "1519 哈尔滨医科大学 008 专业组(生物学| 工人",
+      "majors": [
+        {
+          "major_code": "28",
+          "name": "护理学(双学士学位培养项目) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4000,
+          "notes": "4000 元/年;护理学与公共事业管理双学士学位项 目;不招色言\\色弱考生;校本部]",
+          "raw_text": "28 护理学(双学士学位培养项目) 1A (4000 元/年;护理学与公共事业管理双学士学位项 目;不招色言\\色弱考生;校本部]"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 008 专业组(生物学| 工人\n28 护理学(双学士学位培养项目) 1A (4000\n元/年;护理学与公共事业管理双学士学位项\n目;不招色言\\色弱考生;校本部]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "009",
+      "selection_requirement": null,
+      "planned_enrollment": 5,
+      "heading_raw": "1519 哈尔滨医科大学 009 专业组生物学) 5 人",
+      "majors": [
+        {
+          "major_code": "29",
+          "name": "护理学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4000,
+          "notes": "【4000 元/年;不招色盲、色弱考 生;大庆校区]",
+          "raw_text": "29 护理学5 人【4000 元/年;不招色盲、色弱考 生;大庆校区]"
+        }
+      ],
+      "raw_text": "1519 哈尔滨医科大学 009 专业组生物学) 5 人\n29 护理学5 人【4000 元/年;不招色盲、色弱考\n生;大庆校区]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 9,
+  "major_count": 29,
+  "validation": {
+    "groups_ok_or_sum_corrected": 4,
+    "groups_requiring_visual_review": 5,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1519_哈尔滨医科大学_p046_c2.jpg",
+    "source_crops/1519_哈尔滨医科大学_p046_c3.jpg",
+    "source_crops/1519_哈尔滨医科大学_p047_c1.jpg"
+  ],
+  "raw_text": "--- PDF第46页（书内第95页），第2栏 ---\n1519 哈尔滨医科大学 001 专业组(不限) 4 人\n01 健康服务与管理4 人【4500 元/年;大庆校区]\n\n--- PDF第46页（书内第95页），第3栏 ---\n物理科目组合普通本科批，\n1519 ”哈尔滨医科大学 002 专业组 ( 化学) 1人\n02 精神医学(5年) ] 人【4000 元/年;不招色盲、\nEBL RAN)\n1519 哈尔滨医科大学 003 专业组 ( 化学) 16 人\n03 医学信息工程 2 人[5000 元/年;大庆校区]\n04 医学检验技术5人【4000元/年;不招色育.色\nBAL; KRKB)\n05 ”医学实验技术 2 人【5500 0/4; KBE\nBAL; KRRB)\n06 医学影像技术3 人【5000 元/年;不招色言\\色\n弱考生;大庆校区]\n07 康复治疗学4人【4800 4/4; RBER EB\n考生;大庆校区]\n1519 哈尔滨医科大学 004 专业组 ( 化学) 9A\n08 药物制剂 3 人[5000 4/4; KIER CBF\n生;大庆校区]\n09 药物分析 3 人[5000 元/年;不招色盲、色弱者\n生;大庆校区]\n10 中药学 3 人【4800 元/年;不招色盲.色弱考\n生;大庆校区]\n1519 哈尔滨医科大学 005 专业组 ( 化学+\n生物学) 15人\n11 临床医学(5+3 一体化) (5 年) 3 人【4800\n元/年;不招色盲.色弱考生;校本部]\n12 ”临床医学(5+3 一体化,儿科学硕士) (5年) LA\n(4800 4/4; ABER EBS HAH)\n13 临床医学(5 年) 6A (4800 元/年;不招色盲、\n色弱考生;校本部]\n14 麻醉学(5 年) LA (4800 元/年;不招色盲、色\nBAL RAR)\n15 医学影像学(5 年) 1A (5000 元/年;不招色\nHi CHFS RAH)\n16 儿科学(5年) LA (5000 A/F; ABER E\nBFL BAR)\n17 口腔医学(5年) 1A (480 元/年;不招色盲、\n色弱考生;校本部]\n18 眼视光医学(5 年) 1A (5000 元/年;不招色\nBEHFE RAR)\n1519 哈尔滨医科大学 006 专业组 ( 化学+\n生物学) 12 人\n19 基础医学(7年) ] 人【4800 元/年;不招色盲、\n色弱考生;校本部]\n20 预防医学(5年) 4 人【4000 元/年;不招色言、\n色弱考生;校本部]\n21 药学2人【4800 元/年;不招色讶色弱考生;\n校本部]\n22 临床药学(5 年) 3 人【5000 元/年;不招色言、\n色弱考生;校本部]\n23 药学(哈医大与黑大联合学士学位培养项目)\n1 人【4800 元/年;哈尔滨医科大学与黑龙江\n大学联合学士学位培养项目;不招色盲、色能\n考生;校本部]\n24 预防医学(哈医大与海南医大联合学士学位培\nHHA) (SE) 1A (4000 元/年;哈尔滨医科\n大学与海南医科大学联合学士学位培养项目;\n955\n\n--- PDF第47页（书内第96页），第1栏 ---\n物理科目组合普通本科批，\n不招色盲、色弱考生;校本部]\n1519 哈尔滨医科大学 007 专业组(化学+\n生物学) 4人\n25 生物信息学(5 年) 2 人【5000 元/年;不招色\n育\\色弱考生;校本部]\n26 生物医学工程 | 人【5000 元/年;不招色育、色\nBFE BAR)\n27 智能医学工程(哈工大与哈医大联合学士学位\n培养项目) 1A (5000 元/年;哈尔滨工业大学\n与哈尔滨医科大学联合学士学位培养项目;不\n招色盲、色弱考生;校本部]\n1519 哈尔滨医科大学 008 专业组(生物学| 工人\n28 护理学(双学士学位培养项目) 1A (4000\n元/年;护理学与公共事业管理双学士学位项\n目;不招色言\\色弱考生;校本部]\n1519 哈尔滨医科大学 009 专业组生物学) 5 人\n29 护理学5 人【4000 元/年;不招色盲、色弱考\n生;大庆校区]"
+}

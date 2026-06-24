@@ -1,0 +1,167 @@
+{
+  "institution_code": "1709",
+  "institution_name": "湖北医药学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    62,
+    63
+  ],
+  "printed_pages": [
+    111,
+    112
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 62,
+      "printed_page": 111,
+      "column": 3
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": 112,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 21,
+      "heading_raw": "1709 湖北医药学院 001 专业组( 化学) 21 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "临床医学(5年) 6 (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年]",
+          "raw_text": "Ol 临床医学(5年) 6 (5200 元/年]"
+        },
+        {
+          "major_code": "02",
+          "name": "麻醉学(5年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年]",
+          "raw_text": "02 麻醉学(5年) 2 人【5200 元/年]"
+        },
+        {
+          "major_code": "03",
+          "name": "医学影像学(5 年) 2A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年] “lll: 物理科目组合普通本科批，",
+          "raw_text": "03 医学影像学(5 年) 2A (5200 元/年] “lll: 物理科目组合普通本科批，"
+        },
+        {
+          "major_code": "04",
+          "name": "儿科学(5年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200元/年]",
+          "raw_text": "04 儿科学(5年) 2人[5200元/年]"
+        },
+        {
+          "major_code": "05",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200元/年]",
+          "raw_text": "05 药学2人[5200元/年]"
+        },
+        {
+          "major_code": "06",
+          "name": "生物科学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 4000,
+          "notes": "[4000元/年]",
+          "raw_text": "06 生物科学2人[4000元/年]"
+        },
+        {
+          "major_code": "07",
+          "name": "制药工程",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 4000,
+          "notes": "【4000元/年]",
+          "raw_text": "07 制药工程1人【4000元/年]"
+        },
+        {
+          "major_code": "08",
+          "name": "中药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 4000,
+          "notes": "【4000元/年]",
+          "raw_text": "08 中药学2人【4000元/年]"
+        },
+        {
+          "major_code": "09",
+          "name": "护理学(涉外)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200元/年]",
+          "raw_text": "09 护理学(涉外) 2 人【5200元/年]"
+        }
+      ],
+      "raw_text": "1709 湖北医药学院 001 专业组( 化学) 21 人\nOl 临床医学(5年) 6 (5200 元/年]\n02 麻醉学(5年) 2 人【5200 元/年]\n03 医学影像学(5 年) 2A (5200 元/年]\n“lll:\n物理科目组合普通本科批，\n04 儿科学(5年) 2人[5200元/年]\n05 药学2人[5200元/年]\n06 生物科学2人[4000元/年]\n07 制药工程1人【4000元/年]\n08 中药学2人【4000元/年]\n09 护理学(涉外) 2 人【5200元/年]",
+      "parsed_major_plan_sum": 13,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "1709 湖北医药学院 002 专业组(化学) 3 人",
+      "majors": [
+        {
+          "major_code": "10",
+          "name": "康复治疗学(中外合作办学)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 35000,
+          "notes": "【35000 元/年] 173 湖北中医药大学 001 专业组(不限) 3 人",
+          "raw_text": "10 康复治疗学(中外合作办学) 3 人【35000 元/年] 173 湖北中医药大学 001 专业组(不限) 3 人"
+        },
+        {
+          "major_code": "01",
+          "name": "中医学(5+3 一体化) (5 年) LA (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年]",
+          "raw_text": "Ol 中医学(5+3 一体化) (5 年) LA (5200 元/年]"
+        },
+        {
+          "major_code": "02",
+          "name": "中医学(针灸推拿5f3 一体化) (5 年) LA",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200元/年]",
+          "raw_text": "02 中医学(针灸推拿5f3 一体化) (5 年) LA [5200元/年]"
+        },
+        {
+          "major_code": "03",
+          "name": "中医学(中西医结合 $+3 一体化) (5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年]",
+          "raw_text": "03 中医学(中西医结合 $+3 一体化) (5 年) 1A (5200 元/年]"
+        }
+      ],
+      "raw_text": "1709 湖北医药学院 002 专业组(化学) 3 人\n10 康复治疗学(中外合作办学) 3 人【35000\n元/年]\n173 湖北中医药大学 001 专业组(不限) 3 人\nOl 中医学(5+3 一体化) (5 年) LA (5200\n元/年]\n02 中医学(针灸推拿5f3 一体化) (5 年) LA\n[5200元/年]\n03 中医学(中西医结合 $+3 一体化) (5 年) 1A\n(5200 元/年]",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 2,
+  "major_count": 13,
+  "validation": {
+    "groups_ok_or_sum_corrected": 1,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1709_湖北医药学院_p062_c3.jpg",
+    "source_crops/1709_湖北医药学院_p063_c1.jpg"
+  ],
+  "raw_text": "--- PDF第62页（书内第111页），第3栏 ---\n1709 湖北医药学院 001 专业组( 化学) 21 人\nOl 临床医学(5年) 6 (5200 元/年]\n02 麻醉学(5年) 2 人【5200 元/年]\n03 医学影像学(5 年) 2A (5200 元/年]\n“lll:\n\n--- PDF第63页（书内第112页），第1栏 ---\n物理科目组合普通本科批，\n04 儿科学(5年) 2人[5200元/年]\n05 药学2人[5200元/年]\n06 生物科学2人[4000元/年]\n07 制药工程1人【4000元/年]\n08 中药学2人【4000元/年]\n09 护理学(涉外) 2 人【5200元/年]\n1709 湖北医药学院 002 专业组(化学) 3 人\n10 康复治疗学(中外合作办学) 3 人【35000\n元/年]\n173 湖北中医药大学 001 专业组(不限) 3 人\nOl 中医学(5+3 一体化) (5 年) LA (5200\n元/年]\n02 中医学(针灸推拿5f3 一体化) (5 年) LA\n[5200元/年]\n03 中医学(中西医结合 $+3 一体化) (5 年) 1A\n(5200 元/年]"
+}

@@ -1,0 +1,339 @@
+{
+  "institution_code": "1933",
+  "institution_name": "江西中医药大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    83
+  ],
+  "printed_pages": [
+    132
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 83,
+      "printed_page": 132,
+      "column": 1
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 132,
+      "column": 2
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 132,
+      "column": 3
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 21,
+      "heading_raw": "1933 江西中医药大学 001 专业组(不限) 21 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "中医学(5年)",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收色育、 132+ 色弱\\单色识别不全的考生] 193",
+          "raw_text": "Ol 中医学(5年) 6 人【5220 元/年;不招收色育、 132+ 色弱\\单色识别不全的考生] 193"
+        },
+        {
+          "major_code": "02",
+          "name": "中医养生学(5 年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收 | 28 色盲.色弱\\单色识别不全的考生]",
+          "raw_text": "02 中医养生学(5 年) 3 人【5220 元/年;不招收 | 28 色盲.色弱\\单色识别不全的考生]"
+        },
+        {
+          "major_code": "03",
+          "name": "”中医骨伤科学(5 年) 5A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5220,
+          "notes": "5220 元/年;不招 193 收色盲\\色弱、单色识别不全的考生] 01",
+          "raw_text": "03 ”中医骨伤科学(5 年) 5A (5220 元/年;不招 193 收色盲\\色弱、单色识别不全的考生] 01"
+        },
+        {
+          "major_code": "04",
+          "name": "针灸推拿学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收 02 色盲色弱单色识别不全的考生]",
+          "raw_text": "04 针灸推拿学(5 年) 4 人【5220 元/年;不招收 02 色盲色弱单色识别不全的考生]"
+        },
+        {
+          "major_code": "05",
+          "name": "中医康复学(5 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收 03 色盲色弱、单色识别不全的考生] 04",
+          "raw_text": "05 中医康复学(5 年) 2 人【5220 元/年;不招收 03 色盲色弱、单色识别不全的考生] 04"
+        },
+        {
+          "major_code": "06",
+          "name": "中医学(5+3 一体化) (5年) 1A (5220 | 05 元/年;不招收色盲色弱`单色识别不全的考 06 生] 07",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "06 中医学(5+3 一体化) (5年) 1A (5220 | 05 元/年;不招收色盲色弱`单色识别不全的考 06 生] 07"
+        }
+      ],
+      "raw_text": "1933 江西中医药大学 001 专业组(不限) 21 人\nOl 中医学(5年) 6 人【5220 元/年;不招收色育、\n132+\n色弱\\单色识别不全的考生]          193\n02 中医养生学(5 年) 3 人【5220 元/年;不招收 | 28\n色盲.色弱\\单色识别不全的考生]\n03 ”中医骨伤科学(5 年) 5A (5220 元/年;不招   193\n收色盲\\色弱、单色识别不全的考生]       01\n04 针灸推拿学(5 年) 4 人【5220 元/年;不招收   02\n色盲色弱单色识别不全的考生]\n05 中医康复学(5 年) 2 人【5220 元/年;不招收  03\n色盲色弱、单色识别不全的考生]        04\n06 中医学(5+3 一体化) (5年) 1A (5220 | 05\n元/年;不招收色盲色弱`单色识别不全的考   06\n生]                    07",
+      "parsed_major_plan_sum": 15,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "不限",
+      "planned_enrollment": 5,
+      "heading_raw": "1933 江西中医药大学 002 专业组(不限) 5 人   08",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "应用心理学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4660,
+          "notes": "【4660 元/年;不招收色育、色 09 能、单色识别不全的考生]",
+          "raw_text": "07 应用心理学5 人【4660 元/年;不招收色育、色 09 能、单色识别不全的考生]"
+        }
+      ],
+      "raw_text": "1933 江西中医药大学 002 专业组(不限) 5 人   08\n07 应用心理学5 人【4660 元/年;不招收色育、色   09\n能、单色识别不全的考生]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "不限",
+      "planned_enrollment": 16,
+      "heading_raw": "1933 江西中医药大学 003 专业组(不限】 16 人   10",
+      "majors": [
+        {
+          "major_code": "08",
+          "name": "保险学",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": null,
+          "notes": "【4660 4/4) u",
+          "raw_text": "08 保险学6人【4660 4/4) u"
+        },
+        {
+          "major_code": "09",
+          "name": "公共事业管理",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 4660,
+          "notes": "【4660元/年] 12",
+          "raw_text": "09 公共事业管理 3 人【4660元/年] 12"
+        },
+        {
+          "major_code": "10",
+          "name": "健康服务与管理",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 4660,
+          "notes": "【4660 元/年] 13",
+          "raw_text": "10 健康服务与管理 4人【4660 元/年] 13"
+        },
+        {
+          "major_code": "11",
+          "name": "市场营销",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 4660,
+          "notes": "【4660 元/年] 14",
+          "raw_text": "11 市场营销 3 人【4660 元/年] 14"
+        }
+      ],
+      "raw_text": "1933 江西中医药大学 003 专业组(不限】 16 人   10\n08 保险学6人【4660 4/4)           u\n09 公共事业管理 3 人【4660元/年]        12\n10 健康服务与管理 4人【4660 元/年]       13\n11 市场营销 3 人【4660 元/年]         14",
+      "parsed_major_plan_sum": 16,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 49,
+      "heading_raw": "1933 江西中医药大学 004 专业组(化学) 49 人   15",
+      "majors": [
+        {
+          "major_code": "12",
+          "name": "中药学",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 5220,
+          "notes": "[5220 元/年;不招收色盲\\色能、 单色识别不全的考生] 16",
+          "raw_text": "12 中药学 10 人[5220 元/年;不招收色盲\\色能、 单色识别不全的考生] 16"
+        },
+        {
+          "major_code": "13",
+          "name": "药学",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 5220,
+          "notes": "(5220 元/年;不招收色盲色弱、单 194 色识别不全的考生] 01",
+          "raw_text": "13 药学 10 人 (5220 元/年;不招收色盲色弱、单 194 色识别不全的考生] 01"
+        },
+        {
+          "major_code": "14",
+          "name": "中药制药",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": 5220,
+          "notes": "[5220 元/年;不招收色盲\\色 | 02 能、单色识别不全的考生] 03",
+          "raw_text": "14 中药制药 6 人[5220 元/年;不招收色盲\\色 | 02 能、单色识别不全的考生] 03"
+        },
+        {
+          "major_code": "15",
+          "name": "中药资源与开发",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收色 04 盲、色弱、单色识别不全的考生] 05",
+          "raw_text": "15 中药资源与开发 4 人【5220 元/年;不招收色 04 盲、色弱、单色识别不全的考生] 05"
+        },
+        {
+          "major_code": "16",
+          "name": "食品质量与安全",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4940,
+          "notes": "【4940 元/年;不招收色 | 06 讶色弱\\单色识别不全的考生] 07",
+          "raw_text": "16 食品质量与安全5 人【4940 元/年;不招收色 | 06 讶色弱\\单色识别不全的考生] 07"
+        },
+        {
+          "major_code": "17",
+          "name": "食品营养与健康",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4940,
+          "notes": "【4940 元/年;不招收色 | 08 HER LERMAN) 194",
+          "raw_text": "17 食品营养与健康 5 人【4940 元/年;不招收色 | 08 HER LERMAN) 194"
+        },
+        {
+          "major_code": "18",
+          "name": "应用化学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 4940,
+          "notes": "【4940 元/年;不招收色盲\\色 | 09 能、单色识别不全的考生] 10",
+          "raw_text": "18 应用化学5 人【4940 元/年;不招收色盲\\色 | 09 能、单色识别不全的考生] 10"
+        },
+        {
+          "major_code": "19",
+          "name": "药物制剂",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收色盲、色 11 能、单色识别不全的考生] 12",
+          "raw_text": "19 药物制剂 4 人【5220 元/年;不招收色盲、色 11 能、单色识别不全的考生] 12"
+        }
+      ],
+      "raw_text": "1933 江西中医药大学 004 专业组(化学) 49 人   15\n12 中药学 10 人[5220 元/年;不招收色盲\\色能、\n单色识别不全的考生]            16\n13 药学 10 人 (5220 元/年;不招收色盲色弱、单   194\n色识别不全的考生]             01\n14 中药制药 6 人[5220 元/年;不招收色盲\\色 | 02\n能、单色识别不全的考生]           03\n15 中药资源与开发 4 人【5220 元/年;不招收色  04\n盲、色弱、单色识别不全的考生]         05\n16 食品质量与安全5 人【4940 元/年;不招收色 | 06\n讶色弱\\单色识别不全的考生]         07\n17 食品营养与健康 5 人【4940 元/年;不招收色 | 08\nHER LERMAN)         194\n18 应用化学5 人【4940 元/年;不招收色盲\\色 | 09\n能、单色识别不全的考生]           10\n19 药物制剂 4 人【5220 元/年;不招收色盲、色   11\n能、单色识别不全的考生]           12",
+      "parsed_major_plan_sum": 49,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": 25,
+      "heading_raw": "1933 江西中医药大学 005 专业组( 化学) 25 人   13",
+      "majors": [
+        {
+          "major_code": "20",
+          "name": "预防医学(5 年) SA (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年;不招收色 14 HEH SERMAAHFS) 15",
+          "raw_text": "20 预防医学(5 年) SA (5200 元/年;不招收色 14 HEH SERMAAHFS) 15"
+        },
+        {
+          "major_code": "21",
+          "name": "医学检验技术5 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5220,
+          "notes": "5220 元/年;不招收色盲、 16 EB HERNAN FA) 17",
+          "raw_text": "21 医学检验技术5 A (5220 元/年;不招收色盲、 16 EB HERNAN FA) 17"
+        },
+        {
+          "major_code": "22",
+          "name": "康复治疗学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收色盲\\色 18 能、单色识别不全的考生] 19",
+          "raw_text": "22 康复治疗学 5人【5220 元/年;不招收色盲\\色 18 能、单色识别不全的考生] 19"
+        },
+        {
+          "major_code": "23",
+          "name": "”生物医学工程 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5220,
+          "notes": "5220 元/年;不招收色盲、 20 色弱.音色识别不全的考生] 194:",
+          "raw_text": "23 ”生物医学工程 A (5220 元/年;不招收色盲、 20 色弱.音色识别不全的考生] 194:"
+        },
+        {
+          "major_code": "24",
+          "name": "医学影像技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5220,
+          "notes": "【5220 元/年;不招收色盲、 01 色弱、单色识别不全的考生]",
+          "raw_text": "24 医学影像技术 2 人【5220 元/年;不招收色盲、 01 色弱、单色识别不全的考生]"
+        },
+        {
+          "major_code": "25",
+          "name": "智能医学工程",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5220,
+          "notes": "[5220 元/年;不招收色言、 194: 色弱、单色识别不全的考生] 02",
+          "raw_text": "25 智能医学工程 3人[5220 元/年;不招收色言、 194: 色弱、单色识别不全的考生] 02"
+        }
+      ],
+      "raw_text": "1933 江西中医药大学 005 专业组( 化学) 25 人   13\n20 预防医学(5 年) SA (5200 元/年;不招收色   14\nHEH SERMAAHFS)         15\n21 医学检验技术5 A (5220 元/年;不招收色盲、  16\nEB HERNAN FA)          17\n22 康复治疗学 5人【5220 元/年;不招收色盲\\色   18\n能、单色识别不全的考生]           19\n23 ”生物医学工程 A (5220 元/年;不招收色盲、   20\n色弱.音色识别不全的考生]          194:\n24 医学影像技术 2 人【5220 元/年;不招收色盲、   01\n色弱、单色识别不全的考生]\n25 智能医学工程 3人[5220 元/年;不招收色言、   194:\n色弱、单色识别不全的考生]          02",
+      "parsed_major_plan_sum": 10,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "1933 江西中医药大学 006 专业组(化学) 3人",
+      "majors": [],
+      "raw_text": "1933 江西中医药大学 006 专业组(化学) 3人\n6 计算机科学与技术3 人5220元/年]      03",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "生物学",
+      "planned_enrollment": 5,
+      "heading_raw": "1933 ”江西中医药大学 007 专业组(生物学) 5人",
+      "majors": [
+        {
+          "major_code": "27",
+          "name": "护理学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 5220,
+          "notes": "[5220 元/年;不招收色盲.色弱、 04 单色识别不全的考生]",
+          "raw_text": "27 护理学5 人[5220 元/年;不招收色盲.色弱、 04 单色识别不全的考生]"
+        }
+      ],
+      "raw_text": "1933 ”江西中医药大学 007 专业组(生物学) 5人\n27 护理学5 人[5220 元/年;不招收色盲.色弱、   04\n单色识别不全的考生]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "008",
+      "selection_requirement": null,
+      "planned_enrollment": 10,
+      "heading_raw": "| 1933 江西中医药大学 008 专业组(生物学| 10 人",
+      "majors": [],
+      "raw_text": "| 1933 江西中医药大学 008 专业组(生物学| 10 人\n| 28 中西医临床医学(5 年) 10 人【5220 元/年;不\n招收色育、色有弱、单色识别不全的考生]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 8,
+  "major_count": 26,
+  "validation": {
+    "groups_ok_or_sum_corrected": 4,
+    "groups_requiring_visual_review": 4,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1933_江西中医药大学_p083_c1.jpg",
+    "source_crops/1933_江西中医药大学_p083_c2.jpg",
+    "source_crops/1933_江西中医药大学_p083_c3.jpg"
+  ],
+  "raw_text": "--- PDF第83页（书内第132页），第1栏 ---\n1933 江西中医药大学 001 专业组(不限) 21 人\nOl 中医学(5年) 6 人【5220 元/年;不招收色育、\n132+\n\n--- PDF第83页（书内第132页），第2栏 ---\n色弱\\单色识别不全的考生]          193\n02 中医养生学(5 年) 3 人【5220 元/年;不招收 | 28\n色盲.色弱\\单色识别不全的考生]\n03 ”中医骨伤科学(5 年) 5A (5220 元/年;不招   193\n收色盲\\色弱、单色识别不全的考生]       01\n04 针灸推拿学(5 年) 4 人【5220 元/年;不招收   02\n色盲色弱单色识别不全的考生]\n05 中医康复学(5 年) 2 人【5220 元/年;不招收  03\n色盲色弱、单色识别不全的考生]        04\n06 中医学(5+3 一体化) (5年) 1A (5220 | 05\n元/年;不招收色盲色弱`单色识别不全的考   06\n生]                    07\n1933 江西中医药大学 002 专业组(不限) 5 人   08\n07 应用心理学5 人【4660 元/年;不招收色育、色   09\n能、单色识别不全的考生]\n1933 江西中医药大学 003 专业组(不限】 16 人   10\n08 保险学6人【4660 4/4)           u\n09 公共事业管理 3 人【4660元/年]        12\n10 健康服务与管理 4人【4660 元/年]       13\n11 市场营销 3 人【4660 元/年]         14\n1933 江西中医药大学 004 专业组(化学) 49 人   15\n12 中药学 10 人[5220 元/年;不招收色盲\\色能、\n单色识别不全的考生]            16\n13 药学 10 人 (5220 元/年;不招收色盲色弱、单   194\n色识别不全的考生]             01\n14 中药制药 6 人[5220 元/年;不招收色盲\\色 | 02\n能、单色识别不全的考生]           03\n15 中药资源与开发 4 人【5220 元/年;不招收色  04\n盲、色弱、单色识别不全的考生]         05\n16 食品质量与安全5 人【4940 元/年;不招收色 | 06\n讶色弱\\单色识别不全的考生]         07\n17 食品营养与健康 5 人【4940 元/年;不招收色 | 08\nHER LERMAN)         194\n18 应用化学5 人【4940 元/年;不招收色盲\\色 | 09\n能、单色识别不全的考生]           10\n19 药物制剂 4 人【5220 元/年;不招收色盲、色   11\n能、单色识别不全的考生]           12\n1933 江西中医药大学 005 专业组( 化学) 25 人   13\n20 预防医学(5 年) SA (5200 元/年;不招收色   14\nHEH SERMAAHFS)         15\n21 医学检验技术5 A (5220 元/年;不招收色盲、  16\nEB HERNAN FA)          17\n22 康复治疗学 5人【5220 元/年;不招收色盲\\色   18\n能、单色识别不全的考生]           19\n23 ”生物医学工程 A (5220 元/年;不招收色盲、   20\n色弱.音色识别不全的考生]          194:\n24 医学影像技术 2 人【5220 元/年;不招收色盲、   01\n色弱、单色识别不全的考生]\n25 智能医学工程 3人[5220 元/年;不招收色言、   194:\n色弱、单色识别不全的考生]          02\n1933 江西中医药大学 006 专业组(化学) 3人\n6 计算机科学与技术3 人5220元/年]      03\n1933 ”江西中医药大学 007 专业组(生物学) 5人\n27 护理学5 人[5220 元/年;不招收色盲.色弱、   04\n单色识别不全的考生]\n\n--- PDF第83页（书内第132页），第3栏 ---\n| 1933 江西中医药大学 008 专业组(生物学| 10 人\n| 28 中西医临床医学(5 年) 10 人【5220 元/年;不\n招收色育、色有弱、单色识别不全的考生]"
+}

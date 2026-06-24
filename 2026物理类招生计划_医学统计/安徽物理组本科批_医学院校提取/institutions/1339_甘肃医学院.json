@@ -1,0 +1,111 @@
+{
+  "institution_code": "1339",
+  "institution_name": "甘肃医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    33
+  ],
+  "printed_pages": [
+    82
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 33,
+      "printed_page": 82,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 6,
+      "heading_raw": "1339 甘肃医学院 001 专业组(化学) 6人     10 |",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "临床医学(5年)",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 5800,
+          "notes": "[5800元/年;色盲、色弱 及其他各类不能准确识别颜色者不予录取]",
+          "raw_text": "01 临床医学(5年) 5 人[5800元/年;色盲、色弱 及其他各类不能准确识别颜色者不予录取]"
+        },
+        {
+          "major_code": "02",
+          "name": "儿科学(5年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5800,
+          "notes": "5800 元/年;色盲、色弱及 i> 其他各类不能准确识别颜色者不也录取]",
+          "raw_text": "02 儿科学(5年) 1A (5800 元/年;色盲、色弱及 i> 其他各类不能准确识别颜色者不也录取]"
+        }
+      ],
+      "raw_text": "1339 甘肃医学院 001 专业组(化学) 6人     10 |\n01 临床医学(5年) 5 人[5800元/年;色盲、色弱\n及其他各类不能准确识别颜色者不予录取]\n02 儿科学(5年) 1A (5800 元/年;色盲、色弱及   i>\n其他各类不能准确识别颜色者不也录取]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 6,
+      "heading_raw": "1339 甘肃医学院 002 专业组(化学) 6人",
+      "majors": [
+        {
+          "major_code": "03",
+          "name": "预防医学(5 年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5800,
+          "notes": "【5800 元/年;色盲\\色弱 2 及其他各类不能准确识别颜色者不予录取]",
+          "raw_text": "03 预防医学(5 年) 1 人【5800 元/年;色盲\\色弱 2 及其他各类不能准确识别颜色者不予录取]"
+        },
+        {
+          "major_code": "04",
+          "name": "药学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5800,
+          "notes": "[5800 元/年;色盲\\色弱及其他各类 ; FELARMACARFRB) 13",
+          "raw_text": "04 药学1人[5800 元/年;色盲\\色弱及其他各类 ; FELARMACARFRB) 13"
+        },
+        {
+          "major_code": "05",
+          "name": "中药学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": null,
+          "notes": "[5800 A/F; ER EBRLES 类不能准确识别颜色者不子录取]",
+          "raw_text": "05 中药学1 人[5800 A/F; ER EBRLES 类不能准确识别颜色者不子录取]"
+        },
+        {
+          "major_code": "06",
+          "name": "医学检验技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": null,
+          "notes": "(5800 4/4; 68 CBR 14 ; 其他各类不能准确识别颜色者不予录取] I",
+          "raw_text": "06 医学检验技术 2 人 (5800 4/4; 68 CBR 14 ; 其他各类不能准确识别颜色者不予录取] I"
+        },
+        {
+          "major_code": "07",
+          "name": "康复治疗学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5800,
+          "notes": "[5800 元/年;色盲色弱及其 他各类不能准确识别颜色者不予录取] 1342",
+          "raw_text": "07 康复治疗学 1 人[5800 元/年;色盲色弱及其 他各类不能准确识别颜色者不予录取] 1342"
+        }
+      ],
+      "raw_text": "1339 甘肃医学院 002 专业组(化学) 6人\n03 预防医学(5 年) 1 人【5800 元/年;色盲\\色弱   2\n及其他各类不能准确识别颜色者不予录取]\n04 药学1人[5800 元/年;色盲\\色弱及其他各类     ;\nFELARMACARFRB)        13\n05 中药学1 人[5800 A/F; ER EBRLES\n类不能准确识别颜色者不子录取]\n06 医学检验技术 2 人 (5800 4/4; 68 CBR   14 ;\n其他各类不能准确识别颜色者不予录取]       I\n07 康复治疗学 1 人[5800 元/年;色盲色弱及其\n他各类不能准确识别颜色者不予录取]      1342",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 2,
+  "major_count": 7,
+  "validation": {
+    "groups_ok_or_sum_corrected": 1,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1339_甘肃医学院_p033_c2.jpg"
+  ],
+  "raw_text": "--- PDF第33页（书内第82页），第2栏 ---\n1339 甘肃医学院 001 专业组(化学) 6人     10 |\n01 临床医学(5年) 5 人[5800元/年;色盲、色弱\n及其他各类不能准确识别颜色者不予录取]\n02 儿科学(5年) 1A (5800 元/年;色盲、色弱及   i>\n其他各类不能准确识别颜色者不也录取]\n1339 甘肃医学院 002 专业组(化学) 6人\n03 预防医学(5 年) 1 人【5800 元/年;色盲\\色弱   2\n及其他各类不能准确识别颜色者不予录取]\n04 药学1人[5800 元/年;色盲\\色弱及其他各类     ;\nFELARMACARFRB)        13\n05 中药学1 人[5800 A/F; ER EBRLES\n类不能准确识别颜色者不子录取]\n06 医学检验技术 2 人 (5800 4/4; 68 CBR   14 ;\n其他各类不能准确识别颜色者不予录取]       I\n07 康复治疗学 1 人[5800 元/年;色盲色弱及其\n他各类不能准确识别颜色者不予录取]      1342"
+}

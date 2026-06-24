@@ -1,0 +1,145 @@
+{
+  "institution_code": "2813",
+  "institution_name": "西南医科大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    160
+  ],
+  "printed_pages": [
+    209
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 160,
+      "printed_page": 209,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学|",
+      "planned_enrollment": 2,
+      "heading_raw": "2813 西南医科大学 001 专业组(化学|) 2人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "口腔医学(5 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6960,
+          "notes": "【6960 元/年;不招色言 色弱考生]",
+          "raw_text": "Ol 口腔医学(5 年) 2 人【6960 元/年;不招色言 色弱考生]"
+        }
+      ],
+      "raw_text": "2813 西南医科大学 001 专业组(化学|) 2人\nOl 口腔医学(5 年) 2 人【6960 元/年;不招色言\n色弱考生]",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 18,
+      "heading_raw": "2813 西南医科大学 002 专业组(化学) 18 人",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "临床医学(5 年)",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": null,
+          "notes": "【6960 4/4; KBE 盲\\色弱考生]",
+          "raw_text": "02 临床医学(5 年) 10 人【6960 4/4; KBE 盲\\色弱考生]"
+        },
+        {
+          "major_code": "03",
+          "name": "麻醉学(5 年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": null,
+          "notes": "【6960 4/4; RBEE 6 844)",
+          "raw_text": "03 麻醉学(5 年) 3 人【6960 4/4; RBEE 6 844)"
+        },
+        {
+          "major_code": "04",
+          "name": "医学影像学(5 年) 5A (6960 2/4; BiB 谨\\色弱考生",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "04 医学影像学(5 年) 5A (6960 2/4; BiB 谨\\色弱考生]"
+        }
+      ],
+      "raw_text": "2813 西南医科大学 002 专业组(化学) 18 人\n02 临床医学(5 年) 10 人【6960 4/4; KBE\n盲\\色弱考生]\n03 麻醉学(5 年) 3 人【6960 4/4; RBEE 6\n844)\n04 医学影像学(5 年) 5A (6960 2/4; BiB\n谨\\色弱考生]",
+      "parsed_major_plan_sum": 13,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 8,
+      "heading_raw": "2813 西南医科大学 003 专业组(化学) 8 人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "中西医临床医学(5年) 8A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6960,
+          "notes": "6960 元/年;3 BED CBSE)",
+          "raw_text": "05 中西医临床医学(5年) 8A (6960 元/年;3 BED CBSE)"
+        }
+      ],
+      "raw_text": "2813 西南医科大学 003 专业组(化学) 8 人\n05 中西医临床医学(5年) 8A (6960 元/年;3\nBED CBSE)",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 10,
+      "heading_raw": "2813 西南医科大学 004 专业组(化学) 10 人",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "护理学",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": null,
+          "notes": "[6960 4/4; FEN OB? 生]",
+          "raw_text": "06 护理学 10 人[6960 4/4; FEN OB? 生]"
+        }
+      ],
+      "raw_text": "2813 西南医科大学 004 专业组(化学) 10 人\n06 护理学 10 人[6960 4/4; FEN OB?\n生]",
+      "parsed_major_plan_sum": 10,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": 5,
+      "heading_raw": "2813 西南医科大学 005 专业组(化学) SA",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "预防医学(5 年)",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": null,
+          "notes": "【6960 4/4; FABER 色弱考生]",
+          "raw_text": "07 预防医学(5 年) 5 人【6960 4/4; FABER 色弱考生]"
+        }
+      ],
+      "raw_text": "2813 西南医科大学 005 专业组(化学) SA\n07 预防医学(5 年) 5 人【6960 4/4; FABER\n色弱考生]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    }
+  ],
+  "group_count": 5,
+  "major_count": 7,
+  "validation": {
+    "groups_ok_or_sum_corrected": 3,
+    "groups_requiring_visual_review": 2,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2813_西南医科大学_p160_c1.jpg"
+  ],
+  "raw_text": "--- PDF第160页（书内第209页），第1栏 ---\n2813 西南医科大学 001 专业组(化学|) 2人\nOl 口腔医学(5 年) 2 人【6960 元/年;不招色言\n色弱考生]\n2813 西南医科大学 002 专业组(化学) 18 人\n02 临床医学(5 年) 10 人【6960 4/4; KBE\n盲\\色弱考生]\n03 麻醉学(5 年) 3 人【6960 4/4; RBEE 6\n844)\n04 医学影像学(5 年) 5A (6960 2/4; BiB\n谨\\色弱考生]\n2813 西南医科大学 003 专业组(化学) 8 人\n05 中西医临床医学(5年) 8A (6960 元/年;3\nBED CBSE)\n2813 西南医科大学 004 专业组(化学) 10 人\n06 护理学 10 人[6960 4/4; FEN OB?\n生]\n2813 西南医科大学 005 专业组(化学) SA\n07 预防医学(5 年) 5 人【6960 4/4; FABER\n色弱考生]"
+}

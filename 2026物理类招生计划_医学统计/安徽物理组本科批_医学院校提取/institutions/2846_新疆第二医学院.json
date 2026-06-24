@@ -1,0 +1,151 @@
+{
+  "institution_code": "2846",
+  "institution_name": "新疆第二医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    163
+  ],
+  "printed_pages": [
+    212
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 163,
+      "printed_page": 212,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "2846 新疆第二医学院 001 专业组( 化学) 1A   30 ， HART 109)              2847",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "智能医学工程| 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年;数学单科成 1 HART 109) 2847",
+          "raw_text": "Ol 智能医学工程| 人【5200 元/年;数学单科成 1 HART 109) 2847"
+        }
+      ],
+      "raw_text": "2846 新疆第二医学院 001 专业组( 化学) 1A   30 ， HART 109)              2847\nOl 智能医学工程| 人【5200 元/年;数学单科成    1\nHART 109)              2847",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学+31生物学",
+      "planned_enrollment": 38,
+      "heading_raw": "2846 新疆第二医学院 002 专业组( 化学+      31 生物学) 38 人              :",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "临床医学(5 年)",
+          "planned_enrollment": 14,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年] Lae",
+          "raw_text": "02 临床医学(5 年) 14 人【5200 元/年] Lae"
+        },
+        {
+          "major_code": "03",
+          "name": "麻醉学(5年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200 元/年] 33",
+          "raw_text": "03 麻醉学(5年) 3 人[5200 元/年] 33"
+        },
+        {
+          "major_code": "04",
+          "name": "口腔医学(5 年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200元/年] 0S “中西医临床医学(5 年) 5 人【5200 元/年] 34",
+          "raw_text": "04 口腔医学(5 年) 3人【5200元/年] 0S “中西医临床医学(5 年) 5 人【5200 元/年] 34"
+        },
+        {
+          "major_code": "06",
+          "name": "预防医学(5 年) 2A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年] 2849",
+          "raw_text": "06 预防医学(5 年) 2A (5200 元/年] 2849"
+        },
+        {
+          "major_code": "07",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200 元/年] Ol :",
+          "raw_text": "07 药学2人[5200 元/年] Ol :"
+        },
+        {
+          "major_code": "08",
+          "name": "卫生检验与检疫 ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200元/年] 0 .",
+          "raw_text": "08 卫生检验与检疫 ] 人【5200元/年] 0 ."
+        },
+        {
+          "major_code": "09",
+          "name": "护理学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200元/年] 2849",
+          "raw_text": "09 护理学4人[5200元/年] 2849"
+        },
+        {
+          "major_code": "10",
+          "name": "康复治疗学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5200,
+          "notes": "[5200元/年] 03 4",
+          "raw_text": "10 康复治疗学1 人[5200元/年] 03 4"
+        },
+        {
+          "major_code": "11",
+          "name": "医学检验技术",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200元/年] 04 3",
+          "raw_text": "11 医学检验技术 1 人【5200元/年] 04 3"
+        },
+        {
+          "major_code": "12",
+          "name": "医学实验技术",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200元/年] 05 3",
+          "raw_text": "12 医学实验技术1 人【5200元/年] 05 3"
+        },
+        {
+          "major_code": "13",
+          "name": "健康与医疗保障 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年] 06 3",
+          "raw_text": "13 健康与医疗保障 A (5200 元/年] 06 3"
+        }
+      ],
+      "raw_text": "2846 新疆第二医学院 002 专业组( 化学+      31 生物学) 38 人              :\n02 临床医学(5 年) 14 人【5200 元/年]      Lae\n03 麻醉学(5年) 3 人[5200 元/年]        33\n04 口腔医学(5 年) 3人【5200元/年]\n0S “中西医临床医学(5 年) 5 人【5200 元/年]    34\n06 预防医学(5 年) 2A (5200 元/年]       2849\n07 药学2人[5200 元/年]           Ol :\n08 卫生检验与检疫 ] 人【5200元/年]       0 .\n09 护理学4人[5200元/年]          2849\n10 康复治疗学1 人[5200元/年]         03 4\n11 医学检验技术 1 人【5200元/年]       04 3\n12 医学实验技术1 人【5200元/年]       05 3\n13 健康与医疗保障 A (5200 元/年]       06 3",
+      "parsed_major_plan_sum": 29,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 2,
+  "major_count": 12,
+  "validation": {
+    "groups_ok_or_sum_corrected": 0,
+    "groups_requiring_visual_review": 2,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2846_新疆第二医学院_p163_c2.jpg"
+  ],
+  "raw_text": "--- PDF第163页（书内第212页），第2栏 ---\n2846 新疆第二医学院 001 专业组( 化学) 1A   30 ，\nOl 智能医学工程| 人【5200 元/年;数学单科成    1\nHART 109)              2847\n2846 新疆第二医学院 002 专业组( 化学+      31\n生物学) 38 人              :\n02 临床医学(5 年) 14 人【5200 元/年]      Lae\n03 麻醉学(5年) 3 人[5200 元/年]        33\n04 口腔医学(5 年) 3人【5200元/年]\n0S “中西医临床医学(5 年) 5 人【5200 元/年]    34\n06 预防医学(5 年) 2A (5200 元/年]       2849\n07 药学2人[5200 元/年]           Ol :\n08 卫生检验与检疫 ] 人【5200元/年]       0 .\n09 护理学4人[5200元/年]          2849\n10 康复治疗学1 人[5200元/年]         03 4\n11 医学检验技术 1 人【5200元/年]       04 3\n12 医学实验技术1 人【5200元/年]       05 3\n13 健康与医疗保障 A (5200 元/年]       06 3"
+}

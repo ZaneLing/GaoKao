@@ -1,0 +1,186 @@
+{
+  "institution_code": "2347",
+  "institution_name": "山东协和学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    118
+  ],
+  "printed_pages": [
+    167
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 118,
+      "printed_page": 167,
+      "column": 3
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 12,
+      "heading_raw": "2347 山东协和学院 001 专业组( 不限】 12 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "金融科技",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19800,
+          "notes": "【19800元/年]",
+          "raw_text": "01 金融科技 3 人【19800元/年]"
+        },
+        {
+          "major_code": "02",
+          "name": "英语",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19800,
+          "notes": "[19800元/年]",
+          "raw_text": "02 英语3人[19800元/年]"
+        },
+        {
+          "major_code": "03",
+          "name": "会计学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 19800,
+          "notes": "【19800 元/年]",
+          "raw_text": "03 会计学2人【19800 元/年]"
+        },
+        {
+          "major_code": "04",
+          "name": "审计学",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 19800,
+          "notes": "[19800 元/年]",
+          "raw_text": "04 审计学4人[19800 元/年]"
+        }
+      ],
+      "raw_text": "2347 山东协和学院 001 专业组( 不限】 12 人\n01 金融科技 3 人【19800元/年]\n02 英语3人[19800元/年]\n03 会计学2人【19800 元/年]\n04 审计学4人[19800 元/年]",
+      "parsed_major_plan_sum": 12,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 31,
+      "heading_raw": "2347 山东协和学院 002 专业组( 化学) 31人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "机械设计制造及其自动化3 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 19800,
+          "notes": "19800 元/年]",
+          "raw_text": "05 机械设计制造及其自动化3 A (19800 元/年]"
+        },
+        {
+          "major_code": "06",
+          "name": "电子信息工程",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19800,
+          "notes": "[19800元/年]",
+          "raw_text": "06 电子信息工程3人[19800元/年]"
+        },
+        {
+          "major_code": "07",
+          "name": "ALBH 3A (19800 4/4)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "07 ALBH 3A (19800 4/4)"
+        },
+        {
+          "major_code": "08",
+          "name": "计算机科学与技术 3 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 19800,
+          "notes": "19800 元/年]",
+          "raw_text": "08 计算机科学与技术 3 A (19800 元/年]"
+        },
+        {
+          "major_code": "09",
+          "name": "MRALE3A (22800 t/#)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "09 MRALE3A (22800 t/#)"
+        },
+        {
+          "major_code": "10",
+          "name": "土木工程",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19800,
+          "notes": "【19800元/年]",
+          "raw_text": "10 土木工程3人【19800元/年]"
+        },
+        {
+          "major_code": "11",
+          "name": "中药学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": null,
+          "notes": "[28800 4/4; KBER CBF 生]",
+          "raw_text": "11 中药学3 人[28800 4/4; KBER CBF 生]"
+        },
+        {
+          "major_code": "12",
+          "name": "医学检验技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 28800,
+          "notes": "【28800 元/年;不招色言、 色弱考生]",
+          "raw_text": "12 医学检验技术 2 人【28800 元/年;不招色言、 色弱考生]"
+        },
+        {
+          "major_code": "13",
+          "name": "医学影像技术",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 28800,
+          "notes": "【28800 元/年;不招色言、 色弱考生]",
+          "raw_text": "13 医学影像技术 3 人【28800 元/年;不招色言、 色弱考生]"
+        },
+        {
+          "major_code": "14",
+          "name": "康复治疗学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 22800,
+          "notes": "【22800 元/年;不招色盲、色 能考生]",
+          "raw_text": "14 康复治疗学5 人【22800 元/年;不招色盲、色 能考生]"
+        }
+      ],
+      "raw_text": "2347 山东协和学院 002 专业组( 化学) 31人\n05 机械设计制造及其自动化3 A (19800 元/年]\n06 电子信息工程3人[19800元/年]\n07 ALBH 3A (19800 4/4)\n08 计算机科学与技术 3 A (19800 元/年]\n09 MRALE3A (22800 t/#)\n10 土木工程3人【19800元/年]\n11 中药学3 人[28800 4/4; KBER CBF\n生]\n12 医学检验技术 2 人【28800 元/年;不招色言、\n色弱考生]\n13 医学影像技术 3 人【28800 元/年;不招色言、\n色弱考生]\n14 康复治疗学5 人【22800 元/年;不招色盲、色\n能考生]",
+      "parsed_major_plan_sum": 19,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "生物学",
+      "planned_enrollment": 10,
+      "heading_raw": "2347 山东协和学院 003 专业组( 生物学) 10 人",
+      "majors": [
+        {
+          "major_code": "15",
+          "name": "护理学",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 23800,
+          "notes": "【23800 元/年]",
+          "raw_text": "15 护理学 10 人【23800 元/年]"
+        }
+      ],
+      "raw_text": "2347 山东协和学院 003 专业组( 生物学) 10 人\n15 护理学 10 人【23800 元/年]",
+      "parsed_major_plan_sum": 10,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 3,
+  "major_count": 15,
+  "validation": {
+    "groups_ok_or_sum_corrected": 2,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2347_山东协和学院_p118_c3.jpg"
+  ],
+  "raw_text": "--- PDF第118页（书内第167页），第3栏 ---\n2347 山东协和学院 001 专业组( 不限】 12 人\n01 金融科技 3 人【19800元/年]\n02 英语3人[19800元/年]\n03 会计学2人【19800 元/年]\n04 审计学4人[19800 元/年]\n2347 山东协和学院 002 专业组( 化学) 31人\n05 机械设计制造及其自动化3 A (19800 元/年]\n06 电子信息工程3人[19800元/年]\n07 ALBH 3A (19800 4/4)\n08 计算机科学与技术 3 A (19800 元/年]\n09 MRALE3A (22800 t/#)\n10 土木工程3人【19800元/年]\n11 中药学3 人[28800 4/4; KBER CBF\n生]\n12 医学检验技术 2 人【28800 元/年;不招色言、\n色弱考生]\n13 医学影像技术 3 人【28800 元/年;不招色言、\n色弱考生]\n14 康复治疗学5 人【22800 元/年;不招色盲、色\n能考生]\n2347 山东协和学院 003 专业组( 生物学) 10 人\n15 护理学 10 人【23800 元/年]"
+}

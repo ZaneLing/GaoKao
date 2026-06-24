@@ -1,0 +1,76 @@
+{
+  "institution_code": "3025",
+  "institution_name": "浙江药科职业大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    175
+  ],
+  "printed_pages": [
+    224
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 175,
+      "printed_page": 224,
+      "column": 3
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 38,
+      "heading_raw": "3025 浙江药科职业大学 001 专业组(不限) 38 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "药学",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 7590,
+          "notes": "【7590 元/年;录取条件见院校招生 章程]",
+          "raw_text": "01 药学 10 人【7590 元/年;录取条件见院校招生 章程]"
+        },
+        {
+          "major_code": "02",
+          "name": "制药工程技术",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 6600,
+          "notes": "【6600 元/年;录取条件见 院校招生章程]",
+          "raw_text": "02 制药工程技术 10 人【6600 元/年;录取条件见 院校招生章程]"
+        },
+        {
+          "major_code": "03",
+          "name": "药品质量管理",
+          "planned_enrollment": 9,
+          "tuition_yuan_per_year": 6600,
+          "notes": "【6600 元/年;录取条件见 院校招生章程]",
+          "raw_text": "03 药品质量管理 9 人【6600 元/年;录取条件见 院校招生章程]"
+        },
+        {
+          "major_code": "04",
+          "name": "药事服务与管理",
+          "planned_enrollment": 9,
+          "tuition_yuan_per_year": 6600,
+          "notes": "【6600 元/年;录取条件 见院校招生章程]",
+          "raw_text": "04 药事服务与管理 9 人【6600 元/年;录取条件 见院校招生章程]"
+        }
+      ],
+      "raw_text": "3025 浙江药科职业大学 001 专业组(不限) 38 人\n01 药学 10 人【7590 元/年;录取条件见院校招生\n章程]\n02 制药工程技术 10 人【6600 元/年;录取条件见\n院校招生章程]\n03 药品质量管理 9 人【6600 元/年;录取条件见\n院校招生章程]\n04 药事服务与管理 9 人【6600 元/年;录取条件\n见院校招生章程]",
+      "parsed_major_plan_sum": 38,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 1,
+  "major_count": 4,
+  "validation": {
+    "groups_ok_or_sum_corrected": 1,
+    "groups_requiring_visual_review": 0,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/3025_浙江药科职业大学_p175_c3.jpg"
+  ],
+  "raw_text": "--- PDF第175页（书内第224页），第3栏 ---\n3025 浙江药科职业大学 001 专业组(不限) 38 人\n01 药学 10 人【7590 元/年;录取条件见院校招生\n章程]\n02 制药工程技术 10 人【6600 元/年;录取条件见\n院校招生章程]\n03 药品质量管理 9 人【6600 元/年;录取条件见\n院校招生章程]\n04 药事服务与管理 9 人【6600 元/年;录取条件\n见院校招生章程]"
+}

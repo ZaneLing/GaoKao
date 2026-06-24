@@ -1,0 +1,114 @@
+{
+  "institution_code": "1231",
+  "institution_name": "重庆中医药学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    21
+  ],
+  "printed_pages": [
+    70
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 21,
+      "printed_page": 70,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 8,
+      "heading_raw": "1231 重庆中医药学院 001 专业组(不限) 8 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "中医学(5年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 6900,
+          "notes": "【6900 元/年;不招色育\\色 84)",
+          "raw_text": "Ol 中医学(5年) 4 人【6900 元/年;不招色育\\色 84)"
+        },
+        {
+          "major_code": "02",
+          "name": "针灸推拿学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 6900,
+          "notes": "【6900 元/年;不招色 育\\色弱者]",
+          "raw_text": "02 针灸推拿学(5 年) 4 人【6900 元/年;不招色 育\\色弱者]"
+        }
+      ],
+      "raw_text": "1231 重庆中医药学院 001 专业组(不限) 8 人\nOl 中医学(5年) 4 人【6900 元/年;不招色育\\色\n84)\n02 针灸推拿学(5 年) 4 人【6900 元/年;不招色\n育\\色弱者]",
+      "parsed_major_plan_sum": 8,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 5,
+      "heading_raw": "1231 重庆中医药学院 002 专业组(化学) 5 人",
+      "majors": [
+        {
+          "major_code": "03",
+          "name": "中西医临床医学(5 年)",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 6900,
+          "notes": "【6900 元/年;不 BER ERS)",
+          "raw_text": "03 中西医临床医学(5 年) 5 人【6900 元/年;不 BER ERS)"
+        }
+      ],
+      "raw_text": "1231 重庆中医药学院 002 专业组(化学) 5 人\n03 中西医临床医学(5 年) 5 人【6900 元/年;不\nBER ERS)",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 8,
+      "heading_raw": "131 重庆中医药学院 003 专业组(化学) 8 人",
+      "majors": [
+        {
+          "major_code": "04",
+          "name": "中药学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6900,
+          "notes": "[6900 元/年;不招色盲\\色弱者]",
+          "raw_text": "04 中药学3 人[6900 元/年;不招色盲\\色弱者]"
+        },
+        {
+          "major_code": "05",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": "学费待定",
+          "notes": "[学费待定;不招色盲、色弱者]",
+          "raw_text": "05 药学2 人[学费待定;不招色盲、色弱者]"
+        },
+        {
+          "major_code": "06",
+          "name": "中药制药 3 A (6900 4/4; KHER EH 4)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "06 中药制药 3 A (6900 4/4; KHER EH 4)"
+        }
+      ],
+      "raw_text": "131 重庆中医药学院 003 专业组(化学) 8 人\n04 中药学3 人[6900 元/年;不招色盲\\色弱者]\n05 药学2 人[学费待定;不招色盲、色弱者]\n06 中药制药 3 A (6900 4/4; KHER EH\n4)",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 3,
+  "major_count": 6,
+  "validation": {
+    "groups_ok_or_sum_corrected": 2,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1231_重庆中医药学院_p021_c1.jpg"
+  ],
+  "raw_text": "--- PDF第21页（书内第70页），第1栏 ---\n1231 重庆中医药学院 001 专业组(不限) 8 人\nOl 中医学(5年) 4 人【6900 元/年;不招色育\\色\n84)\n02 针灸推拿学(5 年) 4 人【6900 元/年;不招色\n育\\色弱者]\n1231 重庆中医药学院 002 专业组(化学) 5 人\n03 中西医临床医学(5 年) 5 人【6900 元/年;不\nBER ERS)\n131 重庆中医药学院 003 专业组(化学) 8 人\n04 中药学3 人[6900 元/年;不招色盲\\色弱者]\n05 药学2 人[学费待定;不招色盲、色弱者]\n06 中药制药 3 A (6900 4/4; KHER EH\n4)"
+}

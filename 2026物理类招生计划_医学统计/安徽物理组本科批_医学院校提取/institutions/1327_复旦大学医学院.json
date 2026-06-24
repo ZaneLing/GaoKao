@@ -1,0 +1,130 @@
+{
+  "institution_code": "1327",
+  "institution_name": "复旦大学医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    33
+  ],
+  "printed_pages": [
+    82
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 33,
+      "printed_page": 82,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 2,
+      "heading_raw": "1327 复旦大学医学院 004 专业组(化学) 2人",
+      "majors": [
+        {
+          "major_code": "04",
+          "name": "临床医学(入年制正谊明道班) (8 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 8140,
+          "notes": "[8140 元/年]",
+          "raw_text": "04 临床医学(入年制正谊明道班) (8 年) 2 人 [8140 元/年]"
+        }
+      ],
+      "raw_text": "1327 复旦大学医学院 004 专业组(化学) 2人\n04 临床医学(入年制正谊明道班) (8 年) 2 人\n[8140 元/年]",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": 29,
+      "heading_raw": "1327 复旦大学医学院 005 专业组(化学) 29 人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "临床医学(5 年)",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": null,
+          "notes": "【8140 A/F; SFR 床医师班]",
+          "raw_text": "05 临床医学(5 年) 10 人【8140 A/F; SFR 床医师班]"
+        },
+        {
+          "major_code": "06",
+          "name": "口腔医学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 7400,
+          "notes": "【7400 元/年;含草越口 腔医师班;含口腔领面外科方向;含口腔医学- 人工智能双学士学位]",
+          "raw_text": "06 口腔医学(5 年) 4 人【7400 元/年;含草越口 腔医师班;含口腔领面外科方向;含口腔医学- 人工智能双学士学位]"
+        },
+        {
+          "major_code": "07",
+          "name": "基础医学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 8140,
+          "notes": "【8140 元/年;含尚医拔 类班;含免疫与代谢科学方向]",
+          "raw_text": "07 基础医学(5 年) 4 人【8140 元/年;含尚医拔 类班;含免疫与代谢科学方向]"
+        },
+        {
+          "major_code": "08",
+          "name": "预防医学(5 年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 8140,
+          "notes": "【8140 元/年;含预防医 学拔类班;含预防医学-人工知能、预防医学- 公共事业管理双学士学位]",
+          "raw_text": "08 预防医学(5 年) 3 人【8140 元/年;含预防医 学拔类班;含预防医学-人工知能、预防医学- 公共事业管理双学士学位]"
+        },
+        {
+          "major_code": "09",
+          "name": "公共事业管理 ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 7400,
+          "notes": "7400 元/年;含公共事业 FLERE FRE; SORE LER-ALE 能、预防医学-公共事业管理双学十学位]",
+          "raw_text": "09 公共事业管理 ] 人【7400 元/年;含公共事业 FLERE FRE; SORE LER-ALE 能、预防医学-公共事业管理双学十学位]"
+        },
+        {
+          "major_code": "10",
+          "name": "BETA (8140 t/F SHER se HF 教融合班;含创新药物转化方向、药品监管科 学方向;含药学-人工知能、药学-经济学双学 士学位",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "10 BETA (8140 t/F SHER se HF 教融合班;含创新药物转化方向、药品监管科 学方向;含药学-人工知能、药学-经济学双学 士学位]"
+        }
+      ],
+      "raw_text": "1327 复旦大学医学院 005 专业组(化学) 29 人\n05 临床医学(5 年) 10 人【8140 A/F; SFR\n床医师班]\n06 口腔医学(5 年) 4 人【7400 元/年;含草越口\n腔医师班;含口腔领面外科方向;含口腔医学-\n人工智能双学士学位]\n07 基础医学(5 年) 4 人【8140 元/年;含尚医拔\n类班;含免疫与代谢科学方向]\n08 预防医学(5 年) 3 人【8140 元/年;含预防医\n学拔类班;含预防医学-人工知能、预防医学-\n公共事业管理双学士学位]\n09 公共事业管理 ] 人【7400 元/年;含公共事业\nFLERE FRE; SORE LER-ALE\n能、预防医学-公共事业管理双学十学位]\n10 BETA (8140 t/F SHER se HF\n教融合班;含创新药物转化方向、药品监管科\n学方向;含药学-人工知能、药学-经济学双学\n士学位]",
+      "parsed_major_plan_sum": 21,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "生物学",
+      "planned_enrollment": 5,
+      "heading_raw": "1327 复旦大学医学院 006 专业组(生物学) 5人",
+      "majors": [
+        {
+          "major_code": "11",
+          "name": "护理学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 7400,
+          "notes": "【7400 元/年;含护理学草越班;仿 智慧康复方向、健康管理方向;含护理学-人工 智能双学士学位]",
+          "raw_text": "11 护理学5人【7400 元/年;含护理学草越班;仿 智慧康复方向、健康管理方向;含护理学-人工 智能双学士学位]"
+        }
+      ],
+      "raw_text": "1327 复旦大学医学院 006 专业组(生物学) 5人\n11 护理学5人【7400 元/年;含护理学草越班;仿\n智慧康复方向、健康管理方向;含护理学-人工\n智能双学士学位]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 3,
+  "major_count": 8,
+  "validation": {
+    "groups_ok_or_sum_corrected": 2,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1327_复旦大学医学院_p033_c1.jpg"
+  ],
+  "raw_text": "--- PDF第33页（书内第82页），第1栏 ---\n1327 复旦大学医学院 004 专业组(化学) 2人\n04 临床医学(入年制正谊明道班) (8 年) 2 人\n[8140 元/年]\n1327 复旦大学医学院 005 专业组(化学) 29 人\n05 临床医学(5 年) 10 人【8140 A/F; SFR\n床医师班]\n06 口腔医学(5 年) 4 人【7400 元/年;含草越口\n腔医师班;含口腔领面外科方向;含口腔医学-\n人工智能双学士学位]\n07 基础医学(5 年) 4 人【8140 元/年;含尚医拔\n类班;含免疫与代谢科学方向]\n08 预防医学(5 年) 3 人【8140 元/年;含预防医\n学拔类班;含预防医学-人工知能、预防医学-\n公共事业管理双学士学位]\n09 公共事业管理 ] 人【7400 元/年;含公共事业\nFLERE FRE; SORE LER-ALE\n能、预防医学-公共事业管理双学十学位]\n10 BETA (8140 t/F SHER se HF\n教融合班;含创新药物转化方向、药品监管科\n学方向;含药学-人工知能、药学-经济学双学\n士学位]\n1327 复旦大学医学院 006 专业组(生物学) 5人\n11 护理学5人【7400 元/年;含护理学草越班;仿\n智慧康复方向、健康管理方向;含护理学-人工\n智能双学士学位]"
+}

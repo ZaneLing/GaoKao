@@ -1,0 +1,157 @@
+{
+  "institution_code": "5081",
+  "institution_name": "天津医科大学临床医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    198
+  ],
+  "printed_pages": [
+    247
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 198,
+      "printed_page": 247,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "AR",
+      "planned_enrollment": 14,
+      "heading_raw": "5081 天津医科大学临床医学院 001 专业组 (AR) 14人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "健康服务与管理",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 19000,
+          "notes": "【19000 元/年;单色不能 识别者不子录取] 年] 02 ”公共事业管理 5 (19000 元/年;单色不能识 BART RE)",
+          "raw_text": "Ol 健康服务与管理 1 人【19000 元/年;单色不能 识别者不子录取] 年] 02 ”公共事业管理 5 (19000 元/年;单色不能识 BART RE)"
+        },
+        {
+          "major_code": "03",
+          "name": "市场营销 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 19000,
+          "notes": "19000 元/年;单色不能识别者 RFRR)",
+          "raw_text": "03 市场营销 A (19000 元/年;单色不能识别者 RFRR)"
+        }
+      ],
+      "raw_text": "5081 天津医科大学临床医学院 001 专业组 (AR) 14人\nOl 健康服务与管理 1 人【19000 元/年;单色不能\n识别者不子录取]\n年] 02 ”公共事业管理 5 (19000 元/年;单色不能识\nBART RE)\n03 市场营销 A (19000 元/年;单色不能识别者\nRFRR)",
+      "parsed_major_plan_sum": 1,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "AR",
+      "planned_enrollment": 6,
+      "heading_raw": "5081 天津医科大学临床医学院 002 专业组 (AR) 6人",
+      "majors": [
+        {
+          "major_code": "04",
+          "name": "法学",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": 19000,
+          "notes": "[19000元/年]",
+          "raw_text": "04 法学6人[19000元/年]"
+        }
+      ],
+      "raw_text": "5081 天津医科大学临床医学院 002 专业组 (AR) 6人\n04 法学6人[19000元/年]",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": null,
+      "planned_enrollment": 6,
+      "heading_raw": "5081 天津医科大学临床医学院 003 专业组 (化学| 6人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "药学",
+          "planned_enrollment": 6,
+          "tuition_yuan_per_year": null,
+          "notes": "[25500 A/F; 88 CHARTER)",
+          "raw_text": "05 药学6人[25500 A/F; 88 CHARTER)"
+        }
+      ],
+      "raw_text": "5081 天津医科大学临床医学院 003 专业组 (化学| 6人\n05 药学6人[25500 A/F; 88 CHARTER)",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": null,
+      "planned_enrollment": 8,
+      "heading_raw": "5081 天津医科大学临床医学院 004 专业组 ]      (化学| 8人",
+      "majors": [],
+      "raw_text": "5081 天津医科大学临床医学院 004 专业组 ]      (化学| 8人\n]      (化学| 8人\n2h   06 护理学8 人【25500 A/F; 68 CHAFF\n3)     录取]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": null,
+      "planned_enrollment": 2,
+      "heading_raw": "AX | 3081 天津医科大学临床医学院 005 专业组 (化学| UA 1A 07 RRL 2A (25500 4/4; 68 EHR",
+      "majors": [
+        {
+          "major_code": "08",
+          "name": "医学检验技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 25500,
+          "notes": "【25500 元/年;色盲色弱 7人 者不予录取] RA 09 医学影像技术 5 人【25500 4/4; 6868 ARF RB) a 10 康复治疗学 2 人【25500 元/年;色盲色弱者 RF RR)",
+          "raw_text": "08 医学检验技术 2 人【25500 元/年;色盲色弱 7人 者不予录取] RA 09 医学影像技术 5 人【25500 4/4; 6868 ARF RB) a 10 康复治疗学 2 人【25500 元/年;色盲色弱者 RF RR)"
+        }
+      ],
+      "raw_text": "AX | 3081 天津医科大学临床医学院 005 专业组 (化学| UA 1A 07 RRL 2A (25500 4/4; 68 EHR\n(化学| UA\n1A 07 RRL 2A (25500 4/4; 68 EHR\nBA     FRB)\n08 医学检验技术 2 人【25500 元/年;色盲色弱\n7人     者不予录取]\nRA 09 医学影像技术 5 人【25500 4/4; 6868\nARF RB)\na   10 康复治疗学 2 人【25500 元/年;色盲色弱者\nRF RR)",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 5,
+      "heading_raw": "由不 | 5081 天津医科大学临床医学院 006 专业组(化学+ 生物学) 5人",
+      "majors": [],
+      "raw_text": "由不 | 5081 天津医科大学临床医学院 006 专业组(化学+ 生物学) 5人\n生物学) 5人\nR)   11 临床医学(5 年) SA (25500 4/4; 68.6\n弱者不子录取]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学+RE生物学",
+      "planned_enrollment": 4,
+      "heading_raw": "理、 | 5081 天津医科大学临床医学院 007 专业组( 化学+ RE     生物学) 4人",
+      "majors": [
+        {
+          "major_code": "12",
+          "name": "口腔医学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 25500,
+          "notes": "【25500 元/年;色盲,色 HARF RK)",
+          "raw_text": "12 口腔医学(5 年) 4 人【25500 元/年;色盲,色 HARF RK)"
+        }
+      ],
+      "raw_text": "理、 | 5081 天津医科大学临床医学院 007 专业组( 化学+ RE     生物学) 4人\n12 口腔医学(5 年) 4 人【25500 元/年;色盲,色\nHARF RK)",
+      "parsed_major_plan_sum": 4,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 7,
+  "major_count": 6,
+  "validation": {
+    "groups_ok_or_sum_corrected": 4,
+    "groups_requiring_visual_review": 3,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/5081_天津医科大学临床医学院_p198_c2.jpg"
+  ],
+  "raw_text": "--- PDF第198页（书内第247页），第2栏 ---\n5081 天津医科大学临床医学院 001 专业组\n(AR) 14人\nOl 健康服务与管理 1 人【19000 元/年;单色不能\n识别者不子录取]\n年] 02 ”公共事业管理 5 (19000 元/年;单色不能识\nBART RE)\n03 市场营销 A (19000 元/年;单色不能识别者\nRFRR)\n5081 天津医科大学临床医学院 002 专业组\n(AR) 6人\n04 法学6人[19000元/年]\n5081 天津医科大学临床医学院 003 专业组\n(化学| 6人\n05 药学6人[25500 A/F; 88 CHARTER)\n5081 天津医科大学临床医学院 004 专业组\n]      (化学| 8人\n2h   06 护理学8 人【25500 A/F; 68 CHAFF\n3)     录取]\nAX | 3081 天津医科大学临床医学院 005 专业组\n(化学| UA\n1A 07 RRL 2A (25500 4/4; 68 EHR\nBA     FRB)\n08 医学检验技术 2 人【25500 元/年;色盲色弱\n7人     者不予录取]\nRA 09 医学影像技术 5 人【25500 4/4; 6868\nARF RB)\na   10 康复治疗学 2 人【25500 元/年;色盲色弱者\nRF RR)\n由不 | 5081 天津医科大学临床医学院 006 专业组(化学+\n生物学) 5人\nR)   11 临床医学(5 年) SA (25500 4/4; 68.6\n弱者不子录取]\n理、 | 5081 天津医科大学临床医学院 007 专业组( 化学+\nRE     生物学) 4人\n12 口腔医学(5 年) 4 人【25500 元/年;色盲,色\nHARF RK)"
+}
