@@ -1,0 +1,82 @@
+{
+  "institution_code": "3042",
+  "institution_name": "郑州健康学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    177
+  ],
+  "printed_pages": [
+    226
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 177,
+      "printed_page": 226,
+      "column": 2
+    },
+    {
+      "pdf_page": 177,
+      "printed_page": 226,
+      "column": 3
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 6,
+      "heading_raw": "3042 郑州健康学院 001 专业组(化学) 6人    24",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "医学检验技术 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 1700,
+          "notes": "1700 元/年;体检结果为 27 | 色盲、色有弱的考生,医学类专业不予录取] 3049",
+          "raw_text": "02 医学检验技术 1A (1700 元/年;体检结果为 27 | 色盲、色有弱的考生,医学类专业不予录取] 3049"
+        },
+        {
+          "major_code": "03",
+          "name": "医学影像技术",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 17000,
+          "notes": "【17000 元/年;体检结果为 28 | 色盲\\色能的考生,医学类专业不予录取] 29:",
+          "raw_text": "03 医学影像技术 1 人【17000 元/年;体检结果为 28 | 色盲\\色能的考生,医学类专业不予录取] 29:"
+        },
+        {
+          "major_code": "04",
+          "name": "康复治疗学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 17000,
+          "notes": "【17000 元/年;体检结果为色 30 7 讶色弱的考生,医学类专业不予录取]",
+          "raw_text": "04 康复治疗学 1 人【17000 元/年;体检结果为色 30 7 讶色弱的考生,医学类专业不予录取]"
+        },
+        {
+          "major_code": "05",
+          "name": "护理学 2 (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 17000,
+          "notes": "17000 元/年;体检结果为色盲、 色弱的考生,医学类专业不予录取]",
+          "raw_text": "05 护理学 2 (17000 元/年;体检结果为色盲、 色弱的考生,医学类专业不予录取]"
+        }
+      ],
+      "raw_text": "3042 郑州健康学院 001 专业组(化学) 6人    24\n02 医学检验技术 1A (1700 元/年;体检结果为   27 |\n色盲、色有弱的考生,医学类专业不予录取]     3049\n03 医学影像技术 1 人【17000 元/年;体检结果为   28 |\n色盲\\色能的考生,医学类专业不予录取]     29:\n04 康复治疗学 1 人【17000 元/年;体检结果为色   30 7\n讶色弱的考生,医学类专业不予录取]\n05 护理学 2 (17000 元/年;体检结果为色盲、\n色弱的考生,医学类专业不予录取]",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 1,
+  "major_count": 4,
+  "validation": {
+    "groups_ok_or_sum_corrected": 0,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/3042_郑州健康学院_p177_c2.jpg",
+    "source_crops/3042_郑州健康学院_p177_c3.jpg"
+  ],
+  "raw_text": "--- PDF第177页（书内第226页），第2栏 ---\n3042 郑州健康学院 001 专业组(化学) 6人    24\nOL 药学1人【17000 元/年;体检结果为色盲\\色   5,\nHUFL, RFRELAF RK)       26 |\n02 医学检验技术 1A (1700 元/年;体检结果为   27 |\n色盲、色有弱的考生,医学类专业不予录取]     3049\n03 医学影像技术 1 人【17000 元/年;体检结果为   28 |\n色盲\\色能的考生,医学类专业不予录取]     29:\n04 康复治疗学 1 人【17000 元/年;体检结果为色   30 7\n\n--- PDF第177页（书内第226页），第3栏 ---\n讶色弱的考生,医学类专业不予录取]\n05 护理学 2 (17000 元/年;体检结果为色盲、\n色弱的考生,医学类专业不予录取]"
+}

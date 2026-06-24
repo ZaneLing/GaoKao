@@ -1,0 +1,68 @@
+{
+  "institution_code": "5048",
+  "institution_name": "辽宁中医药大学杏林学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    194
+  ],
+  "printed_pages": [
+    243
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 194,
+      "printed_page": 243,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 50,
+      "heading_raw": "5048 辽宁中医药大学杏林学院 001 专业组 (化学) 50人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "中医学(5 年)",
+          "planned_enrollment": 22,
+          "tuition_yuan_per_year": 29000,
+          "notes": "【29000 元/年;不招收色 HER BERNA)",
+          "raw_text": "01 中医学(5 年) 22 人【29000 元/年;不招收色 HER BERNA)"
+        },
+        {
+          "major_code": "02",
+          "name": "中西医临床医学(5 #) 16 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 29000,
+          "notes": "29000 元/年; 不招收色盲色弱、单色识别不全者]",
+          "raw_text": "02 中西医临床医学(5 #) 16 A (29000 元/年; 不招收色盲色弱、单色识别不全者]"
+        },
+        {
+          "major_code": "03",
+          "name": "针灸推拿学(5 年)",
+          "planned_enrollment": 12,
+          "tuition_yuan_per_year": 29000,
+          "notes": "【29000 元/年;不招 KEW EB ERMA)",
+          "raw_text": "03 针灸推拿学(5 年) 12 人【29000 元/年;不招 KEW EB ERMA)"
+        }
+      ],
+      "raw_text": "5048 辽宁中医药大学杏林学院 001 专业组 (化学) 50人\n01 中医学(5 年) 22 人【29000 元/年;不招收色\nHER BERNA)\n02 中西医临床医学(5 #) 16 A (29000 元/年;\n不招收色盲色弱、单色识别不全者]\n03 针灸推拿学(5 年) 12 人【29000 元/年;不招\nKEW EB ERMA)",
+      "parsed_major_plan_sum": 34,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 1,
+  "major_count": 3,
+  "validation": {
+    "groups_ok_or_sum_corrected": 0,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/5048_辽宁中医药大学杏林学院_p194_c1.jpg"
+  ],
+  "raw_text": "--- PDF第194页（书内第243页），第1栏 ---\n5048 辽宁中医药大学杏林学院 001 专业组\n(化学) 50人\n01 中医学(5 年) 22 人【29000 元/年;不招收色\nHER BERNA)\n02 中西医临床医学(5 #) 16 A (29000 元/年;\n不招收色盲色弱、单色识别不全者]\n03 针灸推拿学(5 年) 12 人【29000 元/年;不招\nKEW EB ERMA)"
+}

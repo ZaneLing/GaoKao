@@ -1,0 +1,226 @@
+{
+  "institution_code": "2936",
+  "institution_name": "右江民族医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    169
+  ],
+  "printed_pages": [
+    218
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 169,
+      "printed_page": 218,
+      "column": 1
+    },
+    {
+      "pdf_page": 169,
+      "printed_page": 218,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 3,
+      "heading_raw": "2936，右江民族医学院 001 专业组( 不限) 3 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "大教据管理与应用",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 4600,
+          "notes": "【4600 元/年]",
+          "raw_text": "Ol 大教据管理与应用 1 人【4600 元/年]"
+        },
+        {
+          "major_code": "02",
+          "name": "”公共事业管理",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 4600,
+          "notes": "【4600 元/年]",
+          "raw_text": "02 ”公共事业管理 1 人【4600 元/年]"
+        },
+        {
+          "major_code": "03",
+          "name": "”健康服务与管理",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 4600,
+          "notes": "【4600 元/年] “218 ，",
+          "raw_text": "03 ”健康服务与管理 1 人【4600 元/年] “218 ，"
+        }
+      ],
+      "raw_text": "2936，右江民族医学院 001 专业组( 不限) 3 人\nOl 大教据管理与应用 1 人【4600 元/年]\n02 ”公共事业管理 1 人【4600 元/年]\n03 ”健康服务与管理 1 人【4600 元/年]\n“218 ，",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 5,
+      "heading_raw": "2936 ”右江民族医学院 002 专业组(化学) SA 色弱及不能准确识别红、黄\\、绿、蓝、紫各种颜   03:",
+      "majors": [
+        {
+          "major_code": "04",
+          "name": "临床医学(5 年)",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 5400,
+          "notes": "【5400 元/年;不招色育、 OQ: 色弱及不能准确识别红、黄\\、绿、蓝、紫各种颜 03: 色中任何一种颜色的导线、按键、信号灯\\几何 04 1 图形的考生]",
+          "raw_text": "04 临床医学(5 年) 5 人【5400 元/年;不招色育、 OQ: 色弱及不能准确识别红、黄\\、绿、蓝、紫各种颜 03: 色中任何一种颜色的导线、按键、信号灯\\几何 04 1 图形的考生]"
+        }
+      ],
+      "raw_text": "2936 ”右江民族医学院 002 专业组(化学) SA 色弱及不能准确识别红、黄\\、绿、蓝、紫各种颜   03:\n04 临床医学(5 年) 5 人【5400 元/年;不招色育、   OQ:\n色弱及不能准确识别红、黄\\、绿、蓝、紫各种颜   03:\n色中任何一种颜色的导线、按键、信号灯\\几何   04 1\n图形的考生]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": null,
+      "planned_enrollment": null,
+      "heading_raw": "2936 右江民族医学院 003 专业组(化学| 1A   05 : 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 | OL ，",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "康复物理治疗 ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5400,
+          "notes": "5400 元/年;不招色盲\\色 2941 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 | OL ， 中任何一种颜色的导线\\按键\\信号灯\\几何图 2941 形的考生] 0",
+          "raw_text": "05 康复物理治疗 ] 人【5400 元/年;不招色盲\\色 2941 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 | OL ， 中任何一种颜色的导线\\按键\\信号灯\\几何图 2941 形的考生] 0"
+        }
+      ],
+      "raw_text": "2936 右江民族医学院 003 专业组(化学| 1A   05 : 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 | OL ，\n05 康复物理治疗 ] 人【5400 元/年;不招色盲\\色   2941\n能及不能准确识别红、黄\\绿、蓝、紫各种颜色 | OL ，\n中任何一种颜色的导线\\按键\\信号灯\\几何图   2941\n形的考生]                 0",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "2936 ”右江民族医学院 004 专业组(化学) 1A   2941 A EHARERARAA RAR HES | 2942",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "医学影像学(5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5400,
+          "notes": "5400 元/年;不招色 | 03 A EHARERARAA RAR HES | 2942 颜色中任何一种颜色的导线、按键、信号灯\\几 01 ， 何图形的考生] QQ.",
+          "raw_text": "06 医学影像学(5 年) 1A (5400 元/年;不招色 | 03 A EHARERARAA RAR HES | 2942 颜色中任何一种颜色的导线、按键、信号灯\\几 01 ， 何图形的考生] QQ."
+        }
+      ],
+      "raw_text": "2936 ”右江民族医学院 004 专业组(化学) 1A   2941 A EHARERARAA RAR HES | 2942\n06 医学影像学(5 年) 1A (5400 元/年;不招色 | 03\nA EHARERARAA RAR HES | 2942\n颜色中任何一种颜色的导线、按键、信号灯\\几   01 ，\n何图形的考生]              QQ.",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2936 右江民族医学院 005 专业组( 化学) 3 人   0",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "生物医学工程 ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 4600,
+          "notes": "4600 元/年;不招色育、色 04 ， 能及不能准确识别红、黄\\绿、蓝\\紫各种颜色 05 中任何一种颜色的导线、按键、信号灯\\几何图 2942 形的考生] 06",
+          "raw_text": "07 生物医学工程 ] 人【4600 元/年;不招色育、色 04 ， 能及不能准确识别红、黄\\绿、蓝\\紫各种颜色 05 中任何一种颜色的导线、按键、信号灯\\几何图 2942 形的考生] 06"
+        },
+        {
+          "major_code": "08",
+          "name": "医学检验技术",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5400,
+          "notes": "【5400 元/年;不招色育、色 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 2942 中任何一种颜色的导线、按键信号灯\\几何图 0 形的考生]",
+          "raw_text": "08 医学检验技术 1 人【5400 元/年;不招色育、色 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 2942 中任何一种颜色的导线、按键信号灯\\几何图 0 形的考生]"
+        },
+        {
+          "major_code": "09",
+          "name": "医学影像技术 LA (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5400,
+          "notes": "5400 元/年;不招色盲、色 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 中任何一种颜色的导线按键信号灯\\几何图 2942 形的考生] 08",
+          "raw_text": "09 医学影像技术 LA (5400 元/年;不招色盲、色 能及不能准确识别红、黄\\绿、蓝、紫各种颜色 中任何一种颜色的导线按键信号灯\\几何图 2942 形的考生] 08"
+        }
+      ],
+      "raw_text": "2936 右江民族医学院 005 专业组( 化学) 3 人   0\n07 生物医学工程 ] 人【4600 元/年;不招色育、色   04 ，\n能及不能准确识别红、黄\\绿、蓝\\紫各种颜色   05\n中任何一种颜色的导线、按键、信号灯\\几何图   2942\n形的考生]                 06\n08 医学检验技术 1 人【5400 元/年;不招色育、色\n能及不能准确识别红、黄\\绿、蓝、紫各种颜色   2942\n中任何一种颜色的导线、按键信号灯\\几何图   0\n形的考生]\n09 医学影像技术 LA (5400 元/年;不招色盲、色\n能及不能准确识别红、黄\\绿、蓝、紫各种颜色\n中任何一种颜色的导线按键信号灯\\几何图   2942\n形的考生]                08",
+      "parsed_major_plan_sum": 1,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学",
+      "planned_enrollment": 1,
+      "heading_raw": "2936 ”右江民族医学院 006 专业组( 化学) 工人   09",
+      "majors": [
+        {
+          "major_code": "10",
+          "name": "药学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5400,
+          "notes": "[5400 元/年;不招色育\\色弱及不能 准确识别红、黄、绿、蓝、紫各种颜色中任何一 2942 种颜色的导线、按键、信号灯\\几何图形的考 10 4)",
+          "raw_text": "10 药学1 人[5400 元/年;不招色育\\色弱及不能 准确识别红、黄、绿、蓝、紫各种颜色中任何一 2942 种颜色的导线、按键、信号灯\\几何图形的考 10 4)"
+        }
+      ],
+      "raw_text": "2936 ”右江民族医学院 006 专业组( 化学) 工人   09\n10 药学1 人[5400 元/年;不招色育\\色弱及不能\n准确识别红、黄、绿、蓝、紫各种颜色中任何一   2942\n种颜色的导线、按键、信号灯\\几何图形的考   10\n4)",
+      "parsed_major_plan_sum": 1,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学",
+      "planned_enrollment": null,
+      "heading_raw": "2936 AVLRRE SH 007 专业组(化学) 1A   I 色弱及不能准确识别红、黄\\绿、蓝、紫各种颜   12",
+      "majors": [
+        {
+          "major_code": "11",
+          "name": "预防医学(5 年) 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5400,
+          "notes": "5400 元/年;不招色盲、 色弱及不能准确识别红、黄\\绿、蓝、紫各种颜 12 CPE —ARE HER BO ES UT 图形的考生] 13",
+          "raw_text": "11 预防医学(5 年) 1A (5400 元/年;不招色盲、 色弱及不能准确识别红、黄\\绿、蓝、紫各种颜 12 CPE —ARE HER BO ES UT 图形的考生] 13"
+        }
+      ],
+      "raw_text": "2936 AVLRRE SH 007 专业组(化学) 1A   I 色弱及不能准确识别红、黄\\绿、蓝、紫各种颜   12\n11 预防医学(5 年) 1A (5400 元/年;不招色盲、\n色弱及不能准确识别红、黄\\绿、蓝、紫各种颜   12\nCPE —ARE HER BO ES UT\n图形的考生]               13",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "008",
+      "selection_requirement": "生物学",
+      "planned_enrollment": 1,
+      "heading_raw": "2936”右江民族医学院 008 专业组( 生物学) 工人",
+      "majors": [
+        {
+          "major_code": "12",
+          "name": "护理学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5400,
+          "notes": "(5400 元/年;不招色盲色弱及不 2945 能准确识别红、黄\\绿、蓝、紫各种颜色中任何 | Ol 一种颜色的导线\\按键、信号灯\\几何图形的考 2945 生;身高低于1.55 米的女生、身高低于1.65 | 02 米的男生导报] 03",
+          "raw_text": "12 护理学1 人 (5400 元/年;不招色盲色弱及不 2945 能准确识别红、黄\\绿、蓝、紫各种颜色中任何 | Ol 一种颜色的导线\\按键、信号灯\\几何图形的考 2945 生;身高低于1.55 米的女生、身高低于1.65 | 02 米的男生导报] 03"
+        }
+      ],
+      "raw_text": "2936”右江民族医学院 008 专业组( 生物学) 工人\n12 护理学1 人 (5400 元/年;不招色盲色弱及不   2945\n能准确识别红、黄\\绿、蓝、紫各种颜色中任何 | Ol\n一种颜色的导线\\按键、信号灯\\几何图形的考   2945\n生;身高低于1.55 米的女生、身高低于1.65 | 02\n米的男生导报]              03",
+      "parsed_major_plan_sum": 1,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    }
+  ],
+  "group_count": 8,
+  "major_count": 12,
+  "validation": {
+    "groups_ok_or_sum_corrected": 4,
+    "groups_requiring_visual_review": 4,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2936_右江民族医学院_p169_c1.jpg",
+    "source_crops/2936_右江民族医学院_p169_c2.jpg"
+  ],
+  "raw_text": "--- PDF第169页（书内第218页），第1栏 ---\n2936，右江民族医学院 001 专业组( 不限) 3 人\nOl 大教据管理与应用 1 人【4600 元/年]\n02 ”公共事业管理 1 人【4600 元/年]\n03 ”健康服务与管理 1 人【4600 元/年]\n“218 ，\n\n--- PDF第169页（书内第218页），第2栏 ---\n2936 ”右江民族医学院 002 专业组(化学) SA\n04 临床医学(5 年) 5 人【5400 元/年;不招色育、   OQ:\n色弱及不能准确识别红、黄\\、绿、蓝、紫各种颜   03:\n色中任何一种颜色的导线、按键、信号灯\\几何   04 1\n图形的考生]\n2936 右江民族医学院 003 专业组(化学| 1A   05 :\n05 康复物理治疗 ] 人【5400 元/年;不招色盲\\色   2941\n能及不能准确识别红、黄\\绿、蓝、紫各种颜色 | OL ，\n中任何一种颜色的导线\\按键\\信号灯\\几何图   2941\n形的考生]                 0\n2936 ”右江民族医学院 004 专业组(化学) 1A   2941\n06 医学影像学(5 年) 1A (5400 元/年;不招色 | 03\nA EHARERARAA RAR HES | 2942\n颜色中任何一种颜色的导线、按键、信号灯\\几   01 ，\n何图形的考生]              QQ.\n2936 右江民族医学院 005 专业组( 化学) 3 人   0\n07 生物医学工程 ] 人【4600 元/年;不招色育、色   04 ，\n能及不能准确识别红、黄\\绿、蓝\\紫各种颜色   05\n中任何一种颜色的导线、按键、信号灯\\几何图   2942\n形的考生]                 06\n08 医学检验技术 1 人【5400 元/年;不招色育、色\n能及不能准确识别红、黄\\绿、蓝、紫各种颜色   2942\n中任何一种颜色的导线、按键信号灯\\几何图   0\n形的考生]\n09 医学影像技术 LA (5400 元/年;不招色盲、色\n能及不能准确识别红、黄\\绿、蓝、紫各种颜色\n中任何一种颜色的导线按键信号灯\\几何图   2942\n形的考生]                08\n2936 ”右江民族医学院 006 专业组( 化学) 工人   09\n10 药学1 人[5400 元/年;不招色育\\色弱及不能\n准确识别红、黄、绿、蓝、紫各种颜色中任何一   2942\n种颜色的导线、按键、信号灯\\几何图形的考   10\n4)\n2936 AVLRRE SH 007 专业组(化学) 1A   I\n11 预防医学(5 年) 1A (5400 元/年;不招色盲、\n色弱及不能准确识别红、黄\\绿、蓝、紫各种颜   12\nCPE —ARE HER BO ES UT\n图形的考生]               13\n2936”右江民族医学院 008 专业组( 生物学) 工人\n12 护理学1 人 (5400 元/年;不招色盲色弱及不   2945\n能准确识别红、黄\\绿、蓝、紫各种颜色中任何 | Ol\n一种颜色的导线\\按键、信号灯\\几何图形的考   2945\n生;身高低于1.55 米的女生、身高低于1.65 | 02\n米的男生导报]              03"
+}

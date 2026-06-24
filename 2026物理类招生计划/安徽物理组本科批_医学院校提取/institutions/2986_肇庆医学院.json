@@ -1,0 +1,134 @@
+{
+  "institution_code": "2986",
+  "institution_name": "肇庆医学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    171
+  ],
+  "printed_pages": [
+    220
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 171,
+      "printed_page": 220,
+      "column": 3
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 2,
+      "heading_raw": "2986 SERESR 001 专业组(不限】 2人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "健康服务与管理",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 4590,
+          "notes": "【4590 元/年;不招色育、 684)",
+          "raw_text": "Ol 健康服务与管理 2 人【4590 元/年;不招色育、 684)"
+        }
+      ],
+      "raw_text": "2986 SERESR 001 专业组(不限】 2人\nOl 健康服务与管理 2 人【4590 元/年;不招色育、\n684)",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 6,
+      "heading_raw": "2986 PREF 02 专业组(化学) 6A",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5800,
+          "notes": "[5800 元/年;不招色育、色弱者]",
+          "raw_text": "02 药学2人[5800 元/年;不招色育、色弱者]"
+        },
+        {
+          "major_code": "03",
+          "name": "口腔医学技术",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5800,
+          "notes": "(5800 元/年;不招色育\\.色 84)",
+          "raw_text": "03 口腔医学技术 2 人 (5800 元/年;不招色育\\.色 84)"
+        },
+        {
+          "major_code": "04",
+          "name": "护理学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5800,
+          "notes": "(5800 元/年;不招色盲、色弱者]",
+          "raw_text": "04 护理学2人 (5800 元/年;不招色盲、色弱者]"
+        }
+      ],
+      "raw_text": "2986 PREF 02 专业组(化学) 6A\n02 药学2人[5800 元/年;不招色育、色弱者]\n03 口腔医学技术 2 人 (5800 元/年;不招色育\\.色\n84)\n04 护理学2人 (5800 元/年;不招色盲、色弱者]",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 4,
+      "heading_raw": "2986 ”秘庆医学院 003 专业组(化学) 4人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "药物制剂",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5800,
+          "notes": "【5800 元/年;不招色盲.色弱 者]",
+          "raw_text": "05 药物制剂 2 人【5800 元/年;不招色盲.色弱 者]"
+        },
+        {
+          "major_code": "06",
+          "name": "康复治疗学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": null,
+          "notes": "【5800 4/4, FBER CH 4)",
+          "raw_text": "06 康复治疗学2 人【5800 4/4, FBER CH 4)"
+        }
+      ],
+      "raw_text": "2986 ”秘庆医学院 003 专业组(化学) 4人\n05 药物制剂 2 人【5800 元/年;不招色盲.色弱\n者]\n06 康复治疗学2 人【5800 4/4, FBER CH\n4)",
+      "parsed_major_plan_sum": 4,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2986 REE 004 专业组(化学) 3人",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "临床医学(5 年) 3A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5800,
+          "notes": "5800 元/年;不招色盲、 684)",
+          "raw_text": "07 临床医学(5 年) 3A (5800 元/年;不招色盲、 684)"
+        }
+      ],
+      "raw_text": "2986 REE 004 专业组(化学) 3人\n07 临床医学(5 年) 3A (5800 元/年;不招色盲、\n684)",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 4,
+  "major_count": 7,
+  "validation": {
+    "groups_ok_or_sum_corrected": 3,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2986_肇庆医学院_p171_c3.jpg"
+  ],
+  "raw_text": "--- PDF第171页（书内第220页），第3栏 ---\n2986 SERESR 001 专业组(不限】 2人\nOl 健康服务与管理 2 人【4590 元/年;不招色育、\n684)\n2986 PREF 02 专业组(化学) 6A\n02 药学2人[5800 元/年;不招色育、色弱者]\n03 口腔医学技术 2 人 (5800 元/年;不招色育\\.色\n84)\n04 护理学2人 (5800 元/年;不招色盲、色弱者]\n2986 ”秘庆医学院 003 专业组(化学) 4人\n05 药物制剂 2 人【5800 元/年;不招色盲.色弱\n者]\n06 康复治疗学2 人【5800 4/4, FBER CH\n4)\n2986 REE 004 专业组(化学) 3人\n07 临床医学(5 年) 3A (5800 元/年;不招色盲、\n684)"
+}

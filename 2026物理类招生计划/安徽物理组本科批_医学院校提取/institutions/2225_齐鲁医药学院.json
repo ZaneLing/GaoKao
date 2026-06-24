@@ -1,0 +1,269 @@
+{
+  "institution_code": "2225",
+  "institution_name": "齐鲁医药学院",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    110
+  ],
+  "printed_pages": [
+    159
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 110,
+      "printed_page": 159,
+      "column": 1
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 159,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2225 齐鲁医药学院 001 专业组( 化学) 3 人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "生物医学工程3 (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 18500,
+          "notes": "18500 元/年]",
+          "raw_text": "Ol 生物医学工程3 (18500 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 001 专业组( 化学) 3 人\nOl 生物医学工程3 (18500 元/年]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2225 齐鲁医药学院 002 专业组(化学) 3 人",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "食品科学与工程",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 17500,
+          "notes": "[17500 元/年]",
+          "raw_text": "02 食品科学与工程3人[17500 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 002 专业组(化学) 3 人\n02 食品科学与工程3人[17500 元/年]",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2225 齐鲁医药学院 003 专业组(化学) 3 人",
+      "majors": [
+        {
+          "major_code": "03",
+          "name": "生物制药",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 18500,
+          "notes": "【18500 元/年]",
+          "raw_text": "03 生物制药 3 人【18500 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 003 专业组(化学) 3 人\n03 生物制药 3 人【18500 元/年]",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2225 齐鲁医药学院 004 专业组(化学) 3 人",
+      "majors": [
+        {
+          "major_code": "04",
+          "name": "生物医学科学 3 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 19800,
+          "notes": "19800 元/年]",
+          "raw_text": "04 生物医学科学 3 A (19800 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 004 专业组(化学) 3 人\n04 生物医学科学 3 A (19800 元/年]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": null,
+      "planned_enrollment": 10,
+      "heading_raw": "2225 齐鲁医药学院 005 专业组(化学| 10 人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "临床医学(5 年)",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 22500,
+          "notes": "【22500 元/年]",
+          "raw_text": "05 临床医学(5 年) 10 人【22500 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 005 专业组(化学| 10 人\n05 临床医学(5 年) 10 人【22500 元/年]",
+      "parsed_major_plan_sum": 10,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": null,
+      "planned_enrollment": 4,
+      "heading_raw": "2225 齐鲁医药学院 006 专业组(化学| 4人",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "医学影像学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 22500,
+          "notes": "【22500元/年]",
+          "raw_text": "06 医学影像学(5 年) 4 人【22500元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 006 专业组(化学| 4人\n06 医学影像学(5 年) 4 人【22500元/年]",
+      "parsed_major_plan_sum": 4,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学",
+      "planned_enrollment": 5,
+      "heading_raw": "2225 齐鲁医药学院 007 专业组(化学) SA",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "口腔医学(5年)",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 29800,
+          "notes": "【29800 元/年]",
+          "raw_text": "07 口腔医学(5年) 5 人【29800 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 007 专业组(化学) SA\n07 口腔医学(5年) 5 人【29800 元/年]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "008",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2225 齐鲁医药学院 008 专业组( 化学) 3人",
+      "majors": [
+        {
+          "major_code": "08",
+          "name": "预防医学(5 年) 3A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 22500,
+          "notes": "22500 元/年]",
+          "raw_text": "08 预防医学(5 年) 3A (22500 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 008 专业组( 化学) 3人\n08 预防医学(5 年) 3A (22500 元/年]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "009",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "2225 齐鲁医药学院 009 专业组( 化学) 3人",
+      "majors": [
+        {
+          "major_code": "09",
+          "name": "药物制剂",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19000,
+          "notes": "【19000 元/年]",
+          "raw_text": "09 药物制剂 3 人【19000 元/年]"
+        }
+      ],
+      "raw_text": "2225 齐鲁医药学院 009 专业组( 化学) 3人\n09 药物制剂 3 人【19000 元/年]",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "010",
+      "selection_requirement": "化学",
+      "planned_enrollment": 2,
+      "heading_raw": "2225 齐鲁医药学院 010 专业组(化学) 2人",
+      "majors": [],
+      "raw_text": "2225 齐鲁医药学院 010 专业组(化学) 2人\nSe   10 化妆品科学与技术2 人【18500 元/年]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "011",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "Ae   2225 齐鲁医药学院 011 专业组(化学) 3 人",
+      "majors": [
+        {
+          "major_code": "11",
+          "name": "中药学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19000,
+          "notes": "【19000 元/年]",
+          "raw_text": "11 中药学3人【19000 元/年]"
+        }
+      ],
+      "raw_text": "Ae   2225 齐鲁医药学院 011 专业组(化学) 3 人\n11 中药学3人【19000 元/年]",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "012",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "| 2225 齐鲁医药学院 012 专业组(化学) 3人",
+      "majors": [
+        {
+          "major_code": "12",
+          "name": "医学实验技术",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 19000,
+          "notes": "【19000 元/年]",
+          "raw_text": "12 医学实验技术 3 人【19000 元/年]"
+        }
+      ],
+      "raw_text": "| 2225 齐鲁医药学院 012 专业组(化学) 3人\n12 医学实验技术 3 人【19000 元/年]",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "013",
+      "selection_requirement": "化学",
+      "planned_enrollment": 7,
+      "heading_raw": ":)   25 齐鲁医药学院 013 专业组( 化学) 7 人",
+      "majors": [],
+      "raw_text": ":)   25 齐鲁医药学院 013 专业组( 化学) 7 人\n1)   13 护理学?人[19000元/年]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 13,
+  "major_count": 11,
+  "validation": {
+    "groups_ok_or_sum_corrected": 8,
+    "groups_requiring_visual_review": 5,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2225_齐鲁医药学院_p110_c1.jpg",
+    "source_crops/2225_齐鲁医药学院_p110_c2.jpg"
+  ],
+  "raw_text": "--- PDF第110页（书内第159页），第1栏 ---\n2225 齐鲁医药学院 001 专业组( 化学) 3 人\nOl 生物医学工程3 (18500 元/年]\n2225 齐鲁医药学院 002 专业组(化学) 3 人\n02 食品科学与工程3人[17500 元/年]\n2225 齐鲁医药学院 003 专业组(化学) 3 人\n03 生物制药 3 人【18500 元/年]\n2225 齐鲁医药学院 004 专业组(化学) 3 人\n04 生物医学科学 3 A (19800 元/年]\n2225 齐鲁医药学院 005 专业组(化学| 10 人\n05 临床医学(5 年) 10 人【22500 元/年]\n2225 齐鲁医药学院 006 专业组(化学| 4人\n06 医学影像学(5 年) 4 人【22500元/年]\n2225 齐鲁医药学院 007 专业组(化学) SA\n07 口腔医学(5年) 5 人【29800 元/年]\n2225 齐鲁医药学院 008 专业组( 化学) 3人\n08 预防医学(5 年) 3A (22500 元/年]\n2225 齐鲁医药学院 009 专业组( 化学) 3人\n09 药物制剂 3 人【19000 元/年]\n\n--- PDF第110页（书内第159页），第2栏 ---\n2225 齐鲁医药学院 010 专业组(化学) 2人\nSe   10 化妆品科学与技术2 人【18500 元/年]\nAe   2225 齐鲁医药学院 011 专业组(化学) 3 人\n11 中药学3人【19000 元/年]\n| 2225 齐鲁医药学院 012 专业组(化学) 3人\n12 医学实验技术 3 人【19000 元/年]\n:)   25 齐鲁医药学院 013 专业组( 化学) 7 人\n1)   13 护理学?人[19000元/年]"
+}

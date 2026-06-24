@@ -1,0 +1,217 @@
+{
+  "institution_code": "1310",
+  "institution_name": "福建医科大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    31
+  ],
+  "printed_pages": [
+    80
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 31,
+      "printed_page": 80,
+      "column": 1
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 80,
+      "column": 2
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "不限",
+      "planned_enrollment": 4,
+      "heading_raw": "1310 福建医科大学 001 专业组(不限) 4人",
+      "majors": [
+        {
+          "major_code": "01",
+          "name": "公共事业管理",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5460,
+          "notes": "(5460 元/年;不招单色识 。80 . 别能力异常考生]",
+          "raw_text": "Ol 公共事业管理 1 人 (5460 元/年;不招单色识 。80 . 别能力异常考生]"
+        },
+        {
+          "major_code": "02",
+          "name": "“运动康复工人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5040,
+          "notes": "5040元/年] 10",
+          "raw_text": "02 “运动康复工人【5040元/年] 10"
+        },
+        {
+          "major_code": "03",
+          "name": "应用心理学",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 500,
+          "notes": "(500 元/年;不招色盲\\色能 考生] 1313 4 “医疗保险 LA (5400 元/年;不招单色识别能 03 力异常考生]",
+          "raw_text": "03 应用心理学 1 人 (500 元/年;不招色盲\\色能 考生] 1313 4 “医疗保险 LA (5400 元/年;不招单色识别能 03 力异常考生]"
+        }
+      ],
+      "raw_text": "1310 福建医科大学 001 专业组(不限) 4人\nOl 公共事业管理 1 人 (5460 元/年;不招单色识\n。80 .\n别能力异常考生]\n02 “运动康复工人【5040元/年]         10\n03 应用心理学 1 人 (500 元/年;不招色盲\\色能\n考生]                  1313\n4 “医疗保险 LA (5400 元/年;不招单色识别能   03\n力异常考生]",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": "化学",
+      "planned_enrollment": 7,
+      "heading_raw": "1310 福建医科大学 002 专业组( 化学) 7人    1313",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "PEE SA (6700 4/4; FBER EBS 4 4)",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "05 PEE SA (6700 4/4; FBER EBS 4 4)"
+        },
+        {
+          "major_code": "06",
+          "name": "BEE LA (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6100,
+          "notes": "6100 元/年;不招色育\\色能考 生] 1313",
+          "raw_text": "06 BEE LA (6100 元/年;不招色育\\色能考 生] 1313"
+        }
+      ],
+      "raw_text": "1310 福建医科大学 002 专业组( 化学) 7人    1313\n05 PEE SA (6700 4/4; FBER EBS   4\n4)\n06 BEE LA (6100 元/年;不招色育\\色能考\n生]                   1313",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": null,
+      "heading_raw": "1310 福建医科大学 003 专业组( 化学+生物学)    05 uA",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "BREF(S#) 9A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6700,
+          "notes": "6700 元/年;不招色盲、 色弱考生] 06",
+          "raw_text": "07 BREF(S#) 9A (6700 元/年;不招色盲、 色弱考生] 06"
+        },
+        {
+          "major_code": "08",
+          "name": "口腔医学(5年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": null,
+          "notes": "【6760 t/F; KER, E44) 7",
+          "raw_text": "08 口腔医学(5年) 2人【6760 t/F; KER, E44) 7"
+        }
+      ],
+      "raw_text": "1310 福建医科大学 003 专业组( 化学+生物学)    05 uA\n07 BREF(S#) 9A (6700 元/年;不招色盲、\n色弱考生]                06\n08 口腔医学(5年) 2人【6760 t/F; KER,\nE44)                7",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 7,
+      "heading_raw": "1310 福建医科大学 004 专业组( 化学+生物学) 7 人",
+      "majors": [
+        {
+          "major_code": "09",
+          "name": "预防医学(5 年) ] 人",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6760,
+          "notes": "6760 元/年;不招色育、 844) 08",
+          "raw_text": "09 预防医学(5 年) ] 人[6760 元/年;不招色育、 844) 08"
+        },
+        {
+          "major_code": "10",
+          "name": "基础医学(5 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6760,
+          "notes": "【6760元/年;不招色言、 EHF)",
+          "raw_text": "10 基础医学(5 年) 2 人【6760元/年;不招色言、 EHF)"
+        },
+        {
+          "major_code": "11",
+          "name": "医学检验技术",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 6240,
+          "notes": "[6240 元/年;不招色盲色 | 09 弱考生]",
+          "raw_text": "11 医学检验技术 1 人[6240 元/年;不招色盲色 | 09 弱考生]"
+        },
+        {
+          "major_code": "12",
+          "name": "医学影像技术 1A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6240,
+          "notes": "6240 元/年;不招色盲\\色 10 弱考生]",
+          "raw_text": "12 医学影像技术 1A (6240 元/年;不招色盲\\色 10 弱考生]"
+        },
+        {
+          "major_code": "13",
+          "name": "康复治疗学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6240,
+          "notes": "【6240元/年;不招色盲\\色弱 考生]",
+          "raw_text": "13 康复治疗学2 人【6240元/年;不招色盲\\色弱 考生]"
+        }
+      ],
+      "raw_text": "1310 福建医科大学 004 专业组( 化学+生物学) 7 人\n09 预防医学(5 年) ] 人[6760 元/年;不招色育、\n844)                08\n10 基础医学(5 年) 2 人【6760元/年;不招色言、\nEHF)\n11 医学检验技术 1 人[6240 元/年;不招色盲色 | 09\n弱考生]\n12 医学影像技术 1A (6240 元/年;不招色盲\\色   10\n弱考生]\n13 康复治疗学2 人【6240元/年;不招色盲\\色弱\n考生]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": null,
+      "planned_enrollment": 2,
+      "heading_raw": "1310 福建医科大学 005 专业组(化学+生物学| 2人   1313",
+      "majors": [
+        {
+          "major_code": "14",
+          "name": "药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 6760,
+          "notes": "[6760 元/年;不招色盲:色弱考生] I",
+          "raw_text": "14 药学2 人[6760 元/年;不招色盲:色弱考生] I"
+        }
+      ],
+      "raw_text": "1310 福建医科大学 005 专业组(化学+生物学| 2人   1313\n14 药学2 人[6760 元/年;不招色盲:色弱考生]   I",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 2,
+      "heading_raw": "1310 福建医科大学 006 专业组(化学+生物学) 2 人",
+      "majors": [
+        {
+          "major_code": "15",
+          "name": "生物信息学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5460,
+          "notes": "[5460 元/年;不招色盲.色弱 12 考生]",
+          "raw_text": "15 生物信息学 2人 [5460 元/年;不招色盲.色弱 12 考生]"
+        }
+      ],
+      "raw_text": "1310 福建医科大学 006 专业组(化学+生物学) 2 人\n15 生物信息学 2人 [5460 元/年;不招色盲.色弱   12\n考生]",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 6,
+  "major_count": 14,
+  "validation": {
+    "groups_ok_or_sum_corrected": 2,
+    "groups_requiring_visual_review": 4,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/1310_福建医科大学_p031_c1.jpg",
+    "source_crops/1310_福建医科大学_p031_c2.jpg"
+  ],
+  "raw_text": "--- PDF第31页（书内第80页），第1栏 ---\n1310 福建医科大学 001 专业组(不限) 4人\nOl 公共事业管理 1 人 (5460 元/年;不招单色识\n。80 .\n\n--- PDF第31页（书内第80页），第2栏 ---\n别能力异常考生]\n02 “运动康复工人【5040元/年]         10\n03 应用心理学 1 人 (500 元/年;不招色盲\\色能\n考生]                  1313\n4 “医疗保险 LA (5400 元/年;不招单色识别能   03\n力异常考生]\n1310 福建医科大学 002 专业组( 化学) 7人    1313\n05 PEE SA (6700 4/4; FBER EBS   4\n4)\n06 BEE LA (6100 元/年;不招色育\\色能考\n生]                   1313\n1310 福建医科大学 003 专业组( 化学+生物学)    05\nuA\n07 BREF(S#) 9A (6700 元/年;不招色盲、\n色弱考生]                06\n08 口腔医学(5年) 2人【6760 t/F; KER,\nE44)                7\n1310 福建医科大学 004 专业组( 化学+生物学) 7 人\n09 预防医学(5 年) ] 人[6760 元/年;不招色育、\n844)                08\n10 基础医学(5 年) 2 人【6760元/年;不招色言、\nEHF)\n11 医学检验技术 1 人[6240 元/年;不招色盲色 | 09\n弱考生]\n12 医学影像技术 1A (6240 元/年;不招色盲\\色   10\n弱考生]\n13 康复治疗学2 人【6240元/年;不招色盲\\色弱\n考生]\n1310 福建医科大学 005 专业组(化学+生物学| 2人   1313\n14 药学2 人[6760 元/年;不招色盲:色弱考生]   I\n1310 福建医科大学 006 专业组(化学+生物学) 2 人\n15 生物信息学 2人 [5460 元/年;不招色盲.色弱   12\n考生]"
+}

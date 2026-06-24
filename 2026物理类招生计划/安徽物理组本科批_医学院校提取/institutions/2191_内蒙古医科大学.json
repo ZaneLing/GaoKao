@@ -1,0 +1,163 @@
+{
+  "institution_code": "2191",
+  "institution_name": "内蒙古医科大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    106,
+    107
+  ],
+  "printed_pages": [
+    155,
+    156
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 106,
+      "printed_page": 155,
+      "column": 3
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 156,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "001",
+      "selection_requirement": "化学+、生物学",
+      "planned_enrollment": 4,
+      "heading_raw": "2191 内蒙古医科大学 001 专业组(化学+ 、     生物学) 4人",
+      "majors": [],
+      "raw_text": "2191 内蒙古医科大学 001 专业组(化学+ 、     生物学) 4人\n、     生物学) 4人\nJ   Ol 临床医学(5 年) 4A (500 元/年]\n155+\n物理科目组合普通本科批，",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "002",
+      "selection_requirement": null,
+      "planned_enrollment": 5,
+      "heading_raw": "2191 内蒙古医科大学 002 专业组( 化学+ 生物学| 5人",
+      "majors": [
+        {
+          "major_code": "02",
+          "name": "麻醉学(5年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000 元/年]",
+          "raw_text": "02 麻醉学(5年) 2人【5000 元/年]"
+        },
+        {
+          "major_code": "03",
+          "name": "医学影像学(5年)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000元/年]",
+          "raw_text": "03 医学影像学(5年) 3人【5000元/年]"
+        }
+      ],
+      "raw_text": "2191 内蒙古医科大学 002 专业组( 化学+ 生物学| 5人\n02 麻醉学(5年) 2人【5000 元/年]\n03 医学影像学(5年) 3人【5000元/年]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "003",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 1,
+      "heading_raw": "2191 内蒙古医科大学 003 专业组( 化学+ 生物学) 14",
+      "majors": [
+        {
+          "major_code": "04",
+          "name": "口腔医学(5年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 5000,
+          "notes": "[5000 元/年]",
+          "raw_text": "04 口腔医学(5年) 1 人[5000 元/年]"
+        }
+      ],
+      "raw_text": "2191 内蒙古医科大学 003 专业组( 化学+ 生物学) 14\n04 口腔医学(5年) 1 人[5000 元/年]",
+      "parsed_major_plan_sum": 1,
+      "validation_status": "sum-corrected",
+      "heading_planned_enrollment_ocr": null
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": null,
+      "planned_enrollment": 5,
+      "heading_raw": "2191 内蒙古医科大学 004 专业组( 化学+ 生物学| 5人",
+      "majors": [
+        {
+          "major_code": "05",
+          "name": "“护理学",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 5000,
+          "notes": "[5000 元/年]",
+          "raw_text": "05 “护理学5人[5000 元/年]"
+        }
+      ],
+      "raw_text": "2191 内蒙古医科大学 004 专业组( 化学+ 生物学| 5人\n05 “护理学5人[5000 元/年]",
+      "parsed_major_plan_sum": 5,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学+生物学",
+      "planned_enrollment": 4,
+      "heading_raw": "2191 内蒙古医科大学 005 专业组( 化学+ 生物学) 4人",
+      "majors": [
+        {
+          "major_code": "06",
+          "name": "精神医学(5年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5000,
+          "notes": "[5000元/年]",
+          "raw_text": "06 精神医学(5年) 4人[5000元/年]"
+        }
+      ],
+      "raw_text": "2191 内蒙古医科大学 005 专业组( 化学+ 生物学) 4人\n06 精神医学(5年) 4人[5000元/年]",
+      "parsed_major_plan_sum": 4,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": null,
+      "planned_enrollment": 6,
+      "heading_raw": "2191 内蒙古医科大学 006 专业组( 生物学| 6人",
+      "majors": [
+        {
+          "major_code": "07",
+          "name": "针灸推拿学(5 年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000元/年]",
+          "raw_text": "07 针灸推拿学(5 年) 2 人【5000元/年]"
+        },
+        {
+          "major_code": "08",
+          "name": "中医康复学(5 年)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 5000,
+          "notes": "【5000 元/年]",
+          "raw_text": "08 中医康复学(5 年) 4 人【5000 元/年]"
+        }
+      ],
+      "raw_text": "2191 内蒙古医科大学 006 专业组( 生物学| 6人\n07 针灸推拿学(5 年) 2 人【5000元/年]\n08 中医康复学(5 年) 4 人【5000 元/年]",
+      "parsed_major_plan_sum": 6,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 6,
+  "major_count": 7,
+  "validation": {
+    "groups_ok_or_sum_corrected": 5,
+    "groups_requiring_visual_review": 1,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/2191_内蒙古医科大学_p106_c3.jpg",
+    "source_crops/2191_内蒙古医科大学_p107_c1.jpg"
+  ],
+  "raw_text": "--- PDF第106页（书内第155页），第3栏 ---\n2191 内蒙古医科大学 001 专业组(化学+\n、     生物学) 4人\nJ   Ol 临床医学(5 年) 4A (500 元/年]\n155+\n\n--- PDF第107页（书内第156页），第1栏 ---\n物理科目组合普通本科批，\n2191 内蒙古医科大学 002 专业组( 化学+\n生物学| 5人\n02 麻醉学(5年) 2人【5000 元/年]\n03 医学影像学(5年) 3人【5000元/年]\n2191 内蒙古医科大学 003 专业组( 化学+\n生物学) 14\n04 口腔医学(5年) 1 人[5000 元/年]\n2191 内蒙古医科大学 004 专业组( 化学+\n生物学| 5人\n05 “护理学5人[5000 元/年]\n2191 内蒙古医科大学 005 专业组( 化学+\n生物学) 4人\n06 精神医学(5年) 4人[5000元/年]\n2191 内蒙古医科大学 006 专业组( 生物学| 6人\n07 针灸推拿学(5 年) 2 人【5000元/年]\n08 中医康复学(5 年) 4 人【5000 元/年]"
+}

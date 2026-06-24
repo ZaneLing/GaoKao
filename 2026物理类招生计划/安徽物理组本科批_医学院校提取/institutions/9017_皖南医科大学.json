@@ -1,0 +1,323 @@
+{
+  "institution_code": "9017",
+  "institution_name": "皖南医科大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    207
+  ],
+  "printed_pages": [
+    256
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 207,
+      "printed_page": 256,
+      "column": 2
+    },
+    {
+      "pdf_page": 207,
+      "printed_page": 256,
+      "column": 3
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "004",
+      "selection_requirement": "不限",
+      "planned_enrollment": 130,
+      "heading_raw": "9017 eA 004 专业组(不限】 130 人",
+      "majors": [
+        {
+          "major_code": "47",
+          "name": "法学",
+          "planned_enrollment": 20,
+          "tuition_yuan_per_year": 4900,
+          "notes": "[4900元/年] 74",
+          "raw_text": "47 法学20 人[4900元/年] 74"
+        },
+        {
+          "major_code": "48",
+          "name": "应用心理学",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年;不招色盲、色 BF) 7",
+          "raw_text": "48 应用心理学 30 人【5200 元/年;不招色盲、色 BF) 7"
+        },
+        {
+          "major_code": "49",
+          "name": "公共事业管理",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": null,
+          "notes": "【4900 4/4)",
+          "raw_text": "49 公共事业管理 30 人【4900 4/4)"
+        },
+        {
+          "major_code": "50",
+          "name": "医疗保险",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 4900,
+          "notes": "[4900元/年] 76",
+          "raw_text": "50 医疗保险 30 人[4900元/年] 76"
+        },
+        {
+          "major_code": "51",
+          "name": "司法鉴定学",
+          "planned_enrollment": 20,
+          "tuition_yuan_per_year": 4900,
+          "notes": "【4900元/年]",
+          "raw_text": "51 司法鉴定学 20 人【4900元/年]"
+        }
+      ],
+      "raw_text": "9017 eA 004 专业组(不限】 130 人\n47 法学20 人[4900元/年]           74\n48 应用心理学 30 人【5200 元/年;不招色盲、色\nBF)                  7\n49 公共事业管理 30 人【4900 4/4)\n50 医疗保险 30 人[4900元/年]         76\n51 司法鉴定学 20 人【4900元/年]",
+      "parsed_major_plan_sum": 130,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": 68,
+      "heading_raw": "9017 皖南医科大学 005 专业组(化学) 68 人    11",
+      "majors": [
+        {
+          "major_code": "52",
+          "name": "口腔医学(5 年) 68 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6050,
+          "notes": "6050 元/年;不招色 讶\\色弱考生]",
+          "raw_text": "52 口腔医学(5 年) 68 A (6050 元/年;不招色 讶\\色弱考生]"
+        }
+      ],
+      "raw_text": "9017 皖南医科大学 005 专业组(化学) 68 人    11\n52 口腔医学(5 年) 68 A (6050 元/年;不招色\n讶\\色弱考生]",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学",
+      "planned_enrollment": 397,
+      "heading_raw": "9017 ENA S 006 专业组(化学) 397 人",
+      "majors": [],
+      "raw_text": "9017 ENA S 006 专业组(化学) 397 人\n533 临床医学(5 年) 397 人【6050 元/年;不招色\nW684)",
+      "parsed_major_plan_sum": null,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学",
+      "planned_enrollment": 249,
+      "heading_raw": "9017 RENAE 007 专业组(化学) 249 人   9102",
+      "majors": [
+        {
+          "major_code": "54",
+          "name": "麻醉学(5 年)",
+          "planned_enrollment": 123,
+          "tuition_yuan_per_year": 6050,
+          "notes": "【6050 元/年;不招色言、 05 : bHF4) 06 ，",
+          "raw_text": "54 麻醉学(5 年) 123 人【6050 元/年;不招色言、 05 : bHF4) 06 ，"
+        },
+        {
+          "major_code": "55",
+          "name": "医学影像学(5 #) 126 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6050,
+          "notes": "6050 元/年;不招 01 : 色盲色弱考生] 08",
+          "raw_text": "55医学影像学(5 #) 126 A (6050 元/年;不招 01 : 色盲色弱考生] 08"
+        }
+      ],
+      "raw_text": "9017 RENAE 007 专业组(化学) 249 人   9102\n54 麻醉学(5 年) 123 人【6050 元/年;不招色言、   05 :\nbHF4)                06 ，\n55医学影像学(5 #) 126 A (6050 元/年;不招   01 :\n色盲色弱考生]              08",
+      "parsed_major_plan_sum": 123,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "008",
+      "selection_requirement": "化学",
+      "planned_enrollment": 391,
+      "heading_raw": "9017 皖南医科大学 008 专业组(化学) 391 人   09 |",
+      "majors": [
+        {
+          "major_code": "56",
+          "name": "法医学(5 年) 103 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 6050,
+          "notes": "6050 元/年;不招色育、 10 3 色弱考生] 让",
+          "raw_text": "56 法医学(5 年) 103 A (6050 元/年;不招色育、 10 3 色弱考生] 让"
+        },
+        {
+          "major_code": "57",
+          "name": "基础医学(5 年) 28 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;不招色 12 讶色弱考生] 13",
+          "raw_text": "57 基础医学(5 年) 28 A (5500 元/年;不招色 12 讶色弱考生] 13"
+        },
+        {
+          "major_code": "58",
+          "name": "预防医学(5 年) 202 A (6050 元/年;不招色 9102 讶,色弱考生] 14 ， 359 临床药学(5 年)",
+          "planned_enrollment": 58,
+          "tuition_yuan_per_year": 6050,
+          "notes": "【5500 元/年;不招色 15 1 F684) 9102",
+          "raw_text": "58 预防医学(5 年) 202 A (6050 元/年;不招色 9102 讶,色弱考生] 14 ， 359 临床药学(5 年) 58 人【5500 元/年;不招色 15 1 F684) 9102"
+        }
+      ],
+      "raw_text": "9017 皖南医科大学 008 专业组(化学) 391 人   09 |\n56 法医学(5 年) 103 A (6050 元/年;不招色育、   10 3\n色弱考生]               让\n57 基础医学(5 年) 28 A (5500 元/年;不招色   12\n讶色弱考生]              13\n58 预防医学(5 年) 202 A (6050 元/年;不招色   9102\n讶,色弱考生]               14 ，\n359 临床药学(5 年) 58 人【5500 元/年;不招色   15 1\nF684)               9102",
+      "parsed_major_plan_sum": 58,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "009",
+      "selection_requirement": "化学",
+      "planned_enrollment": 600,
+      "heading_raw": "9017 皖南医科大学 009 专业组(化学) 600 人   16 4",
+      "majors": [
+        {
+          "major_code": "60",
+          "name": "医学影像技术 30 A (5500 4/4; 4B EF, 17 3 EHF) 18 4",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": null,
+          "notes": null,
+          "raw_text": "60 医学影像技术 30 A (5500 4/4; 4B EF, 17 3 EHF) 18 4"
+        },
+        {
+          "major_code": "61",
+          "name": "口腔医学技术 30 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;不招色盲、 19 。 色弱考生] 20 |",
+          "raw_text": "61 口腔医学技术 30 A (5500 元/年;不招色盲、 19 。 色弱考生] 20 |"
+        },
+        {
+          "major_code": "62",
+          "name": "智能医学工程 150 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;不招色育、 riba EHF) 2",
+          "raw_text": "62 智能医学工程 150 A (5500 元/年;不招色育、 riba EHF) 2"
+        },
+        {
+          "major_code": "63",
+          "name": "医学信息工程",
+          "planned_enrollment": 9,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200元/年] 23 1",
+          "raw_text": "63 医学信息工程 9 人【5200元/年] 23 1"
+        },
+        {
+          "major_code": "64",
+          "name": "生物医学工程",
+          "planned_enrollment": 1530,
+          "tuition_yuan_per_year": 5200,
+          "notes": "【5200 元/年;不招色育、 24 EHF 2) bey,",
+          "raw_text": "64 生物医学工程 1530 人【5200 元/年;不招色育、 24 EHF 2) bey,"
+        },
+        {
+          "major_code": "65",
+          "name": "生物制药 90 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5200,
+          "notes": "5200 元/年;不招色盲色弱 26 I #4) 7}",
+          "raw_text": "65 生物制药 90 A (5200 元/年;不招色盲色弱 26 I #4) 7}"
+        },
+        {
+          "major_code": "66",
+          "name": "RAL FE",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;不招色盲色弱 28 1 考生] 29 4",
+          "raw_text": "66 RAL FE 30 人【5500 元/年;不招色盲色弱 28 1 考生] 29 4"
+        },
+        {
+          "major_code": "67",
+          "name": "老年医学与健康",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;不招色 30 W684) 31 iy",
+          "raw_text": "67 老年医学与健康 30 人【5500 元/年;不招色 30 W684) 31 iy"
+        }
+      ],
+      "raw_text": "9017 皖南医科大学 009 专业组(化学) 600 人   16 4\n60 医学影像技术 30 A (5500 4/4; 4B EF,   17 3\nEHF)                18 4\n61 口腔医学技术 30 A (5500 元/年;不招色盲、   19 。\n色弱考生]               20 |\n62 智能医学工程 150 A (5500 元/年;不招色育、   riba\nEHF)                 2\n63 医学信息工程 9 人【5200元/年]       23 1\n64 生物医学工程 1530 人【5200 元/年;不招色育、   24\nEHF 2)                bey,\n65 生物制药 90 A (5200 元/年;不招色盲色弱   26 I\n#4)                7}\n66 RAL FE 30 人【5500 元/年;不招色盲色弱   28 1\n考生]                  29 4\n67 老年医学与健康 30 人【5500 元/年;不招色   30\nW684)               31 iy",
+      "parsed_major_plan_sum": 1599,
+      "validation_status": "review"
+    },
+    {
+      "group_code": "010",
+      "selection_requirement": "化学",
+      "planned_enrollment": 935,
+      "heading_raw": "9017 皖南医科大学 010 专业组(化学) 935 人   32 7",
+      "majors": [
+        {
+          "major_code": "68",
+          "name": "药学",
+          "planned_enrollment": 144,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;不招色盲、色弱考 33 生] 34 5",
+          "raw_text": "68 药学 144 人【5500 元/年;不招色盲、色弱考 33 生] 34 5"
+        },
+        {
+          "major_code": "69",
+          "name": "中药学 60 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;不招色盲、色弱考 35 4 4) 36 3",
+          "raw_text": "69 中药学 60 A (5500 元/年;不招色盲、色弱考 35 4 4) 36 3"
+        },
+        {
+          "major_code": "10",
+          "name": "医学检验技术 86 A (5500 元/年;不招色盲、 6844) Tl 卫生检验与检疫 56 A (5500 元/年;不招色 W684) TL 康复治疗学",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;不招色育、色 能考生]",
+          "raw_text": "10 医学检验技术 86 A (5500 元/年;不招色盲、 6844) Tl 卫生检验与检疫 56 A (5500 元/年;不招色 W684) TL 康复治疗学 30 人【5500 元/年;不招色育、色 能考生]"
+        },
+        {
+          "major_code": "73",
+          "name": "食品卫生与营养学",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【5500 元/年;不招色 讶.色弱考生]",
+          "raw_text": "73 食品卫生与营养学 30 人【5500 元/年;不招色 讶.色弱考生]"
+        },
+        {
+          "major_code": "74",
+          "name": "护理学",
+          "planned_enrollment": 413,
+          "tuition_yuan_per_year": 6050,
+          "notes": "【6050 元/年;不招色育、色弱考 生]",
+          "raw_text": "74 护理学 413 人【6050 元/年;不招色育、色弱考 生]"
+        },
+        {
+          "major_code": "75",
+          "name": "BER 30 A (",
+          "planned_enrollment": null,
+          "tuition_yuan_per_year": 5500,
+          "notes": "5500 元/年;不招色育、色弱考 4)",
+          "raw_text": "75 BER 30 A (5500 元/年;不招色育、色弱考 4)"
+        },
+        {
+          "major_code": "16",
+          "name": "药物制剂 56 A (5500 元/年;不招色盲\\色弱 考生] Tl 护理学",
+          "planned_enrollment": 30,
+          "tuition_yuan_per_year": 5500,
+          "notes": "【6050 元/年;与安徽师范大学开 展\"护理学+心理学\"联合学士学位培养项目， 符合联合培养单位各自的学位授予标准,学位 证书由皖南医科大学颁发,安徽师范大学在证 书上予以注骨,不单独发放学位证书，具体详 见学校招生章程;不招色盲色弱考生]",
+          "raw_text": "16 药物制剂 56 A (5500 元/年;不招色盲\\色弱 考生] Tl 护理学 30 人【6050 元/年;与安徽师范大学开 展\"护理学+心理学\"联合学士学位培养项目， 符合联合培养单位各自的学位授予标准,学位 证书由皖南医科大学颁发,安徽师范大学在证 书上予以注骨,不单独发放学位证书，具体详 见学校招生章程;不招色盲色弱考生]"
+        }
+      ],
+      "raw_text": "9017 皖南医科大学 010 专业组(化学) 935 人   32 7\n68 药学 144 人【5500 元/年;不招色盲、色弱考   33\n生]                    34 5\n69 中药学 60 A (5500 元/年;不招色盲、色弱考   35 4\n4)                    36 3\n10 医学检验技术 86 A (5500 元/年;不招色盲、\n6844)\nTl 卫生检验与检疫 56 A (5500 元/年;不招色\nW684)\nTL 康复治疗学 30 人【5500 元/年;不招色育、色\n能考生]\n73 食品卫生与营养学 30 人【5500 元/年;不招色\n讶.色弱考生]\n74 护理学 413 人【6050 元/年;不招色育、色弱考\n生]\n75 BER 30 A (5500 元/年;不招色育、色弱考\n4)\n16 药物制剂 56 A (5500 元/年;不招色盲\\色弱\n考生]\nTl 护理学 30 人【6050 元/年;与安徽师范大学开\n展\"护理学+心理学\"联合学士学位培养项目，\n符合联合培养单位各自的学位授予标准,学位\n证书由皖南医科大学颁发,安徽师范大学在证\n书上予以注骨,不单独发放学位证书，具体详\n见学校招生章程;不招色盲色弱考生]",
+      "parsed_major_plan_sum": 647,
+      "validation_status": "review"
+    }
+  ],
+  "group_count": 7,
+  "major_count": 26,
+  "validation": {
+    "groups_ok_or_sum_corrected": 1,
+    "groups_requiring_visual_review": 6,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/9017_皖南医科大学_p207_c2.jpg",
+    "source_crops/9017_皖南医科大学_p207_c3.jpg"
+  ],
+  "raw_text": "--- PDF第207页（书内第256页），第2栏 ---\n9017 eA 004 专业组(不限】 130 人\n47 法学20 人[4900元/年]           74\n48 应用心理学 30 人【5200 元/年;不招色盲、色\nBF)                  7\n49 公共事业管理 30 人【4900 4/4)\n50 医疗保险 30 人[4900元/年]         76\n51 司法鉴定学 20 人【4900元/年]\n9017 皖南医科大学 005 专业组(化学) 68 人    11\n52 口腔医学(5 年) 68 A (6050 元/年;不招色\n讶\\色弱考生]\n9017 ENA S 006 专业组(化学) 397 人\n533 临床医学(5 年) 397 人【6050 元/年;不招色\nW684)\n9017 RENAE 007 专业组(化学) 249 人   9102\n54 麻醉学(5 年) 123 人【6050 元/年;不招色言、   05 :\nbHF4)                06 ，\n55医学影像学(5 #) 126 A (6050 元/年;不招   01 :\n色盲色弱考生]              08\n9017 皖南医科大学 008 专业组(化学) 391 人   09 |\n56 法医学(5 年) 103 A (6050 元/年;不招色育、   10 3\n色弱考生]               让\n57 基础医学(5 年) 28 A (5500 元/年;不招色   12\n讶色弱考生]              13\n58 预防医学(5 年) 202 A (6050 元/年;不招色   9102\n讶,色弱考生]               14 ，\n359 临床药学(5 年) 58 人【5500 元/年;不招色   15 1\nF684)               9102\n9017 皖南医科大学 009 专业组(化学) 600 人   16 4\n60 医学影像技术 30 A (5500 4/4; 4B EF,   17 3\nEHF)                18 4\n61 口腔医学技术 30 A (5500 元/年;不招色盲、   19 。\n色弱考生]               20 |\n62 智能医学工程 150 A (5500 元/年;不招色育、   riba\nEHF)                 2\n63 医学信息工程 9 人【5200元/年]       23 1\n64 生物医学工程 1530 人【5200 元/年;不招色育、   24\nEHF 2)                bey,\n65 生物制药 90 A (5200 元/年;不招色盲色弱   26 I\n#4)                7}\n66 RAL FE 30 人【5500 元/年;不招色盲色弱   28 1\n考生]                  29 4\n67 老年医学与健康 30 人【5500 元/年;不招色   30\nW684)               31 iy\n9017 皖南医科大学 010 专业组(化学) 935 人   32 7\n68 药学 144 人【5500 元/年;不招色盲、色弱考   33\n生]                    34 5\n69 中药学 60 A (5500 元/年;不招色盲、色弱考   35 4\n4)                    36 3\n\n--- PDF第207页（书内第256页），第3栏 ---\n10 医学检验技术 86 A (5500 元/年;不招色盲、\n6844)\nTl 卫生检验与检疫 56 A (5500 元/年;不招色\nW684)\nTL 康复治疗学 30 人【5500 元/年;不招色育、色\n能考生]\n73 食品卫生与营养学 30 人【5500 元/年;不招色\n讶.色弱考生]\n74 护理学 413 人【6050 元/年;不招色育、色弱考\n生]\n75 BER 30 A (5500 元/年;不招色育、色弱考\n4)\n16 药物制剂 56 A (5500 元/年;不招色盲\\色弱\n考生]\nTl 护理学 30 人【6050 元/年;与安徽师范大学开\n展\"护理学+心理学\"联合学士学位培养项目，\n符合联合培养单位各自的学位授予标准,学位\n证书由皖南医科大学颁发,安徽师范大学在证\n书上予以注骨,不单独发放学位证书，具体详\n见学校招生章程;不招色盲色弱考生]"
+}

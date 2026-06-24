@@ -1,0 +1,240 @@
+{
+  "institution_code": "3089",
+  "institution_name": "中国药科大学",
+  "source_pdf": "物理报考指导(1)_加水印_加水印.pdf",
+  "section": "安徽省普通高校招生物理科目组合普通本科批",
+  "pdf_pages": [
+    185,
+    186
+  ],
+  "printed_pages": [
+    234,
+    235
+  ],
+  "source_columns": [
+    {
+      "pdf_page": 185,
+      "printed_page": 234,
+      "column": 3
+    },
+    {
+      "pdf_page": 186,
+      "printed_page": 235,
+      "column": 1
+    }
+  ],
+  "groups": [
+    {
+      "group_code": "003",
+      "selection_requirement": "化学",
+      "planned_enrollment": 3,
+      "heading_raw": "3089 中国药科大学 003 专业组(化学) 3人",
+      "majors": [
+        {
+          "major_code": "10",
+          "name": "药学(杰出药学家实验班)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年 ABER EHS)",
+          "raw_text": "10 药学(杰出药学家实验班) 3 人【7480 元/年 ABER EHS)"
+        }
+      ],
+      "raw_text": "3089 中国药科大学 003 专业组(化学) 3人\n10 药学(杰出药学家实验班) 3 人【7480 元/年\nABER EHS)",
+      "parsed_major_plan_sum": 3,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "004",
+      "selection_requirement": "化学",
+      "planned_enrollment": 72,
+      "heading_raw": "3089 中国药科大学 004 专业组(化学) 72 人",
+      "majors": [
+        {
+          "major_code": "11",
+          "name": "药学(拔失创新班)",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年;不招色 F684)",
+          "raw_text": "11 药学(拔失创新班) 4 人【7480 元/年;不招色 F684)"
+        },
+        {
+          "major_code": "12",
+          "name": "药学类",
+          "planned_enrollment": 43,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年;含药学、药物制剂、 药物分析、药物化学;不招色盲、色弱者]",
+          "raw_text": "12 药学类 43 人【7480 元/年;含药学、药物制剂、 药物分析、药物化学;不招色盲、色弱者]"
+        },
+        {
+          "major_code": "13",
+          "name": "中药学(拔失创新班)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年;不招 色盲\\色弱者]",
+          "raw_text": "13 中药学(拔失创新班) 3 人【7480 元/年;不招 色盲\\色弱者]"
+        },
+        {
+          "major_code": "14",
+          "name": "中药学类",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年;含中药学、中药 资源与开发、中药制药;不招色言\\色弱者]",
+          "raw_text": "14 中药学类 10 人【7480 元/年;含中药学、中药 资源与开发、中药制药;不招色言\\色弱者]"
+        },
+        {
+          "major_code": "15",
+          "name": "”化妆品科学与技术",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年;不招色 F684)",
+          "raw_text": "15 ”化妆品科学与技术4 人【7480 元/年;不招色 F684)"
+        },
+        {
+          "major_code": "16",
+          "name": "生物医药教据科学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6800,
+          "notes": "【6800 元/年]",
+          "raw_text": "16 生物医药教据科学 3 人【6800 元/年]"
+        },
+        {
+          "major_code": "17",
+          "name": "化工与制药类",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 5800,
+          "notes": "【5800 元/年;仿制药工程、 食品营养与健康、环境科学;不招色盲色弱 者]",
+          "raw_text": "17 化工与制药类 5 人【5800 元/年;仿制药工程、 食品营养与健康、环境科学;不招色盲色弱 者]"
+        }
+      ],
+      "raw_text": "3089 中国药科大学 004 专业组(化学) 72 人\n11 药学(拔失创新班) 4 人【7480 元/年;不招色\nF684)\n12 药学类 43 人【7480 元/年;含药学、药物制剂、\n药物分析、药物化学;不招色盲、色弱者]\n13 中药学(拔失创新班) 3 人【7480 元/年;不招\n色盲\\色弱者]\n14 中药学类 10 人【7480 元/年;含中药学、中药\n资源与开发、中药制药;不招色言\\色弱者]\n15 ”化妆品科学与技术4 人【7480 元/年;不招色\nF684)\n16 生物医药教据科学 3 人【6800 元/年]\n17 化工与制药类 5 人【5800 元/年;仿制药工程、\n食品营养与健康、环境科学;不招色盲色弱\n者]",
+      "parsed_major_plan_sum": 72,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "005",
+      "selection_requirement": "化学",
+      "planned_enrollment": 30,
+      "heading_raw": "3089 中国药科大学 005 专业组(化学) 30 人",
+      "majors": [
+        {
+          "major_code": "18",
+          "name": "生物制药(拔失创新班)",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": 6380,
+          "notes": "【6380 元/年;不 招色盲\\色弱者]",
+          "raw_text": "18 生物制药(拔失创新班) 3 人【6380 元/年;不 招色盲\\色弱者]"
+        },
+        {
+          "major_code": "19",
+          "name": "生物制药",
+          "planned_enrollment": 10,
+          "tuition_yuan_per_year": 6380,
+          "notes": "【6380 元/年;不招色盲、色弱 者]",
+          "raw_text": "19 生物制药 10 人【6380 元/年;不招色盲、色弱 者]"
+        },
+        {
+          "major_code": "20",
+          "name": "生物技术",
+          "planned_enrollment": 4,
+          "tuition_yuan_per_year": 6050,
+          "notes": "【6050 元/年;不招色盲色弱 4)",
+          "raw_text": "20 生物技术 4 人【6050 元/年;不招色盲色弱 4)"
+        },
+        {
+          "major_code": "21",
+          "name": "海洋药学",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 7480,
+          "notes": "【7480 元/年;不招色讶色弱 者]",
+          "raw_text": "21 海洋药学 2 人【7480 元/年;不招色讶色弱 者]"
+        },
+        {
+          "major_code": "22",
+          "name": "”生物统计学",
+          "planned_enrollment": 3,
+          "tuition_yuan_per_year": null,
+          "notes": "【5200 4/4)",
+          "raw_text": "22 ”生物统计学 3 人【5200 4/4)"
+        },
+        {
+          "major_code": "23",
+          "name": "“生物医学工程",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 5800,
+          "notes": "(5800 元/年;不招色盲、色 84)",
+          "raw_text": "23 “生物医学工程 2人 (5800 元/年;不招色盲、色 84)"
+        },
+        {
+          "major_code": "24",
+          "name": "临床药学(卓越药师实验班) (5 年)",
+          "planned_enrollment": 1,
+          "tuition_yuan_per_year": 6800,
+          "notes": "[6800 元/年;不招色盲\\色弱者]",
+          "raw_text": "24 临床药学(卓越药师实验班) (5 年) 1 人 [6800 元/年;不招色盲\\色弱者]"
+        },
+        {
+          "major_code": "25",
+          "name": "临床药学(5年)",
+          "planned_enrollment": 5,
+          "tuition_yuan_per_year": 6800,
+          "notes": "[6800 元/年;不招色言、 色弱者]",
+          "raw_text": "25 临床药学(5年) 5 人[6800 元/年;不招色言、 色弱者]"
+        }
+      ],
+      "raw_text": "3089 中国药科大学 005 专业组(化学) 30 人\n18 生物制药(拔失创新班) 3 人【6380 元/年;不\n招色盲\\色弱者]\n19 生物制药 10 人【6380 元/年;不招色盲、色弱\n者]\n20 生物技术 4 人【6050 元/年;不招色盲色弱\n4)\n21 海洋药学 2 人【7480 元/年;不招色讶色弱\n者]\n22 ”生物统计学 3 人【5200 4/4)\n23 “生物医学工程 2人 (5800 元/年;不招色盲、色\n84)\n24 临床药学(卓越药师实验班) (5 年) 1 人\n[6800 元/年;不招色盲\\色弱者]\n25 临床药学(5年) 5 人[6800 元/年;不招色言、\n色弱者]",
+      "parsed_major_plan_sum": 30,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "006",
+      "selection_requirement": "化学",
+      "planned_enrollment": 8,
+      "heading_raw": "3089 中国药科大学 006 专业组(化学) 8人",
+      "majors": [
+        {
+          "major_code": "26",
+          "name": "药学(中外合作办学)",
+          "planned_enrollment": 8,
+          "tuition_yuan_per_year": 26400,
+          "notes": "【26400 元/年;不 招色谨、色弱者;第四学年赴英国学习,国外学 费另算]",
+          "raw_text": "26 药学(中外合作办学) 8 人【26400 元/年;不 招色谨、色弱者;第四学年赴英国学习,国外学 费另算]"
+        }
+      ],
+      "raw_text": "3089 中国药科大学 006 专业组(化学) 8人\n26 药学(中外合作办学) 8 人【26400 元/年;不\n招色谨、色弱者;第四学年赴英国学习,国外学\n费另算]",
+      "parsed_major_plan_sum": 8,
+      "validation_status": "ok"
+    },
+    {
+      "group_code": "007",
+      "selection_requirement": "化学",
+      "planned_enrollment": 2,
+      "heading_raw": "3089 中国药科大学 007 专业组(化学) 2 人",
+      "majors": [
+        {
+          "major_code": "27",
+          "name": "临床药学(中外合作办学) (5年)",
+          "planned_enrollment": 2,
+          "tuition_yuan_per_year": 26400,
+          "notes": "[26400 元/年;不招色盲色弱者;第三\\四学年赴英国 学习,第五学年在国内学习,国外学费另算)",
+          "raw_text": "27 临床药学(中外合作办学) (5年) 2 人[26400 元/年;不招色盲色弱者;第三\\四学年赴英国 学习,第五学年在国内学习,国外学费另算)"
+        }
+      ],
+      "raw_text": "3089 中国药科大学 007 专业组(化学) 2 人\n27 临床药学(中外合作办学) (5年) 2 人[26400\n元/年;不招色盲色弱者;第三\\四学年赴英国\n学习,第五学年在国内学习,国外学费另算)",
+      "parsed_major_plan_sum": 2,
+      "validation_status": "ok"
+    }
+  ],
+  "group_count": 5,
+  "major_count": 18,
+  "validation": {
+    "groups_ok_or_sum_corrected": 5,
+    "groups_requiring_visual_review": 0,
+    "extraction_warning": null,
+    "note": "结构化字段由双层OCR与组内人数求和校验生成；raw_text及source_crops保留原始依据。"
+  },
+  "source_crops": [
+    "source_crops/3089_中国药科大学_p185_c3.jpg",
+    "source_crops/3089_中国药科大学_p186_c1.jpg"
+  ],
+  "raw_text": "--- PDF第185页（书内第234页），第3栏 ---\n3089 中国药科大学 003 专业组(化学) 3人\n10 药学(杰出药学家实验班) 3 人【7480 元/年\nABER EHS)\n3089 中国药科大学 004 专业组(化学) 72 人\n11 药学(拔失创新班) 4 人【7480 元/年;不招色\nF684)\n12 药学类 43 人【7480 元/年;含药学、药物制剂、\n药物分析、药物化学;不招色盲、色弱者]\n13 中药学(拔失创新班) 3 人【7480 元/年;不招\n色盲\\色弱者]\n14 中药学类 10 人【7480 元/年;含中药学、中药\n资源与开发、中药制药;不招色言\\色弱者]\n15 ”化妆品科学与技术4 人【7480 元/年;不招色\nF684)\n16 生物医药教据科学 3 人【6800 元/年]\n17 化工与制药类 5 人【5800 元/年;仿制药工程、\n食品营养与健康、环境科学;不招色盲色弱\n者]\n3089 中国药科大学 005 专业组(化学) 30 人\n18 生物制药(拔失创新班) 3 人【6380 元/年;不\n招色盲\\色弱者]\n19 生物制药 10 人【6380 元/年;不招色盲、色弱\n者]\n20 生物技术 4 人【6050 元/年;不招色盲色弱\n4)\n21 海洋药学 2 人【7480 元/年;不招色讶色弱\n者]\n22 ”生物统计学 3 人【5200 4/4)\n23 “生物医学工程 2人 (5800 元/年;不招色盲、色\n84)\n24 临床药学(卓越药师实验班) (5 年) 1 人\n[6800 元/年;不招色盲\\色弱者]\n25 临床药学(5年) 5 人[6800 元/年;不招色言、\n色弱者]\n3089 中国药科大学 006 专业组(化学) 8人\n26 药学(中外合作办学) 8 人【26400 元/年;不\n招色谨、色弱者;第四学年赴英国学习,国外学\n费另算]\n3089 中国药科大学 007 专业组(化学) 2 人\n27 临床药学(中外合作办学) (5年) 2 人[26400\n元/年;不招色盲色弱者;第三\\四学年赴英国\n\n--- PDF第186页（书内第235页），第1栏 ---\n学习,第五学年在国内学习,国外学费另算)"
+}
